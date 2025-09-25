@@ -1,0 +1,3001 @@
+years_experience,education,job_title,location,company_size,salary,skill_score
+4.8,Bachelor,Lead,Remote,Small,68871.0,52.2
+3.0,Bachelor,Developer,Mumbai,Medium,52625.0,33.1
+2.8,Master,Lead,Pune,Small,69697.0,38.6
+2.8,Master,Manager,Remote,Small,95767.0,36.6
+9.3,High School,Developer,Delhi,Medium,60221.0,65.9
+5.7,Bachelor,Manager,Hyderabad,Small,91377.0,59.1
+2.3,Bachelor,Junior Developer,Mumbai,Large,59270.0,35.8
+4.9,Bachelor,Developer,Remote,Medium,76237.0,60.0
+4.0,High School,Lead,Bangalore,Medium,68164.0,57.3
+0.4,High School,Junior Developer,Pune,Medium,46756.0,39.7
+1.3,Bachelor,Manager,Remote,Medium,82109.0,28.7
+4.2,Bachelor,Manager,Remote,Small,65164.0,36.5
+8.7,High School,Lead,Remote,Large,91263.0,48.0
+2.8,Bachelor,Junior Developer,Hyderabad,Large,61118.0,47.9
+2.1,Master,Analyst,Bangalore,Small,53789.0,24.2
+3.6,Master,Data Scientist,Bangalore,Small,79822.0,47.6
+2.0,Bachelor,Senior Developer,Delhi,Small,57802.0,25.2
+2.6,Bachelor,Lead,Hyderabad,Medium,80998.0,46.0
+3.3,PhD,Manager,Remote,Medium,86835.0,40.1
+1.3,Bachelor,Developer,Mumbai,Large,72025.0,47.2
+5.9,Bachelor,Junior Developer,Hyderabad,Medium,50844.0,59.1
+1.1,Bachelor,Data Scientist,Hyderabad,Medium,69546.0,47.7
+0.9,High School,Senior Developer,Bangalore,Medium,64329.0,47.3
+3.9,Bachelor,Developer,Delhi,Medium,56611.0,43.1
+5.6,Master,Junior Developer,Delhi,Medium,74929.0,35.2
+3.8,Bachelor,Data Scientist,Hyderabad,Medium,89104.0,30.9
+3.0,Bachelor,Lead,Hyderabad,Medium,78988.0,18.1
+2.6,Master,Data Scientist,Pune,Medium,90978.0,27.0
+2.3,High School,Lead,Remote,Medium,68462.0,37.6
+6.9,Bachelor,Analyst,Bangalore,Medium,68492.0,45.1
+4.2,Bachelor,Junior Developer,Remote,Medium,41579.0,40.8
+2.4,Bachelor,Data Scientist,Mumbai,Medium,90679.0,42.1
+1.9,High School,Senior Developer,Mumbai,Medium,58644.0,32.7
+5.2,Bachelor,Data Scientist,Delhi,Medium,89669.0,34.4
+6.8,Bachelor,Junior Developer,Bangalore,Medium,67315.0,49.9
+6.4,Bachelor,Developer,Remote,Small,46889.0,40.2
+1.6,Bachelor,Developer,Delhi,Small,42320.0,32.1
+2.6,Bachelor,Data Scientist,Mumbai,Medium,81403.0,51.2
+2.2,High School,Data Scientist,Hyderabad,Medium,75846.0,33.9
+2.9,Bachelor,Lead,Bangalore,Large,93599.0,56.4
+5.9,High School,Junior Developer,Bangalore,Medium,54006.0,62.0
+8.2,Master,Lead,Remote,Medium,91767.0,48.8
+4.4,Bachelor,Senior Developer,Pune,Small,57137.0,32.1
+1.9,Bachelor,Analyst,Remote,Small,53137.0,35.2
+3.2,Master,Developer,Hyderabad,Medium,66418.0,51.1
+9.2,Bachelor,Manager,Hyderabad,Small,84150.0,52.7
+3.6,Bachelor,Manager,Delhi,Medium,101652.0,49.9
+2.6,Master,Junior Developer,Bangalore,Medium,46612.0,49.9
+2.8,Master,Junior Developer,Delhi,Medium,65874.0,30.7
+4.3,Bachelor,Manager,Hyderabad,Large,91478.0,36.1
+1.7,High School,Junior Developer,Pune,Medium,50486.0,42.2
+2.2,Bachelor,Developer,Bangalore,Small,32043.0,38.1
+6.3,Master,Senior Developer,Hyderabad,Large,104818.0,42.0
+4.3,High School,Senior Developer,Pune,Large,69947.0,39.4
+3.6,Bachelor,Lead,Remote,Small,64267.0,40.1
+6.5,Master,Developer,Mumbai,Small,65483.0,33.9
+1.8,High School,Analyst,Hyderabad,Small,44655.0,43.1
+2.6,Master,Junior Developer,Mumbai,Small,43965.0,33.0
+4.2,Bachelor,Junior Developer,Delhi,Large,55874.0,14.8
+4.1,Bachelor,Analyst,Mumbai,Medium,72397.0,42.1
+0.9,High School,Lead,Hyderabad,Medium,51141.0,25.3
+2.4,Master,Lead,Mumbai,Large,96126.0,54.1
+2.9,Bachelor,Junior Developer,Bangalore,Medium,75125.0,32.8
+4.5,Bachelor,Junior Developer,Hyderabad,Medium,44256.0,32.5
+4.0,Bachelor,Analyst,Pune,Large,82182.0,47.1
+3.1,Master,Developer,Mumbai,Large,72512.0,32.7
+0.4,PhD,Analyst,Bangalore,Large,92872.0,23.4
+3.3,Bachelor,Lead,Delhi,Medium,85835.0,45.0
+3.5,Bachelor,Analyst,Delhi,Medium,73032.0,30.1
+14.6,PhD,Analyst,Mumbai,Small,96598.0,59.2
+2.9,Bachelor,Analyst,Delhi,Medium,78711.0,56.0
+4.2,Bachelor,Developer,Pune,Large,60685.0,48.4
+7.2,High School,Data Scientist,Hyderabad,Small,74274.0,49.0
+5.7,Master,Junior Developer,Bangalore,Medium,68362.0,47.1
+8.4,Bachelor,Manager,Remote,Medium,87824.0,60.3
+0.9,Bachelor,Analyst,Mumbai,Small,48513.0,42.4
+1.4,Bachelor,Manager,Delhi,Medium,88092.0,26.6
+2.1,High School,Data Scientist,Hyderabad,Small,58743.0,40.0
+0.7,Bachelor,Junior Developer,Remote,Medium,60927.0,27.0
+3.5,High School,Lead,Pune,Small,52291.0,38.6
+1.5,Bachelor,Manager,Delhi,Large,106435.0,36.1
+9.2,Bachelor,Lead,Delhi,Small,89252.0,57.5
+1.7,Bachelor,Manager,Bangalore,Small,78289.0,42.5
+2.6,Master,Lead,Pune,Small,70278.0,42.7
+5.9,Master,Analyst,Pune,Large,80654.0,32.6
+1.1,Master,Manager,Mumbai,Medium,94056.0,19.7
+0.7,High School,Lead,Remote,Medium,47114.0,28.4
+3.8,High School,Data Scientist,Bangalore,Medium,69572.0,59.7
+4.1,Bachelor,Developer,Mumbai,Medium,47340.0,33.8
+5.8,Master,Lead,Bangalore,Small,97367.0,45.3
+4.9,Master,Developer,Pune,Medium,71748.0,39.3
+4.2,Master,Developer,Bangalore,Small,64688.0,37.1
+1.9,Bachelor,Junior Developer,Bangalore,Large,63511.0,37.5
+4.0,Bachelor,Analyst,Bangalore,Medium,67336.0,56.0
+4.1,Bachelor,Data Scientist,Hyderabad,Medium,97885.0,46.9
+1.8,High School,Developer,Hyderabad,Small,26714.0,27.4
+10.8,High School,Senior Developer,Remote,Medium,72453.0,89.9
+4.7,Master,Analyst,Remote,Small,68376.0,44.9
+1.4,Bachelor,Developer,Pune,Small,29230.0,28.4
+5.8,Bachelor,Lead,Bangalore,Small,101373.0,61.5
+6.5,High School,Developer,Pune,Medium,50229.0,44.8
+4.5,Master,Lead,Hyderabad,Medium,93136.0,60.1
+2.7,Bachelor,Lead,Bangalore,Medium,90455.0,29.4
+1.7,Bachelor,Senior Developer,Mumbai,Small,66720.0,49.4
+3.1,Master,Developer,Hyderabad,Medium,64505.0,41.3
+4.3,Bachelor,Developer,Hyderabad,Medium,57641.0,55.8
+3.4,Bachelor,Manager,Hyderabad,Small,67767.0,59.2
+8.7,High School,Analyst,Bangalore,Small,50948.0,44.8
+5.2,High School,Manager,Remote,Large,94538.0,58.4
+1.6,Master,Junior Developer,Delhi,Large,70751.0,20.7
+1.3,Master,Lead,Mumbai,Large,108369.0,23.4
+4.7,Bachelor,Senior Developer,Mumbai,Large,84436.0,36.1
+2.8,Bachelor,Manager,Pune,Small,66502.0,43.4
+5.5,Bachelor,Developer,Bangalore,Small,59454.0,46.8
+4.7,High School,Junior Developer,Remote,Medium,50889.0,42.4
+3.1,Bachelor,Senior Developer,Hyderabad,Medium,76386.0,40.8
+1.6,Bachelor,Data Scientist,Delhi,Large,90891.0,40.7
+0.8,Bachelor,Developer,Bangalore,Medium,59955.0,39.1
+3.9,Master,Developer,Bangalore,Medium,95231.0,52.6
+1.0,Bachelor,Data Scientist,Remote,Small,67921.0,51.2
+1.5,High School,Lead,Delhi,Large,66506.0,34.3
+3.7,Bachelor,Lead,Hyderabad,Large,85710.0,35.9
+3.5,Master,Manager,Bangalore,Small,97004.0,46.6
+1.2,Bachelor,Manager,Mumbai,Large,85562.0,22.2
+7.0,High School,Developer,Mumbai,Small,46355.0,44.2
+6.9,Bachelor,Analyst,Delhi,Small,63843.0,60.7
+4.8,Master,Developer,Hyderabad,Medium,79881.0,43.2
+4.8,Bachelor,Manager,Delhi,Medium,104082.0,32.3
+4.8,Master,Data Scientist,Bangalore,Small,96517.0,29.5
+6.5,PhD,Manager,Mumbai,Medium,101699.0,50.0
+5.3,Master,Developer,Pune,Large,84968.0,57.3
+1.7,Bachelor,Senior Developer,Delhi,Medium,73044.0,46.4
+2.8,Bachelor,Developer,Pune,Medium,54648.0,39.5
+13.6,High School,Senior Developer,Pune,Small,55358.0,90.9
+0.5,PhD,Senior Developer,Remote,Small,64786.0,30.5
+2.3,Bachelor,Developer,Mumbai,Small,36265.0,35.5
+7.0,High School,Analyst,Delhi,Small,34880.0,25.3
+1.8,Bachelor,Analyst,Pune,Small,48577.0,30.9
+5.4,Bachelor,Junior Developer,Bangalore,Small,39417.0,54.7
+3.5,Bachelor,Manager,Remote,Medium,108002.0,56.1
+1.9,Bachelor,Analyst,Hyderabad,Medium,58450.0,27.4
+0.4,Bachelor,Lead,Remote,Large,91150.0,35.8
+3.8,Master,Developer,Hyderabad,Small,43047.0,51.9
+1.7,Bachelor,Senior Developer,Mumbai,Medium,65159.0,35.2
+3.0,Bachelor,Developer,Delhi,Small,45775.0,16.2
+4.8,Bachelor,Manager,Delhi,Medium,86335.0,46.9
+6.1,Bachelor,Data Scientist,Hyderabad,Small,76822.0,55.9
+2.3,Master,Analyst,Bangalore,Large,80856.0,27.4
+1.9,Bachelor,Analyst,Hyderabad,Medium,57929.0,33.2
+1.0,Bachelor,Analyst,Hyderabad,Medium,72841.0,21.4
+6.3,High School,Senior Developer,Delhi,Small,59626.0,23.2
+12.4,Master,Lead,Pune,Medium,110636.0,77.5
+6.8,Bachelor,Lead,Bangalore,Medium,92917.0,50.4
+7.8,Master,Analyst,Delhi,Small,77501.0,69.4
+1.8,High School,Lead,Remote,Medium,62937.0,44.0
+4.6,Bachelor,Data Scientist,Hyderabad,Large,94634.0,40.3
+5.8,Bachelor,Analyst,Pune,Medium,67935.0,46.6
+1.3,Master,Junior Developer,Bangalore,Large,76854.0,39.6
+9.6,Bachelor,Senior Developer,Mumbai,Large,104210.0,68.5
+0.8,Master,Data Scientist,Bangalore,Large,99677.0,35.6
+8.6,Bachelor,Senior Developer,Bangalore,Medium,88343.0,66.9
+0.8,Bachelor,Analyst,Hyderabad,Medium,56043.0,29.4
+1.4,High School,Data Scientist,Hyderabad,Medium,71071.0,24.2
+4.7,Master,Analyst,Mumbai,Medium,74612.0,43.5
+3.5,Bachelor,Data Scientist,Mumbai,Large,96547.0,42.6
+2.4,Master,Analyst,Mumbai,Small,74531.0,25.2
+9.3,Master,Junior Developer,Delhi,Medium,73339.0,44.5
+1.0,Master,Senior Developer,Delhi,Small,67082.0,37.5
+3.0,Bachelor,Data Scientist,Hyderabad,Small,62422.0,34.9
+5.1,Bachelor,Junior Developer,Hyderabad,Small,40726.0,43.6
+4.1,Master,Developer,Mumbai,Medium,67269.0,38.7
+2.0,High School,Analyst,Delhi,Small,34367.0,51.2
+2.0,Bachelor,Manager,Pune,Medium,86173.0,48.6
+6.0,High School,Data Scientist,Delhi,Medium,77567.0,35.6
+6.2,Bachelor,Lead,Hyderabad,Small,76040.0,43.3
+4.2,High School,Junior Developer,Delhi,Small,33372.0,51.1
+1.6,High School,Junior Developer,Hyderabad,Medium,28554.0,40.8
+2.1,Bachelor,Data Scientist,Mumbai,Medium,82010.0,35.9
+3.3,Bachelor,Junior Developer,Mumbai,Large,63219.0,28.5
+3.6,Bachelor,Developer,Mumbai,Large,77674.0,34.0
+5.0,High School,Junior Developer,Pune,Large,54054.0,39.8
+2.8,Bachelor,Manager,Pune,Medium,82305.0,41.2
+6.0,High School,Manager,Hyderabad,Large,98192.0,65.0
+5.9,Bachelor,Analyst,Bangalore,Large,93460.0,40.8
+8.0,Bachelor,Analyst,Remote,Large,86334.0,43.7
+3.4,Bachelor,Lead,Pune,Small,73180.0,39.1
+4.2,Master,Developer,Hyderabad,Large,82205.0,52.9
+3.0,Bachelor,Manager,Delhi,Medium,101520.0,24.5
+1.6,Master,Data Scientist,Mumbai,Medium,102805.0,49.3
+12.2,Bachelor,Senior Developer,Mumbai,Small,84934.0,64.9
+7.3,Bachelor,Senior Developer,Mumbai,Medium,89149.0,44.6
+5.8,Bachelor,Senior Developer,Hyderabad,Small,55947.0,31.4
+3.3,High School,Analyst,Mumbai,Small,33582.0,47.0
+1.5,Bachelor,Data Scientist,Pune,Small,71257.0,32.8
+6.5,Bachelor,Junior Developer,Delhi,Large,67549.0,51.2
+3.0,Bachelor,Data Scientist,Mumbai,Small,72649.0,30.0
+4.5,High School,Junior Developer,Hyderabad,Medium,48607.0,40.3
+2.1,High School,Senior Developer,Delhi,Small,33297.0,31.4
+4.0,Master,Lead,Mumbai,Medium,89722.0,41.0
+2.2,Bachelor,Lead,Bangalore,Small,65520.0,29.9
+2.3,High School,Junior Developer,Mumbai,Small,17510.0,21.6
+4.0,Bachelor,Senior Developer,Remote,Medium,79958.0,69.3
+0.8,Bachelor,Data Scientist,Pune,Medium,67726.0,18.8
+0.9,Master,Lead,Delhi,Small,71093.0,34.5
+1.8,High School,Junior Developer,Pune,Small,32864.0,17.7
+2.8,Bachelor,Data Scientist,Bangalore,Small,80768.0,18.4
+6.1,Master,Senior Developer,Bangalore,Large,88335.0,49.3
+2.9,High School,Developer,Remote,Medium,46260.0,40.4
+3.3,Bachelor,Senior Developer,Pune,Medium,70918.0,52.5
+2.6,PhD,Analyst,Delhi,Small,90864.0,41.8
+4.2,Bachelor,Senior Developer,Bangalore,Medium,76632.0,41.1
+1.6,Bachelor,Data Scientist,Bangalore,Small,72070.0,25.3
+3.1,High School,Data Scientist,Mumbai,Small,60348.0,54.3
+4.5,High School,Manager,Remote,Medium,73046.0,52.8
+3.9,Bachelor,Manager,Hyderabad,Medium,84194.0,29.2
+3.4,Master,Data Scientist,Bangalore,Small,97769.0,40.6
+3.4,Bachelor,Data Scientist,Delhi,Medium,85944.0,41.6
+4.8,Master,Developer,Delhi,Large,83122.0,40.9
+12.6,Master,Developer,Mumbai,Medium,98314.0,75.5
+1.7,Bachelor,Senior Developer,Delhi,Medium,48532.0,43.4
+12.8,High School,Analyst,Mumbai,Large,94831.0,66.5
+1.7,Bachelor,Lead,Bangalore,Large,88843.0,32.3
+0.3,Master,Analyst,Bangalore,Medium,72080.0,45.9
+2.2,Master,Developer,Bangalore,Medium,57773.0,45.9
+4.3,High School,Senior Developer,Bangalore,Small,47559.0,43.6
+10.9,Bachelor,Analyst,Hyderabad,Medium,81711.0,46.4
+1.5,Bachelor,Junior Developer,Remote,Small,52077.0,37.9
+4.8,Master,Manager,Remote,Small,97627.0,51.4
+1.0,High School,Analyst,Hyderabad,Medium,58124.0,5.5
+10.7,Bachelor,Lead,Bangalore,Small,84864.0,64.6
+7.4,Master,Senior Developer,Delhi,Medium,83998.0,48.0
+2.3,Bachelor,Analyst,Mumbai,Medium,57354.0,34.7
+8.2,Bachelor,Data Scientist,Remote,Medium,87494.0,45.5
+3.0,High School,Junior Developer,Pune,Small,11578.0,37.5
+7.7,Bachelor,Manager,Mumbai,Small,85601.0,67.0
+3.3,Bachelor,Junior Developer,Pune,Medium,44117.0,35.4
+3.5,Master,Senior Developer,Pune,Large,87597.0,50.2
+2.3,Bachelor,Developer,Bangalore,Small,45654.0,28.8
+5.2,Bachelor,Manager,Pune,Small,85300.0,53.2
+3.7,Bachelor,Junior Developer,Bangalore,Large,62281.0,41.1
+4.8,High School,Developer,Hyderabad,Small,32948.0,47.9
+0.7,Bachelor,Lead,Delhi,Large,69693.0,32.2
+7.8,Master,Senior Developer,Pune,Medium,82998.0,59.8
+9.2,Master,Senior Developer,Delhi,Medium,84620.0,31.9
+3.6,Bachelor,Manager,Bangalore,Medium,95929.0,26.6
+12.0,Bachelor,Junior Developer,Pune,Small,63274.0,70.2
+10.2,High School,Lead,Mumbai,Medium,93909.0,40.2
+5.3,Master,Data Scientist,Hyderabad,Large,114656.0,40.6
+8.3,High School,Manager,Remote,Medium,85532.0,54.4
+6.9,Master,Data Scientist,Hyderabad,Medium,97624.0,42.4
+0.5,Bachelor,Manager,Pune,Medium,77023.0,24.6
+2.7,Master,Junior Developer,Hyderabad,Small,36340.0,40.8
+5.6,Master,Lead,Remote,Medium,99135.0,56.9
+9.6,Master,Junior Developer,Mumbai,Medium,73802.0,49.2
+0.9,Bachelor,Senior Developer,Delhi,Medium,55829.0,26.9
+0.6,Bachelor,Data Scientist,Mumbai,Medium,75588.0,24.5
+3.2,Bachelor,Developer,Hyderabad,Medium,47464.0,15.4
+0.3,Master,Analyst,Remote,Large,73944.0,32.3
+3.1,High School,Senior Developer,Delhi,Medium,68740.0,48.6
+4.4,PhD,Senior Developer,Remote,Small,76016.0,53.4
+1.4,Master,Data Scientist,Mumbai,Medium,75780.0,25.5
+3.2,Bachelor,Manager,Bangalore,Medium,89887.0,27.1
+6.5,Master,Senior Developer,Bangalore,Medium,86750.0,49.7
+2.1,Bachelor,Analyst,Delhi,Large,69401.0,44.6
+1.7,Bachelor,Lead,Delhi,Medium,72380.0,36.6
+3.1,Bachelor,Senior Developer,Delhi,Medium,71940.0,42.2
+1.3,Bachelor,Lead,Bangalore,Medium,78129.0,45.3
+11.4,Master,Junior Developer,Mumbai,Small,68601.0,56.8
+3.4,Bachelor,Manager,Delhi,Small,84101.0,38.0
+1.8,Bachelor,Lead,Bangalore,Large,85161.0,51.7
+3.9,Bachelor,Senior Developer,Delhi,Medium,67907.0,39.7
+3.1,Master,Manager,Delhi,Small,101241.0,26.6
+2.8,High School,Analyst,Remote,Small,43075.0,31.7
+2.1,Master,Manager,Delhi,Medium,104816.0,26.9
+2.1,Bachelor,Lead,Bangalore,Medium,89009.0,39.9
+0.8,Bachelor,Lead,Mumbai,Large,91808.0,23.4
+8.3,Bachelor,Developer,Bangalore,Small,64027.0,57.6
+5.1,Bachelor,Developer,Bangalore,Large,57565.0,37.9
+4.2,Master,Manager,Delhi,Medium,104033.0,21.4
+3.0,Bachelor,Data Scientist,Remote,Medium,79538.0,42.1
+1.4,Master,Data Scientist,Pune,Medium,103221.0,35.7
+1.7,High School,Developer,Pune,Small,37821.0,40.3
+0.8,Bachelor,Senior Developer,Pune,Large,68556.0,25.7
+1.9,PhD,Junior Developer,Bangalore,Small,61782.0,27.9
+1.2,Master,Manager,Delhi,Small,87741.0,37.6
+9.9,Bachelor,Junior Developer,Pune,Large,75435.0,74.9
+6.2,Bachelor,Developer,Hyderabad,Medium,52249.0,48.7
+3.5,Bachelor,Lead,Hyderabad,Large,92880.0,44.7
+1.6,Bachelor,Analyst,Hyderabad,Medium,57375.0,31.6
+1.3,Master,Manager,Mumbai,Medium,100860.0,18.5
+2.9,Master,Developer,Delhi,Large,69005.0,48.4
+6.3,Bachelor,Senior Developer,Bangalore,Small,62919.0,58.0
+0.9,Master,Analyst,Bangalore,Large,89191.0,39.8
+5.0,Bachelor,Manager,Delhi,Small,75588.0,43.2
+1.9,Bachelor,Manager,Remote,Large,85978.0,41.7
+2.2,Bachelor,Data Scientist,Remote,Small,68987.0,45.5
+3.5,Bachelor,Lead,Mumbai,Medium,76825.0,56.7
+1.6,Bachelor,Manager,Delhi,Large,90120.0,44.7
+2.8,Bachelor,Lead,Remote,Medium,76441.0,39.0
+1.5,Bachelor,Developer,Mumbai,Medium,41959.0,21.4
+2.1,High School,Senior Developer,Pune,Large,58136.0,37.9
+5.7,Master,Analyst,Pune,Medium,92833.0,49.7
+3.6,Bachelor,Analyst,Mumbai,Large,79876.0,47.9
+5.7,High School,Senior Developer,Delhi,Medium,59427.0,60.6
+1.9,Master,Manager,Pune,Small,89146.0,34.7
+5.0,Master,Manager,Delhi,Small,98539.0,66.0
+0.6,Master,Developer,Remote,Small,54155.0,14.2
+3.5,Bachelor,Data Scientist,Pune,Small,72983.0,44.7
+5.3,High School,Data Scientist,Remote,Medium,83412.0,37.9
+0.6,Bachelor,Data Scientist,Delhi,Small,53892.0,12.7
+1.9,High School,Lead,Delhi,Small,49350.0,33.7
+3.5,Master,Data Scientist,Hyderabad,Small,86311.0,25.9
+6.7,High School,Senior Developer,Mumbai,Large,82037.0,48.5
+2.1,Bachelor,Analyst,Bangalore,Medium,54906.0,36.6
+4.9,Bachelor,Analyst,Mumbai,Medium,70875.0,55.9
+8.6,Bachelor,Lead,Delhi,Large,96209.0,40.7
+5.1,Master,Developer,Delhi,Small,56984.0,54.4
+2.8,Bachelor,Senior Developer,Mumbai,Large,89798.0,39.4
+4.4,High School,Analyst,Delhi,Medium,63071.0,53.5
+2.0,Bachelor,Senior Developer,Remote,Small,46024.0,31.7
+3.6,Bachelor,Analyst,Pune,Medium,53742.0,27.5
+2.9,High School,Junior Developer,Delhi,Medium,36511.0,26.5
+4.3,Bachelor,Developer,Mumbai,Medium,59386.0,30.0
+2.4,Bachelor,Developer,Mumbai,Large,60537.0,42.0
+4.5,Master,Junior Developer,Mumbai,Small,63325.0,58.3
+2.4,Master,Lead,Hyderabad,Small,80579.0,31.6
+6.1,Master,Analyst,Remote,Small,68449.0,54.6
+2.6,Master,Analyst,Remote,Small,48068.0,22.6
+0.4,Bachelor,Analyst,Hyderabad,Small,56138.0,33.0
+1.3,High School,Data Scientist,Remote,Large,55039.0,40.6
+3.4,Bachelor,Data Scientist,Hyderabad,Small,81472.0,25.7
+9.8,Master,Data Scientist,Remote,Medium,112074.0,57.4
+6.0,PhD,Data Scientist,Hyderabad,Medium,106541.0,55.2
+0.3,Master,Data Scientist,Hyderabad,Large,108783.0,1.6
+0.8,High School,Junior Developer,Remote,Large,41095.0,45.8
+7.2,Master,Developer,Hyderabad,Medium,72899.0,55.1
+5.2,Bachelor,Lead,Remote,Large,93116.0,52.8
+13.3,High School,Senior Developer,Hyderabad,Medium,105093.0,65.8
+2.3,Bachelor,Data Scientist,Mumbai,Large,106355.0,19.7
+1.6,High School,Junior Developer,Bangalore,Medium,43809.0,40.1
+3.5,Bachelor,Analyst,Remote,Small,42698.0,39.7
+2.2,Bachelor,Lead,Hyderabad,Medium,78549.0,36.9
+6.8,Bachelor,Lead,Mumbai,Medium,83095.0,61.3
+2.2,Bachelor,Lead,Bangalore,Medium,85977.0,44.2
+2.7,Master,Junior Developer,Hyderabad,Small,49524.0,57.3
+1.4,Bachelor,Senior Developer,Bangalore,Medium,58804.0,35.7
+5.7,Bachelor,Data Scientist,Remote,Large,97049.0,40.2
+1.5,Master,Lead,Bangalore,Small,71205.0,32.6
+4.5,Master,Junior Developer,Pune,Medium,62210.0,47.7
+10.9,High School,Analyst,Delhi,Medium,61927.0,72.9
+0.5,Bachelor,Developer,Pune,Large,58220.0,16.8
+8.9,Bachelor,Analyst,Remote,Large,86804.0,56.8
+4.1,High School,Junior Developer,Remote,Medium,37776.0,58.4
+1.2,Bachelor,Junior Developer,Bangalore,Medium,44273.0,31.2
+3.6,Master,Junior Developer,Mumbai,Small,54826.0,50.1
+5.6,High School,Lead,Hyderabad,Medium,79777.0,51.7
+1.7,Master,Junior Developer,Delhi,Medium,48543.0,44.7
+4.7,Master,Developer,Hyderabad,Large,79485.0,36.0
+9.4,Master,Lead,Mumbai,Medium,115340.0,50.1
+2.2,Bachelor,Analyst,Remote,Small,51989.0,36.8
+1.4,Master,Developer,Delhi,Medium,62262.0,18.9
+3.0,Bachelor,Manager,Pune,Medium,93118.0,36.3
+3.5,Bachelor,Analyst,Remote,Small,53620.0,43.0
+7.0,High School,Junior Developer,Remote,Small,40029.0,68.8
+2.9,High School,Data Scientist,Bangalore,Small,49609.0,42.7
+2.3,Master,Data Scientist,Mumbai,Large,93172.0,43.2
+1.3,Bachelor,Lead,Bangalore,Small,75639.0,45.5
+0.6,Bachelor,Data Scientist,Bangalore,Small,59158.0,22.2
+1.0,High School,Analyst,Hyderabad,Large,61212.0,31.3
+1.0,Bachelor,Lead,Remote,Medium,69184.0,57.3
+2.7,High School,Analyst,Mumbai,Small,36430.0,37.3
+0.8,Master,Junior Developer,Bangalore,Small,49397.0,43.6
+3.2,High School,Senior Developer,Pune,Small,50008.0,49.2
+10.7,High School,Senior Developer,Delhi,Small,82283.0,47.3
+7.2,Bachelor,Developer,Mumbai,Small,50402.0,54.7
+2.7,Bachelor,Junior Developer,Hyderabad,Medium,59921.0,39.6
+15.4,Bachelor,Data Scientist,Mumbai,Small,104619.0,79.5
+3.5,Bachelor,Junior Developer,Remote,Medium,41712.0,33.0
+3.9,PhD,Manager,Hyderabad,Large,127194.0,30.5
+3.0,Bachelor,Senior Developer,Delhi,Medium,74526.0,34.2
+3.2,High School,Data Scientist,Pune,Large,83687.0,38.6
+2.1,Bachelor,Analyst,Bangalore,Medium,64330.0,48.1
+2.7,Master,Analyst,Mumbai,Medium,69624.0,56.3
+8.9,Bachelor,Senior Developer,Hyderabad,Medium,74194.0,70.7
+7.7,High School,Junior Developer,Delhi,Small,45476.0,61.7
+0.3,Master,Data Scientist,Bangalore,Small,78808.0,20.9
+0.9,Bachelor,Developer,Delhi,Medium,50159.0,28.6
+1.7,Bachelor,Analyst,Pune,Medium,60639.0,37.2
+6.4,High School,Junior Developer,Bangalore,Medium,49922.0,42.9
+7.8,High School,Developer,Bangalore,Large,54165.0,59.2
+5.6,Bachelor,Data Scientist,Bangalore,Medium,101490.0,54.0
+1.2,Bachelor,Senior Developer,Hyderabad,Medium,66369.0,39.0
+2.2,Bachelor,Manager,Bangalore,Medium,87779.0,46.9
+4.8,Bachelor,Lead,Delhi,Large,97047.0,35.4
+2.8,Bachelor,Senior Developer,Hyderabad,Large,80492.0,47.7
+2.5,Master,Developer,Bangalore,Large,81137.0,30.5
+2.5,Master,Junior Developer,Delhi,Small,53304.0,28.1
+7.3,Master,Analyst,Delhi,Medium,87343.0,57.2
+5.1,High School,Data Scientist,Mumbai,Small,82008.0,57.5
+2.6,High School,Senior Developer,Delhi,Small,56269.0,42.7
+4.2,Bachelor,Analyst,Remote,Large,70116.0,42.8
+1.0,High School,Analyst,Pune,Small,28017.0,36.1
+2.2,PhD,Manager,Bangalore,Large,132742.0,38.0
+6.8,High School,Data Scientist,Bangalore,Small,71698.0,39.1
+0.7,Bachelor,Developer,Bangalore,Large,57615.0,19.7
+5.2,Bachelor,Data Scientist,Delhi,Small,65506.0,44.8
+0.3,Bachelor,Data Scientist,Delhi,Medium,82308.0,31.7
+9.9,High School,Junior Developer,Bangalore,Small,45991.0,59.8
+2.1,Bachelor,Lead,Remote,Medium,62079.0,43.1
+4.5,Bachelor,Analyst,Hyderabad,Medium,68626.0,41.3
+3.6,Master,Developer,Hyderabad,Medium,61214.0,46.4
+3.7,High School,Junior Developer,Pune,Small,50923.0,39.7
+4.2,Master,Analyst,Mumbai,Small,62845.0,60.8
+0.6,Master,Lead,Pune,Small,69718.0,32.6
+3.8,Bachelor,Junior Developer,Bangalore,Medium,45602.0,64.8
+2.9,Master,Lead,Bangalore,Large,111023.0,42.2
+2.1,High School,Lead,Bangalore,Large,76218.0,34.2
+1.7,PhD,Lead,Mumbai,Small,83601.0,26.1
+3.9,Bachelor,Junior Developer,Delhi,Medium,57456.0,27.3
+1.4,Bachelor,Data Scientist,Mumbai,Medium,72757.0,24.3
+6.8,Bachelor,Lead,Pune,Small,80601.0,41.6
+4.7,High School,Data Scientist,Delhi,Medium,92651.0,48.0
+4.0,PhD,Analyst,Delhi,Medium,89533.0,36.7
+6.6,High School,Analyst,Pune,Small,53303.0,51.7
+0.5,Bachelor,Developer,Delhi,Small,46960.0,44.3
+1.0,Bachelor,Manager,Hyderabad,Small,88678.0,32.1
+4.9,Master,Data Scientist,Pune,Medium,106479.0,65.5
+1.8,Bachelor,Analyst,Pune,Small,52117.0,23.6
+2.0,Bachelor,Manager,Hyderabad,Small,84231.0,34.5
+0.9,Bachelor,Lead,Mumbai,Medium,70713.0,27.3
+1.4,Master,Manager,Mumbai,Small,95010.0,43.6
+6.9,High School,Manager,Mumbai,Small,71756.0,28.3
+4.8,High School,Lead,Delhi,Large,80664.0,30.0
+3.8,Bachelor,Data Scientist,Hyderabad,Small,50940.0,40.3
+2.1,Master,Lead,Pune,Medium,89411.0,51.8
+3.7,High School,Developer,Pune,Medium,39249.0,43.4
+7.3,Bachelor,Senior Developer,Pune,Medium,85489.0,38.4
+1.8,Bachelor,Junior Developer,Delhi,Medium,50722.0,23.4
+3.2,Master,Lead,Delhi,Small,89393.0,56.3
+10.3,Master,Lead,Remote,Large,101931.0,54.7
+5.5,Bachelor,Manager,Mumbai,Medium,105307.0,37.1
+2.1,Bachelor,Developer,Remote,Large,76047.0,51.1
+5.2,Bachelor,Analyst,Remote,Medium,69513.0,55.7
+0.7,High School,Analyst,Delhi,Large,64723.0,44.8
+3.1,Bachelor,Manager,Mumbai,Medium,93557.0,29.8
+5.2,Bachelor,Data Scientist,Mumbai,Large,97203.0,30.3
+4.4,Bachelor,Lead,Pune,Medium,86890.0,44.5
+5.2,Master,Lead,Delhi,Medium,82351.0,49.0
+6.0,Bachelor,Manager,Mumbai,Medium,94658.0,51.6
+4.7,Bachelor,Lead,Remote,Large,75232.0,58.9
+4.6,Bachelor,Data Scientist,Hyderabad,Large,91571.0,26.5
+3.9,Bachelor,Senior Developer,Hyderabad,Medium,75936.0,50.3
+1.2,Bachelor,Junior Developer,Delhi,Medium,50443.0,22.6
+6.9,Bachelor,Junior Developer,Pune,Small,46207.0,59.3
+3.2,Bachelor,Junior Developer,Pune,Medium,49763.0,34.9
+5.4,Master,Senior Developer,Mumbai,Small,61713.0,38.1
+6.4,Master,Lead,Delhi,Medium,93820.0,43.1
+2.2,Bachelor,Manager,Hyderabad,Large,91949.0,22.1
+2.3,High School,Analyst,Remote,Small,32328.0,37.3
+2.6,Bachelor,Developer,Mumbai,Medium,60997.0,30.1
+7.7,Bachelor,Lead,Remote,Medium,78516.0,61.0
+1.5,High School,Senior Developer,Mumbai,Small,44163.0,40.9
+8.6,Master,Data Scientist,Bangalore,Medium,90503.0,72.7
+3.9,PhD,Senior Developer,Remote,Medium,85447.0,45.4
+4.1,Master,Analyst,Delhi,Small,56497.0,47.5
+6.2,High School,Junior Developer,Remote,Large,53034.0,62.6
+3.6,Master,Lead,Remote,Large,89591.0,34.5
+6.9,Master,Analyst,Mumbai,Small,73636.0,35.8
+2.2,Bachelor,Junior Developer,Hyderabad,Small,36243.0,38.6
+8.5,Bachelor,Developer,Bangalore,Medium,80376.0,41.3
+2.3,Master,Data Scientist,Remote,Medium,93578.0,61.4
+8.7,Bachelor,Junior Developer,Hyderabad,Small,35683.0,70.7
+2.4,Bachelor,Developer,Pune,Small,31681.0,58.8
+2.7,Bachelor,Senior Developer,Bangalore,Medium,70842.0,38.7
+1.4,Bachelor,Junior Developer,Bangalore,Large,50361.0,39.7
+1.7,High School,Junior Developer,Mumbai,Medium,15653.0,30.5
+3.2,Master,Manager,Remote,Medium,107196.0,48.4
+4.0,Bachelor,Data Scientist,Pune,Large,100762.0,29.8
+6.6,Bachelor,Data Scientist,Mumbai,Medium,98368.0,24.4
+2.8,High School,Analyst,Delhi,Medium,47741.0,30.5
+4.4,Bachelor,Senior Developer,Hyderabad,Medium,75221.0,28.6
+3.8,High School,Manager,Hyderabad,Large,84965.0,56.2
+4.8,High School,Analyst,Mumbai,Medium,60239.0,62.6
+1.9,Bachelor,Developer,Hyderabad,Large,54435.0,21.7
+2.1,Bachelor,Analyst,Remote,Medium,69330.0,49.2
+1.9,Bachelor,Developer,Hyderabad,Medium,39238.0,45.2
+7.4,High School,Senior Developer,Remote,Small,64658.0,36.5
+8.5,Bachelor,Data Scientist,Delhi,Medium,96311.0,51.6
+2.1,High School,Developer,Pune,Medium,37284.0,30.5
+2.1,PhD,Senior Developer,Bangalore,Small,80536.0,43.8
+5.2,Bachelor,Analyst,Mumbai,Medium,75267.0,33.3
+9.1,Bachelor,Developer,Mumbai,Small,70134.0,56.3
+10.5,Bachelor,Lead,Remote,Large,103505.0,54.6
+2.0,High School,Junior Developer,Delhi,Small,20874.0,40.7
+2.4,PhD,Analyst,Delhi,Large,92245.0,35.0
+4.1,Bachelor,Data Scientist,Bangalore,Medium,102734.0,36.9
+4.3,Bachelor,Analyst,Pune,Small,64381.0,40.8
+2.9,Bachelor,Lead,Mumbai,Medium,89070.0,59.1
+1.7,High School,Senior Developer,Remote,Small,49765.0,30.9
+3.2,Master,Senior Developer,Delhi,Medium,85996.0,29.2
+10.4,Bachelor,Analyst,Mumbai,Medium,89070.0,67.0
+2.2,Bachelor,Lead,Remote,Small,60747.0,35.2
+3.9,High School,Analyst,Hyderabad,Large,52959.0,27.5
+15.0,High School,Junior Developer,Mumbai,Small,56552.0,97.3
+2.1,Master,Junior Developer,Pune,Medium,49659.0,32.8
+5.4,Bachelor,Manager,Remote,Medium,82360.0,42.4
+10.7,Bachelor,Developer,Pune,Medium,62638.0,63.7
+5.1,High School,Manager,Mumbai,Medium,106083.0,62.6
+7.1,Bachelor,Junior Developer,Hyderabad,Medium,58289.0,34.5
+5.9,Bachelor,Lead,Pune,Medium,86695.0,50.5
+4.8,Bachelor,Developer,Delhi,Medium,48821.0,65.3
+8.3,Bachelor,Lead,Remote,Small,61850.0,56.2
+5.3,Bachelor,Manager,Mumbai,Medium,90048.0,33.5
+2.9,Bachelor,Senior Developer,Hyderabad,Small,70306.0,32.5
+3.7,PhD,Lead,Delhi,Small,94074.0,43.2
+4.4,High School,Manager,Mumbai,Medium,89589.0,56.5
+2.4,Bachelor,Manager,Hyderabad,Medium,93709.0,33.8
+3.9,Bachelor,Manager,Delhi,Medium,87069.0,50.0
+3.5,Bachelor,Senior Developer,Pune,Medium,80104.0,26.1
+5.3,Bachelor,Senior Developer,Mumbai,Medium,71538.0,31.5
+12.6,Master,Analyst,Mumbai,Medium,105450.0,63.0
+4.0,Bachelor,Senior Developer,Pune,Small,63538.0,56.4
+9.3,Bachelor,Developer,Bangalore,Medium,54288.0,58.6
+5.2,Bachelor,Senior Developer,Delhi,Medium,68416.0,48.5
+3.8,High School,Senior Developer,Pune,Medium,45320.0,44.2
+2.3,High School,Senior Developer,Mumbai,Medium,69906.0,48.0
+3.9,Master,Lead,Delhi,Medium,91602.0,35.6
+3.7,High School,Senior Developer,Delhi,Medium,43573.0,48.0
+1.8,Bachelor,Developer,Bangalore,Medium,56606.0,27.1
+2.1,Bachelor,Manager,Mumbai,Medium,85903.0,56.1
+4.4,Bachelor,Lead,Hyderabad,Medium,69930.0,35.2
+9.2,Bachelor,Junior Developer,Bangalore,Small,66824.0,48.8
+3.2,Bachelor,Senior Developer,Bangalore,Small,62258.0,45.1
+0.8,High School,Analyst,Hyderabad,Small,35253.0,33.2
+1.3,Bachelor,Analyst,Hyderabad,Medium,55405.0,37.2
+5.5,Bachelor,Manager,Bangalore,Large,93894.0,48.8
+1.0,Bachelor,Manager,Delhi,Medium,75564.0,22.1
+6.1,Bachelor,Lead,Pune,Small,84479.0,64.4
+5.3,Bachelor,Analyst,Pune,Medium,61809.0,54.8
+3.1,High School,Junior Developer,Bangalore,Large,51377.0,52.9
+1.8,Bachelor,Data Scientist,Delhi,Large,76245.0,30.1
+2.7,High School,Analyst,Hyderabad,Medium,40855.0,42.3
+4.3,Master,Analyst,Remote,Large,86479.0,44.9
+1.0,Bachelor,Developer,Bangalore,Small,45022.0,44.3
+8.6,Bachelor,Data Scientist,Mumbai,Small,102227.0,67.4
+4.3,Bachelor,Manager,Delhi,Small,93344.0,44.8
+4.7,High School,Data Scientist,Mumbai,Medium,78554.0,28.9
+5.3,Bachelor,Analyst,Mumbai,Small,63384.0,63.7
+8.1,High School,Manager,Bangalore,Medium,88667.0,59.9
+3.9,High School,Data Scientist,Delhi,Medium,93238.0,35.6
+5.5,Bachelor,Manager,Mumbai,Medium,106192.0,50.6
+1.9,Bachelor,Manager,Delhi,Large,99157.0,20.6
+10.5,Master,Lead,Pune,Small,94603.0,72.1
+3.7,Bachelor,Junior Developer,Remote,Medium,58959.0,26.4
+1.9,Bachelor,Manager,Mumbai,Medium,94437.0,33.5
+2.3,Bachelor,Developer,Mumbai,Small,58069.0,39.3
+0.4,High School,Analyst,Delhi,Medium,30251.0,41.6
+2.3,Bachelor,Analyst,Remote,Large,71290.0,38.0
+0.2,Bachelor,Developer,Pune,Large,53277.0,36.9
+5.8,Bachelor,Senior Developer,Mumbai,Large,101651.0,47.1
+4.6,Bachelor,Manager,Bangalore,Medium,106571.0,43.5
+1.4,Master,Manager,Delhi,Medium,97063.0,35.1
+3.2,PhD,Manager,Delhi,Small,112685.0,37.7
+3.3,Bachelor,Data Scientist,Mumbai,Small,91865.0,23.0
+1.1,Bachelor,Manager,Pune,Small,74795.0,25.6
+2.8,Bachelor,Manager,Mumbai,Medium,111375.0,40.8
+3.4,Bachelor,Developer,Hyderabad,Large,64549.0,37.7
+2.7,Bachelor,Junior Developer,Mumbai,Medium,49684.0,36.5
+1.9,Bachelor,Junior Developer,Remote,Medium,50727.0,32.5
+1.4,Master,Senior Developer,Remote,Medium,69970.0,25.6
+2.7,Bachelor,Developer,Hyderabad,Medium,54083.0,33.2
+2.1,Bachelor,Manager,Remote,Large,105475.0,33.2
+5.0,Bachelor,Junior Developer,Remote,Small,40154.0,45.1
+8.4,Master,Lead,Bangalore,Medium,88240.0,59.1
+6.3,Bachelor,Lead,Delhi,Medium,89539.0,47.1
+3.5,Bachelor,Lead,Remote,Small,61430.0,30.2
+1.9,Bachelor,Manager,Delhi,Medium,94722.0,21.7
+6.2,Master,Manager,Pune,Large,119970.0,74.6
+5.3,High School,Senior Developer,Mumbai,Small,68371.0,34.6
+8.0,Master,Analyst,Bangalore,Small,81260.0,48.8
+3.9,Bachelor,Senior Developer,Hyderabad,Small,69522.0,46.9
+10.1,Bachelor,Senior Developer,Pune,Medium,76847.0,63.9
+3.9,Bachelor,Data Scientist,Bangalore,Medium,94232.0,46.9
+1.9,Bachelor,Lead,Bangalore,Medium,94548.0,31.3
+2.2,High School,Manager,Hyderabad,Medium,71891.0,39.0
+4.9,Master,Lead,Hyderabad,Large,117198.0,45.3
+2.1,Bachelor,Senior Developer,Delhi,Medium,63805.0,33.2
+10.1,Bachelor,Manager,Mumbai,Large,109384.0,62.8
+4.6,High School,Developer,Pune,Large,58570.0,54.4
+3.4,Bachelor,Junior Developer,Mumbai,Medium,58527.0,40.0
+3.7,Bachelor,Junior Developer,Pune,Medium,56694.0,40.9
+2.7,Bachelor,Senior Developer,Bangalore,Large,72706.0,48.8
+0.6,Bachelor,Analyst,Remote,Large,67676.0,41.4
+2.2,Bachelor,Lead,Remote,Small,58916.0,52.4
+9.3,PhD,Developer,Hyderabad,Small,64689.0,40.3
+3.9,Bachelor,Manager,Hyderabad,Large,93370.0,50.8
+6.8,Master,Analyst,Bangalore,Small,65593.0,56.4
+7.0,High School,Lead,Bangalore,Large,93173.0,42.1
+3.2,Bachelor,Senior Developer,Pune,Medium,77618.0,42.1
+5.3,Bachelor,Lead,Bangalore,Small,63814.0,56.4
+0.7,Bachelor,Senior Developer,Pune,Small,56216.0,23.8
+8.8,Master,Data Scientist,Mumbai,Small,89186.0,60.8
+8.3,High School,Junior Developer,Hyderabad,Small,44633.0,63.6
+4.8,High School,Analyst,Hyderabad,Medium,50618.0,33.7
+4.1,Master,Junior Developer,Remote,Medium,49789.0,40.9
+3.3,Bachelor,Lead,Remote,Large,92997.0,42.9
+7.4,Bachelor,Developer,Hyderabad,Medium,58105.0,44.2
+5.7,Bachelor,Manager,Mumbai,Medium,94872.0,38.3
+2.5,Master,Senior Developer,Mumbai,Medium,63240.0,36.1
+1.2,High School,Manager,Delhi,Medium,83972.0,41.6
+1.0,High School,Junior Developer,Pune,Medium,40567.0,39.4
+7.3,Bachelor,Developer,Remote,Small,49644.0,43.3
+3.2,Master,Developer,Pune,Small,41179.0,46.1
+4.7,Bachelor,Manager,Remote,Small,89075.0,35.7
+3.5,Bachelor,Junior Developer,Delhi,Small,35670.0,24.4
+1.0,Bachelor,Manager,Hyderabad,Medium,81373.0,29.3
+0.7,Master,Lead,Pune,Small,91896.0,43.3
+2.3,Master,Developer,Remote,Large,63971.0,43.5
+2.5,PhD,Developer,Pune,Large,87938.0,37.5
+2.5,High School,Lead,Hyderabad,Large,82497.0,33.3
+2.6,High School,Junior Developer,Bangalore,Large,53321.0,33.9
+12.1,Bachelor,Developer,Remote,Small,61456.0,67.4
+6.8,Master,Analyst,Bangalore,Medium,84611.0,39.7
+4.0,Bachelor,Data Scientist,Delhi,Small,79176.0,38.5
+3.2,Bachelor,Data Scientist,Mumbai,Large,96985.0,37.4
+3.2,Master,Data Scientist,Pune,Large,115490.0,26.1
+5.6,High School,Senior Developer,Remote,Large,60699.0,38.4
+3.1,Bachelor,Analyst,Pune,Medium,69372.0,43.4
+6.3,Bachelor,Senior Developer,Delhi,Medium,83179.0,49.0
+4.3,Bachelor,Junior Developer,Delhi,Small,48187.0,39.8
+12.2,Master,Lead,Pune,Small,105336.0,57.5
+3.0,Bachelor,Manager,Remote,Medium,85259.0,54.8
+7.1,Bachelor,Analyst,Hyderabad,Medium,55248.0,42.9
+1.3,Bachelor,Junior Developer,Hyderabad,Large,55022.0,36.4
+2.0,Bachelor,Manager,Mumbai,Small,72070.0,31.1
+11.1,Bachelor,Junior Developer,Pune,Large,68345.0,63.7
+6.1,Bachelor,Senior Developer,Pune,Medium,64261.0,52.9
+4.8,High School,Data Scientist,Remote,Large,80781.0,30.7
+14.2,High School,Lead,Pune,Large,95627.0,72.5
+3.2,Bachelor,Senior Developer,Remote,Large,57379.0,51.5
+7.1,Bachelor,Lead,Pune,Small,81802.0,68.9
+7.4,Master,Analyst,Delhi,Large,109563.0,50.9
+9.6,Master,Manager,Bangalore,Small,109050.0,59.2
+1.2,Master,Junior Developer,Pune,Small,42777.0,55.7
+3.2,Bachelor,Developer,Bangalore,Medium,55962.0,50.9
+4.3,Bachelor,Developer,Hyderabad,Large,63232.0,36.7
+9.5,Bachelor,Lead,Mumbai,Medium,95720.0,52.3
+4.6,High School,Data Scientist,Hyderabad,Large,86904.0,53.4
+7.4,High School,Data Scientist,Pune,Medium,75072.0,42.1
+1.1,Bachelor,Lead,Remote,Small,75663.0,44.2
+2.6,PhD,Senior Developer,Hyderabad,Large,86303.0,41.1
+8.3,High School,Developer,Delhi,Small,51347.0,60.1
+2.9,High School,Senior Developer,Bangalore,Large,69990.0,36.1
+3.4,Master,Manager,Remote,Medium,112007.0,33.9
+9.4,Bachelor,Developer,Remote,Medium,66527.0,72.8
+1.6,Master,Manager,Pune,Medium,92321.0,32.3
+1.9,Master,Junior Developer,Delhi,Small,45818.0,31.6
+1.0,Master,Senior Developer,Bangalore,Medium,77319.0,32.2
+9.6,Bachelor,Lead,Delhi,Small,74058.0,60.7
+6.7,Bachelor,Developer,Hyderabad,Small,45265.0,39.8
+6.6,Bachelor,Senior Developer,Pune,Small,50920.0,44.2
+2.6,Bachelor,Lead,Remote,Medium,67816.0,31.6
+0.9,Bachelor,Junior Developer,Remote,Medium,42551.0,41.2
+0.6,High School,Developer,Hyderabad,Medium,41601.0,22.9
+8.3,Bachelor,Manager,Remote,Large,90765.0,37.3
+5.0,Bachelor,Junior Developer,Mumbai,Medium,54902.0,25.3
+5.7,Master,Data Scientist,Pune,Medium,102907.0,32.4
+4.1,Master,Lead,Hyderabad,Medium,89897.0,55.9
+1.7,Bachelor,Developer,Pune,Medium,45330.0,35.3
+2.7,High School,Developer,Bangalore,Medium,42103.0,43.1
+1.4,Master,Analyst,Pune,Small,53474.0,39.6
+1.2,Bachelor,Analyst,Pune,Large,62306.0,34.2
+6.3,Master,Junior Developer,Bangalore,Medium,68991.0,48.2
+0.7,Master,Developer,Hyderabad,Small,67862.0,42.5
+1.4,High School,Lead,Pune,Medium,58850.0,35.7
+2.8,Master,Junior Developer,Delhi,Small,47055.0,52.4
+3.6,High School,Manager,Pune,Small,68786.0,47.0
+0.9,Bachelor,Junior Developer,Hyderabad,Small,29301.0,26.5
+4.6,Bachelor,Junior Developer,Remote,Medium,57986.0,38.8
+3.9,High School,Manager,Bangalore,Medium,63833.0,34.4
+8.2,Master,Data Scientist,Remote,Large,107152.0,66.8
+3.7,High School,Analyst,Hyderabad,Small,49947.0,37.0
+4.9,High School,Lead,Mumbai,Medium,73447.0,36.7
+1.8,Bachelor,Data Scientist,Remote,Medium,72033.0,38.6
+1.9,Master,Data Scientist,Pune,Small,84326.0,34.7
+1.0,Master,Data Scientist,Pune,Medium,96251.0,35.9
+1.8,Master,Analyst,Bangalore,Small,63285.0,54.3
+2.6,Bachelor,Senior Developer,Pune,Small,50790.0,46.9
+7.7,Bachelor,Analyst,Delhi,Medium,76050.0,53.4
+1.6,High School,Data Scientist,Delhi,Medium,68984.0,20.7
+12.5,High School,Senior Developer,Remote,Small,70961.0,62.5
+5.3,Bachelor,Manager,Hyderabad,Small,95466.0,53.0
+4.5,Bachelor,Analyst,Bangalore,Small,36155.0,31.8
+3.4,Bachelor,Lead,Mumbai,Small,73689.0,61.6
+3.0,Master,Data Scientist,Remote,Small,67114.0,39.1
+2.1,Bachelor,Developer,Hyderabad,Medium,71734.0,36.8
+0.9,High School,Manager,Bangalore,Medium,73055.0,26.0
+1.7,High School,Senior Developer,Bangalore,Medium,64371.0,40.1
+9.6,Master,Analyst,Remote,Medium,81917.0,47.2
+5.0,Master,Lead,Hyderabad,Medium,86575.0,66.6
+9.6,Master,Junior Developer,Hyderabad,Small,54824.0,72.0
+2.0,High School,Lead,Pune,Small,68685.0,45.8
+1.3,PhD,Lead,Mumbai,Large,116248.0,20.0
+3.4,Bachelor,Data Scientist,Delhi,Small,91349.0,42.3
+1.7,High School,Data Scientist,Pune,Small,60844.0,47.2
+4.0,PhD,Analyst,Bangalore,Small,78303.0,47.9
+0.7,Bachelor,Analyst,Mumbai,Medium,58262.0,22.1
+0.4,Bachelor,Senior Developer,Mumbai,Medium,64503.0,24.7
+4.4,High School,Analyst,Hyderabad,Large,56465.0,38.7
+9.8,Bachelor,Senior Developer,Mumbai,Large,96272.0,53.4
+4.5,Master,Data Scientist,Remote,Medium,87686.0,58.8
+5.0,Bachelor,Data Scientist,Mumbai,Medium,94535.0,25.8
+3.5,Bachelor,Developer,Bangalore,Small,48360.0,47.1
+3.8,High School,Developer,Remote,Small,34901.0,28.5
+0.9,Bachelor,Manager,Remote,Small,85201.0,23.1
+1.8,Bachelor,Data Scientist,Pune,Small,70298.0,15.3
+7.7,Bachelor,Junior Developer,Mumbai,Small,57454.0,47.6
+2.6,Bachelor,Developer,Hyderabad,Small,59612.0,52.9
+7.5,High School,Senior Developer,Pune,Medium,77453.0,55.1
+3.7,Master,Lead,Hyderabad,Large,109625.0,29.1
+3.9,Bachelor,Analyst,Mumbai,Medium,64346.0,51.9
+2.6,Bachelor,Analyst,Pune,Large,72037.0,50.1
+5.5,Bachelor,Manager,Mumbai,Medium,86454.0,47.5
+6.5,Bachelor,Developer,Bangalore,Medium,66991.0,69.8
+1.7,Master,Lead,Pune,Medium,87596.0,43.3
+0.9,PhD,Lead,Hyderabad,Small,84987.0,39.5
+0.5,Bachelor,Developer,Bangalore,Small,49218.0,23.5
+4.8,Master,Junior Developer,Delhi,Large,63938.0,50.7
+4.4,Bachelor,Junior Developer,Hyderabad,Large,74879.0,45.4
+14.8,High School,Manager,Mumbai,Small,102814.0,79.6
+3.5,Bachelor,Junior Developer,Hyderabad,Small,39435.0,33.7
+3.1,Bachelor,Manager,Delhi,Medium,89010.0,40.6
+4.1,Bachelor,Senior Developer,Hyderabad,Small,65045.0,34.1
+4.2,Master,Developer,Bangalore,Medium,80567.0,21.1
+2.9,Bachelor,Lead,Remote,Small,66613.0,48.7
+1.7,Master,Manager,Hyderabad,Medium,97552.0,20.1
+3.4,Master,Analyst,Pune,Small,61945.0,41.3
+3.3,Bachelor,Junior Developer,Delhi,Medium,64856.0,43.2
+3.3,Bachelor,Analyst,Hyderabad,Small,49649.0,43.2
+5.9,Bachelor,Manager,Delhi,Medium,95564.0,44.9
+3.4,PhD,Data Scientist,Remote,Large,123507.0,42.9
+1.0,Bachelor,Manager,Bangalore,Medium,88176.0,37.7
+2.0,High School,Junior Developer,Pune,Large,55096.0,43.3
+2.9,Bachelor,Data Scientist,Mumbai,Large,89510.0,56.0
+3.5,Bachelor,Data Scientist,Hyderabad,Large,93358.0,42.8
+4.9,High School,Junior Developer,Bangalore,Medium,56675.0,45.3
+3.5,High School,Data Scientist,Delhi,Medium,70589.0,31.4
+0.4,Bachelor,Developer,Remote,Large,54590.0,35.6
+1.1,Bachelor,Lead,Delhi,Small,68253.0,40.0
+5.1,Bachelor,Analyst,Remote,Medium,55287.0,43.4
+2.8,Bachelor,Developer,Remote,Large,57290.0,43.8
+3.7,High School,Developer,Bangalore,Medium,48301.0,38.2
+2.5,Bachelor,Junior Developer,Hyderabad,Large,58373.0,44.2
+2.0,Bachelor,Junior Developer,Mumbai,Medium,60243.0,45.1
+2.6,Bachelor,Analyst,Hyderabad,Large,83532.0,46.8
+3.8,Bachelor,Lead,Pune,Medium,72751.0,42.6
+3.3,Bachelor,Manager,Hyderabad,Medium,90490.0,29.5
+6.4,High School,Developer,Remote,Medium,53194.0,43.1
+0.8,High School,Data Scientist,Remote,Large,88731.0,38.4
+0.9,High School,Lead,Pune,Large,79548.0,57.2
+2.8,Master,Developer,Delhi,Large,76927.0,35.0
+4.9,Master,Manager,Remote,Medium,105132.0,49.3
+5.7,Master,Data Scientist,Pune,Medium,103790.0,41.5
+2.1,Master,Developer,Remote,Small,41778.0,26.6
+0.1,Bachelor,Senior Developer,Mumbai,Large,77742.0,23.5
+2.1,Bachelor,Analyst,Remote,Medium,68873.0,15.5
+4.5,Bachelor,Lead,Bangalore,Small,72341.0,57.0
+3.3,High School,Analyst,Pune,Small,42636.0,17.6
+5.1,Bachelor,Junior Developer,Hyderabad,Large,61260.0,42.7
+7.5,Master,Developer,Pune,Large,63489.0,40.7
+2.9,Bachelor,Data Scientist,Delhi,Large,94965.0,29.9
+2.3,Bachelor,Data Scientist,Remote,Medium,82014.0,50.7
+1.5,Bachelor,Lead,Pune,Medium,70900.0,36.5
+0.9,Bachelor,Lead,Mumbai,Medium,68563.0,23.0
+0.7,Bachelor,Analyst,Pune,Small,39355.0,26.2
+1.9,Master,Data Scientist,Mumbai,Large,110914.0,28.0
+6.8,Bachelor,Data Scientist,Remote,Small,94380.0,50.0
+5.4,Master,Data Scientist,Hyderabad,Medium,109859.0,47.9
+2.2,Bachelor,Developer,Remote,Medium,38645.0,55.6
+12.6,Master,Data Scientist,Delhi,Medium,121037.0,48.6
+2.0,Bachelor,Junior Developer,Bangalore,Large,53695.0,35.7
+8.0,Bachelor,Data Scientist,Hyderabad,Small,79342.0,50.8
+9.2,Bachelor,Junior Developer,Hyderabad,Medium,57704.0,67.1
+4.7,Master,Developer,Bangalore,Small,65049.0,47.6
+1.9,PhD,Lead,Pune,Small,93474.0,41.6
+2.5,High School,Junior Developer,Remote,Medium,34216.0,41.0
+3.8,High School,Developer,Pune,Small,33951.0,32.1
+0.9,Master,Data Scientist,Pune,Medium,92514.0,44.8
+1.4,Bachelor,Developer,Remote,Medium,52344.0,42.2
+1.3,Bachelor,Data Scientist,Delhi,Small,81010.0,43.1
+4.9,Bachelor,Analyst,Hyderabad,Small,45525.0,57.3
+7.4,High School,Developer,Mumbai,Medium,55960.0,56.4
+5.6,Master,Lead,Bangalore,Large,97656.0,61.6
+6.6,Master,Junior Developer,Hyderabad,Medium,65792.0,53.6
+1.7,Bachelor,Analyst,Pune,Medium,56591.0,32.9
+2.6,Bachelor,Lead,Bangalore,Medium,79826.0,37.7
+2.7,Master,Senior Developer,Mumbai,Medium,75002.0,37.9
+4.7,High School,Data Scientist,Hyderabad,Small,55502.0,38.9
+1.9,Master,Junior Developer,Hyderabad,Medium,40044.0,52.0
+6.3,Bachelor,Lead,Delhi,Medium,85551.0,51.9
+9.0,Bachelor,Junior Developer,Hyderabad,Medium,57552.0,57.9
+4.8,Master,Senior Developer,Hyderabad,Medium,77192.0,48.3
+2.5,Bachelor,Manager,Mumbai,Large,111580.0,67.3
+1.6,Bachelor,Data Scientist,Mumbai,Small,67324.0,23.5
+1.3,Bachelor,Data Scientist,Bangalore,Large,103935.0,25.4
+0.4,Bachelor,Developer,Pune,Medium,60791.0,17.4
+2.8,Bachelor,Data Scientist,Mumbai,Medium,70993.0,36.1
+2.7,PhD,Data Scientist,Bangalore,Small,96139.0,40.6
+6.1,Master,Lead,Hyderabad,Medium,92002.0,43.6
+2.0,Bachelor,Analyst,Bangalore,Medium,38706.0,30.6
+2.9,Bachelor,Data Scientist,Bangalore,Medium,74243.0,40.1
+4.1,High School,Data Scientist,Bangalore,Small,74399.0,37.3
+4.8,High School,Senior Developer,Remote,Medium,75754.0,47.5
+5.6,Bachelor,Analyst,Bangalore,Small,66421.0,57.9
+3.8,Master,Senior Developer,Mumbai,Large,96189.0,48.2
+1.0,Bachelor,Junior Developer,Remote,Large,51829.0,41.8
+4.5,Master,Junior Developer,Pune,Small,64461.0,54.4
+1.9,High School,Data Scientist,Bangalore,Large,100986.0,38.5
+7.7,Bachelor,Data Scientist,Delhi,Large,99705.0,51.5
+3.4,Bachelor,Developer,Hyderabad,Medium,38800.0,32.5
+4.0,Bachelor,Junior Developer,Hyderabad,Medium,34215.0,38.1
+15.6,High School,Lead,Remote,Medium,101775.0,71.6
+5.7,PhD,Data Scientist,Hyderabad,Medium,109024.0,54.4
+4.4,Bachelor,Lead,Hyderabad,Medium,83266.0,46.7
+3.0,Master,Data Scientist,Remote,Medium,76675.0,46.0
+1.1,Bachelor,Lead,Hyderabad,Medium,69174.0,21.7
+2.8,PhD,Manager,Bangalore,Small,98236.0,52.7
+1.6,Bachelor,Lead,Pune,Large,86863.0,30.5
+9.8,Master,Analyst,Remote,Medium,79411.0,48.4
+4.5,High School,Junior Developer,Delhi,Medium,34701.0,39.1
+7.5,Master,Data Scientist,Remote,Large,103723.0,77.3
+2.0,Master,Junior Developer,Mumbai,Medium,69667.0,32.1
+1.7,High School,Analyst,Delhi,Medium,52358.0,31.8
+5.3,High School,Analyst,Mumbai,Large,74497.0,44.0
+1.5,Bachelor,Lead,Remote,Large,75809.0,33.0
+2.3,Master,Senior Developer,Mumbai,Small,46969.0,29.1
+10.1,Bachelor,Senior Developer,Delhi,Medium,80015.0,61.7
+2.4,Bachelor,Analyst,Bangalore,Large,65867.0,48.0
+0.8,High School,Senior Developer,Remote,Medium,54392.0,35.5
+0.5,High School,Data Scientist,Remote,Medium,92286.0,20.4
+0.7,Master,Developer,Hyderabad,Small,54961.0,28.7
+7.8,High School,Manager,Remote,Small,97488.0,47.9
+2.1,Bachelor,Lead,Remote,Medium,78750.0,36.8
+15.3,Master,Developer,Bangalore,Medium,85561.0,89.2
+9.1,Bachelor,Senior Developer,Hyderabad,Large,93983.0,55.8
+11.7,Bachelor,Lead,Pune,Medium,109645.0,64.2
+6.7,High School,Developer,Mumbai,Small,59037.0,67.9
+5.1,Bachelor,Junior Developer,Delhi,Small,39597.0,54.1
+1.6,High School,Senior Developer,Pune,Large,67225.0,40.5
+3.3,Master,Developer,Hyderabad,Medium,53166.0,59.5
+5.5,Bachelor,Data Scientist,Bangalore,Medium,97597.0,51.4
+6.5,Bachelor,Junior Developer,Delhi,Large,79427.0,29.6
+1.2,Bachelor,Senior Developer,Mumbai,Medium,68718.0,41.9
+2.9,High School,Manager,Remote,Small,60461.0,22.8
+3.1,Master,Analyst,Remote,Large,82081.0,43.8
+3.0,Bachelor,Senior Developer,Pune,Large,81340.0,21.9
+1.3,Bachelor,Data Scientist,Mumbai,Small,74249.0,29.2
+10.8,High School,Manager,Hyderabad,Large,106030.0,58.8
+2.8,Bachelor,Manager,Mumbai,Medium,90209.0,30.7
+1.4,High School,Manager,Bangalore,Medium,85768.0,30.7
+11.0,Bachelor,Lead,Pune,Large,109890.0,73.3
+9.1,Bachelor,Lead,Pune,Large,92335.0,50.2
+3.7,Master,Analyst,Bangalore,Small,57315.0,46.6
+2.3,Bachelor,Manager,Mumbai,Small,78565.0,27.2
+0.7,Master,Analyst,Bangalore,Small,65295.0,30.2
+4.8,Master,Junior Developer,Delhi,Medium,64784.0,47.6
+2.1,High School,Manager,Bangalore,Small,64055.0,26.3
+3.3,Bachelor,Developer,Mumbai,Medium,59692.0,26.8
+10.3,High School,Manager,Bangalore,Small,82954.0,65.8
+2.0,Bachelor,Lead,Hyderabad,Medium,84044.0,47.2
+4.7,Master,Lead,Remote,Small,82064.0,43.3
+5.7,Bachelor,Developer,Bangalore,Large,68878.0,42.5
+7.6,Bachelor,Developer,Remote,Small,52052.0,54.4
+3.1,Bachelor,Senior Developer,Bangalore,Medium,81720.0,39.9
+2.8,Bachelor,Junior Developer,Mumbai,Large,57043.0,40.8
+2.8,High School,Junior Developer,Delhi,Medium,42821.0,13.1
+4.4,Master,Junior Developer,Delhi,Small,52236.0,32.5
+8.9,Bachelor,Data Scientist,Remote,Small,86216.0,48.2
+2.7,Master,Lead,Mumbai,Medium,86163.0,39.6
+0.2,Bachelor,Junior Developer,Mumbai,Medium,47283.0,32.5
+6.2,Bachelor,Senior Developer,Mumbai,Medium,87263.0,55.0
+3.5,Bachelor,Senior Developer,Hyderabad,Medium,62504.0,43.1
+4.9,High School,Junior Developer,Pune,Medium,31165.0,31.7
+0.7,Bachelor,Developer,Bangalore,Medium,41068.0,46.6
+2.1,Master,Senior Developer,Mumbai,Medium,70835.0,49.0
+5.8,Master,Analyst,Mumbai,Large,95363.0,34.8
+1.0,Bachelor,Developer,Mumbai,Small,31753.0,36.3
+4.7,Bachelor,Analyst,Delhi,Medium,64017.0,38.1
+3.2,High School,Lead,Mumbai,Small,67346.0,41.0
+1.8,Master,Data Scientist,Bangalore,Medium,96933.0,45.9
+1.6,High School,Senior Developer,Mumbai,Large,66116.0,56.1
+1.3,Master,Developer,Bangalore,Medium,64127.0,41.4
+3.5,Bachelor,Analyst,Hyderabad,Large,73857.0,43.4
+3.8,Bachelor,Junior Developer,Pune,Medium,47806.0,38.0
+2.5,Master,Analyst,Delhi,Large,80313.0,39.3
+1.3,High School,Analyst,Bangalore,Medium,68483.0,47.5
+4.6,Bachelor,Lead,Remote,Small,75674.0,43.4
+6.3,Bachelor,Manager,Hyderabad,Small,105445.0,40.0
+5.2,Bachelor,Manager,Pune,Medium,88424.0,29.4
+12.0,Bachelor,Junior Developer,Pune,Small,55320.0,71.1
+2.9,Bachelor,Lead,Pune,Medium,67143.0,41.2
+8.3,Master,Lead,Bangalore,Medium,95123.0,48.4
+1.9,High School,Lead,Hyderabad,Large,92015.0,46.0
+1.7,Master,Lead,Mumbai,Medium,85224.0,30.9
+3.7,High School,Manager,Remote,Medium,92754.0,39.8
+9.5,Bachelor,Developer,Hyderabad,Large,67053.0,58.3
+2.6,Bachelor,Lead,Hyderabad,Large,79772.0,34.3
+0.7,High School,Developer,Hyderabad,Small,26670.0,34.5
+6.2,High School,Analyst,Bangalore,Medium,59890.0,60.1
+3.1,PhD,Analyst,Remote,Medium,86585.0,27.9
+4.2,Bachelor,Lead,Bangalore,Medium,87006.0,47.5
+1.7,High School,Senior Developer,Remote,Medium,50069.0,36.8
+3.6,High School,Data Scientist,Remote,Large,81133.0,42.3
+0.8,Master,Senior Developer,Bangalore,Medium,74047.0,41.1
+10.9,Master,Analyst,Remote,Medium,77483.0,63.2
+7.0,Bachelor,Data Scientist,Hyderabad,Large,94896.0,55.8
+3.5,High School,Senior Developer,Bangalore,Small,60223.0,47.7
+6.1,Bachelor,Lead,Remote,Medium,67575.0,43.3
+1.9,High School,Developer,Pune,Medium,53739.0,38.7
+6.8,High School,Data Scientist,Bangalore,Small,70856.0,47.9
+2.5,Bachelor,Manager,Delhi,Medium,82820.0,36.2
+2.4,Bachelor,Junior Developer,Bangalore,Small,45718.0,34.0
+1.4,Bachelor,Data Scientist,Bangalore,Large,104682.0,38.9
+4.6,Bachelor,Data Scientist,Bangalore,Medium,98141.0,44.6
+3.4,Master,Manager,Remote,Medium,100815.0,44.1
+8.5,Master,Lead,Bangalore,Medium,110695.0,55.3
+1.3,Bachelor,Senior Developer,Delhi,Small,42868.0,17.9
+4.6,Bachelor,Senior Developer,Mumbai,Small,61025.0,44.1
+7.4,Bachelor,Analyst,Bangalore,Medium,65511.0,52.8
+3.9,Bachelor,Developer,Pune,Medium,64597.0,44.1
+2.5,Master,Lead,Delhi,Medium,85932.0,31.6
+3.8,Bachelor,Manager,Mumbai,Medium,100363.0,29.4
+8.0,Master,Lead,Remote,Medium,100287.0,60.2
+8.0,Master,Lead,Bangalore,Medium,94102.0,51.3
+3.0,Bachelor,Senior Developer,Mumbai,Medium,67304.0,40.7
+7.9,Bachelor,Manager,Pune,Small,98151.0,50.9
+3.3,High School,Junior Developer,Delhi,Medium,34396.0,39.8
+6.0,Bachelor,Data Scientist,Delhi,Large,101999.0,43.5
+5.0,Bachelor,Senior Developer,Remote,Small,53740.0,35.3
+2.4,Bachelor,Manager,Remote,Medium,82288.0,41.9
+1.5,Master,Developer,Remote,Medium,57631.0,28.5
+7.6,High School,Data Scientist,Mumbai,Medium,79937.0,54.4
+9.0,Bachelor,Data Scientist,Bangalore,Medium,90316.0,61.1
+4.5,Bachelor,Senior Developer,Hyderabad,Small,64290.0,37.6
+3.3,Bachelor,Analyst,Delhi,Medium,56842.0,27.9
+1.1,Bachelor,Developer,Hyderabad,Small,33715.0,57.6
+7.4,Master,Senior Developer,Delhi,Medium,81288.0,46.9
+4.1,Bachelor,Lead,Remote,Large,87577.0,48.5
+2.7,Bachelor,Analyst,Bangalore,Medium,70950.0,57.5
+6.1,High School,Manager,Bangalore,Small,89252.0,56.2
+0.9,Bachelor,Developer,Delhi,Large,54993.0,29.7
+1.4,Master,Data Scientist,Mumbai,Large,121002.0,33.5
+1.9,Bachelor,Senior Developer,Remote,Medium,55762.0,27.4
+4.8,Master,Data Scientist,Bangalore,Medium,108268.0,53.2
+3.8,Bachelor,Developer,Bangalore,Small,41826.0,47.1
+5.3,High School,Data Scientist,Pune,Large,80633.0,40.8
+7.1,High School,Senior Developer,Bangalore,Medium,63242.0,40.9
+5.4,Bachelor,Analyst,Pune,Large,75380.0,33.0
+11.0,Bachelor,Senior Developer,Bangalore,Medium,91640.0,72.9
+7.1,Master,Junior Developer,Bangalore,Medium,74559.0,52.5
+3.0,Bachelor,Data Scientist,Mumbai,Large,89448.0,41.1
+2.1,Bachelor,Junior Developer,Mumbai,Medium,42283.0,28.1
+3.1,Bachelor,Analyst,Remote,Small,41867.0,24.7
+5.5,Bachelor,Junior Developer,Bangalore,Small,45109.0,56.1
+2.3,Bachelor,Data Scientist,Remote,Medium,77919.0,37.3
+5.6,High School,Developer,Remote,Small,28599.0,55.9
+5.2,High School,Lead,Remote,Medium,72557.0,41.7
+1.5,High School,Analyst,Remote,Medium,64101.0,32.1
+7.0,High School,Senior Developer,Delhi,Medium,63962.0,58.1
+4.4,High School,Manager,Delhi,Medium,79332.0,50.5
+10.7,Bachelor,Analyst,Bangalore,Large,93877.0,70.1
+3.3,Bachelor,Junior Developer,Delhi,Small,36129.0,36.9
+2.6,PhD,Developer,Bangalore,Medium,80552.0,43.9
+1.3,High School,Data Scientist,Mumbai,Small,57852.0,45.0
+1.3,Bachelor,Developer,Hyderabad,Medium,65257.0,32.9
+6.4,Bachelor,Developer,Pune,Large,72558.0,44.1
+10.0,High School,Data Scientist,Delhi,Large,94040.0,73.4
+3.1,Master,Manager,Delhi,Medium,95490.0,32.8
+2.9,High School,Data Scientist,Mumbai,Medium,72690.0,45.0
+3.5,Master,Manager,Delhi,Large,121982.0,39.9
+7.3,Master,Data Scientist,Bangalore,Large,104450.0,33.5
+1.5,Bachelor,Junior Developer,Bangalore,Large,52656.0,45.8
+4.0,Bachelor,Manager,Hyderabad,Medium,86507.0,14.4
+6.5,Bachelor,Junior Developer,Hyderabad,Large,65874.0,29.7
+4.8,Bachelor,Analyst,Hyderabad,Small,53431.0,49.7
+0.1,Bachelor,Manager,Bangalore,Small,63270.0,35.6
+5.4,High School,Manager,Remote,Small,67601.0,39.8
+4.8,High School,Data Scientist,Remote,Small,63804.0,45.9
+8.3,Bachelor,Manager,Hyderabad,Medium,94575.0,29.6
+9.5,Bachelor,Junior Developer,Hyderabad,Large,77494.0,65.6
+8.0,Master,Analyst,Bangalore,Medium,91355.0,56.5
+3.5,High School,Data Scientist,Mumbai,Medium,77373.0,40.0
+0.7,Master,Senior Developer,Delhi,Medium,77244.0,32.3
+2.9,Bachelor,Analyst,Pune,Medium,43512.0,43.6
+3.4,Bachelor,Analyst,Remote,Medium,56431.0,39.9
+9.9,Bachelor,Junior Developer,Remote,Large,77839.0,41.0
+1.8,Bachelor,Analyst,Bangalore,Medium,58213.0,57.4
+1.0,High School,Senior Developer,Bangalore,Medium,51102.0,45.0
+2.3,Bachelor,Developer,Pune,Medium,69822.0,24.1
+1.8,Master,Data Scientist,Pune,Large,115153.0,31.9
+0.9,Bachelor,Developer,Hyderabad,Small,43541.0,30.3
+3.1,Bachelor,Data Scientist,Pune,Medium,92311.0,50.1
+3.6,Master,Analyst,Delhi,Medium,56393.0,19.2
+0.8,Master,Data Scientist,Delhi,Medium,84300.0,27.4
+2.6,Bachelor,Junior Developer,Remote,Large,51440.0,20.2
+1.7,Bachelor,Senior Developer,Delhi,Medium,65512.0,32.2
+3.6,Master,Data Scientist,Delhi,Medium,92280.0,36.1
+3.9,Bachelor,Senior Developer,Delhi,Large,61400.0,42.5
+1.7,Bachelor,Data Scientist,Hyderabad,Medium,84488.0,29.1
+7.0,Bachelor,Senior Developer,Remote,Medium,78349.0,43.5
+3.4,Master,Developer,Bangalore,Medium,79615.0,46.4
+1.8,High School,Junior Developer,Remote,Small,17294.0,39.9
+0.8,PhD,Data Scientist,Remote,Medium,89639.0,37.9
+4.1,High School,Lead,Remote,Small,36760.0,40.5
+4.8,Master,Senior Developer,Pune,Large,89251.0,38.7
+2.2,Bachelor,Senior Developer,Bangalore,Medium,76609.0,35.4
+3.7,Bachelor,Lead,Pune,Small,64506.0,46.1
+9.5,Master,Junior Developer,Hyderabad,Medium,89148.0,36.7
+6.2,Bachelor,Senior Developer,Hyderabad,Medium,73347.0,52.5
+0.3,Bachelor,Junior Developer,Mumbai,Small,37776.0,34.0
+1.8,High School,Senior Developer,Mumbai,Small,38695.0,36.0
+3.0,High School,Analyst,Hyderabad,Medium,54298.0,37.5
+3.5,Bachelor,Manager,Hyderabad,Medium,74165.0,14.8
+3.8,Bachelor,Analyst,Pune,Medium,68150.0,37.0
+4.6,High School,Senior Developer,Hyderabad,Medium,67995.0,61.7
+3.1,High School,Manager,Bangalore,Medium,92074.0,39.4
+3.4,Bachelor,Data Scientist,Pune,Medium,75640.0,37.1
+6.4,Bachelor,Junior Developer,Hyderabad,Medium,57084.0,49.4
+4.1,Master,Senior Developer,Pune,Medium,84711.0,45.8
+1.2,High School,Developer,Pune,Medium,42938.0,40.2
+3.6,High School,Developer,Delhi,Large,49278.0,38.5
+3.0,Master,Lead,Mumbai,Medium,72864.0,43.2
+0.5,Bachelor,Developer,Pune,Large,60776.0,48.3
+3.8,Master,Manager,Remote,Medium,96380.0,51.5
+1.3,Master,Developer,Pune,Small,45067.0,57.3
+6.5,Master,Developer,Remote,Medium,74112.0,42.9
+4.6,High School,Developer,Delhi,Medium,47841.0,60.6
+1.1,Master,Senior Developer,Hyderabad,Medium,64646.0,25.4
+6.3,Master,Lead,Pune,Medium,79148.0,52.4
+8.4,Bachelor,Junior Developer,Delhi,Large,61768.0,62.5
+2.7,Bachelor,Lead,Bangalore,Medium,99544.0,33.0
+3.0,Bachelor,Manager,Delhi,Medium,95782.0,39.9
+5.9,High School,Senior Developer,Mumbai,Small,59309.0,56.8
+8.0,Bachelor,Data Scientist,Mumbai,Large,105547.0,46.9
+0.6,Bachelor,Senior Developer,Hyderabad,Large,72221.0,48.5
+1.2,Bachelor,Analyst,Remote,Medium,64738.0,19.8
+2.4,Bachelor,Developer,Hyderabad,Medium,48875.0,56.6
+2.6,Bachelor,Developer,Remote,Medium,54815.0,47.8
+5.8,Bachelor,Manager,Remote,Small,78813.0,46.5
+8.0,Master,Data Scientist,Remote,Medium,116521.0,50.0
+8.4,High School,Analyst,Remote,Small,55738.0,50.1
+0.6,Bachelor,Senior Developer,Mumbai,Medium,77164.0,30.4
+1.7,High School,Data Scientist,Mumbai,Medium,69725.0,34.6
+2.0,Bachelor,Junior Developer,Pune,Medium,54465.0,48.6
+1.6,Master,Lead,Mumbai,Medium,86699.0,54.5
+4.6,Master,Senior Developer,Hyderabad,Large,93080.0,45.8
+5.0,Bachelor,Data Scientist,Mumbai,Small,94080.0,36.5
+3.3,PhD,Junior Developer,Hyderabad,Medium,61258.0,34.4
+3.1,High School,Junior Developer,Bangalore,Small,32826.0,37.5
+2.5,Bachelor,Analyst,Mumbai,Small,57504.0,27.2
+2.7,High School,Analyst,Hyderabad,Small,45560.0,26.3
+9.4,Master,Lead,Remote,Medium,95194.0,79.2
+5.5,Bachelor,Junior Developer,Delhi,Medium,71690.0,49.5
+2.5,Bachelor,Manager,Remote,Large,84641.0,29.2
+3.1,Master,Junior Developer,Pune,Medium,69871.0,47.5
+4.6,High School,Data Scientist,Hyderabad,Small,76921.0,32.0
+1.1,High School,Analyst,Remote,Medium,60407.0,22.3
+3.7,Master,Manager,Mumbai,Small,80694.0,33.1
+5.3,Bachelor,Analyst,Mumbai,Medium,62649.0,62.4
+4.8,High School,Analyst,Bangalore,Small,59536.0,41.9
+1.7,Bachelor,Analyst,Delhi,Medium,45384.0,10.7
+2.0,Bachelor,Junior Developer,Hyderabad,Medium,34148.0,48.1
+0.4,High School,Developer,Remote,Large,41894.0,28.1
+5.7,Bachelor,Junior Developer,Delhi,Medium,56936.0,28.6
+12.1,High School,Analyst,Bangalore,Large,94938.0,63.1
+1.5,Bachelor,Manager,Pune,Small,73518.0,39.7
+7.1,Master,Junior Developer,Delhi,Large,73334.0,55.3
+11.4,PhD,Analyst,Bangalore,Medium,103291.0,82.2
+2.3,Bachelor,Analyst,Hyderabad,Small,54357.0,28.4
+3.1,High School,Junior Developer,Pune,Medium,41730.0,39.8
+4.0,Master,Junior Developer,Mumbai,Small,52576.0,35.0
+4.7,Bachelor,Manager,Bangalore,Medium,78759.0,28.7
+4.2,High School,Junior Developer,Mumbai,Small,27059.0,51.5
+2.4,Master,Lead,Pune,Medium,98162.0,41.8
+5.2,Master,Data Scientist,Bangalore,Large,111897.0,48.4
+2.5,Master,Lead,Bangalore,Small,77420.0,41.8
+4.4,Master,Manager,Pune,Medium,109745.0,36.3
+3.3,Bachelor,Developer,Hyderabad,Medium,45559.0,29.8
+0.5,Bachelor,Lead,Bangalore,Large,84197.0,31.9
+7.8,Bachelor,Analyst,Pune,Medium,71702.0,65.0
+2.0,Bachelor,Data Scientist,Delhi,Medium,79469.0,52.1
+8.3,Bachelor,Senior Developer,Mumbai,Medium,83406.0,62.9
+6.9,Master,Data Scientist,Bangalore,Small,92298.0,51.0
+3.9,Master,Lead,Delhi,Small,70605.0,44.4
+4.9,Bachelor,Senior Developer,Bangalore,Medium,76252.0,44.8
+5.3,Master,Manager,Hyderabad,Small,82973.0,35.6
+2.8,Master,Data Scientist,Pune,Medium,93925.0,38.6
+3.0,Bachelor,Developer,Bangalore,Medium,66993.0,25.7
+5.1,Bachelor,Senior Developer,Pune,Medium,69952.0,44.1
+3.3,Bachelor,Senior Developer,Remote,Small,47228.0,56.3
+2.4,Bachelor,Data Scientist,Bangalore,Large,93784.0,45.4
+1.7,High School,Lead,Hyderabad,Large,69744.0,25.9
+4.5,Bachelor,Senior Developer,Hyderabad,Small,66756.0,42.8
+2.0,Bachelor,Manager,Delhi,Medium,86816.0,27.7
+6.1,Bachelor,Data Scientist,Hyderabad,Medium,103878.0,47.7
+6.4,Master,Manager,Pune,Small,104104.0,59.6
+4.8,High School,Data Scientist,Remote,Medium,73375.0,50.9
+5.6,Master,Manager,Hyderabad,Small,99925.0,71.6
+4.9,Bachelor,Lead,Bangalore,Large,91654.0,56.6
+5.9,High School,Data Scientist,Hyderabad,Large,90072.0,49.7
+5.7,Master,Analyst,Remote,Medium,71509.0,53.9
+4.3,Bachelor,Developer,Pune,Medium,61732.0,40.9
+6.9,Bachelor,Lead,Bangalore,Large,110264.0,39.4
+2.9,Master,Manager,Delhi,Large,116189.0,51.8
+1.8,Bachelor,Data Scientist,Delhi,Large,99975.0,45.5
+1.7,Bachelor,Lead,Delhi,Small,74784.0,32.7
+2.6,High School,Manager,Bangalore,Small,74610.0,40.5
+0.4,Master,Junior Developer,Delhi,Medium,45686.0,43.6
+3.9,Bachelor,Junior Developer,Hyderabad,Medium,64408.0,50.2
+5.3,Bachelor,Senior Developer,Bangalore,Small,80035.0,31.3
+6.4,Bachelor,Developer,Bangalore,Small,50929.0,51.6
+0.7,Bachelor,Junior Developer,Bangalore,Large,53434.0,30.4
+1.7,Master,Analyst,Mumbai,Large,87299.0,46.2
+6.0,Bachelor,Manager,Pune,Medium,98407.0,58.3
+2.9,Bachelor,Lead,Mumbai,Large,90184.0,51.9
+5.3,Bachelor,Data Scientist,Mumbai,Medium,81600.0,34.7
+1.0,Master,Lead,Mumbai,Large,100446.0,25.2
+8.2,Bachelor,Senior Developer,Pune,Medium,82811.0,65.7
+1.0,Master,Lead,Mumbai,Small,83807.0,27.1
+3.8,Master,Junior Developer,Delhi,Medium,64394.0,26.2
+3.9,Bachelor,Lead,Bangalore,Medium,80631.0,47.0
+2.2,Bachelor,Junior Developer,Bangalore,Medium,57352.0,31.1
+4.7,Bachelor,Junior Developer,Hyderabad,Small,42927.0,62.0
+4.8,Master,Developer,Remote,Large,70881.0,47.4
+4.5,Bachelor,Senior Developer,Delhi,Small,61555.0,45.1
+2.2,Bachelor,Analyst,Pune,Small,35432.0,32.9
+1.8,Master,Analyst,Remote,Medium,65142.0,51.3
+2.4,Bachelor,Manager,Bangalore,Medium,95307.0,40.8
+1.6,Bachelor,Analyst,Mumbai,Medium,64918.0,30.7
+7.1,Bachelor,Junior Developer,Hyderabad,Medium,69365.0,43.4
+2.6,High School,Data Scientist,Hyderabad,Medium,71096.0,37.1
+3.8,Master,Senior Developer,Bangalore,Medium,86499.0,31.6
+5.9,High School,Manager,Delhi,Medium,92142.0,58.0
+1.6,Bachelor,Analyst,Remote,Small,64943.0,16.7
+0.9,Master,Analyst,Hyderabad,Medium,68958.0,31.3
+1.6,Bachelor,Data Scientist,Bangalore,Large,84847.0,40.9
+4.1,PhD,Lead,Delhi,Small,98983.0,45.7
+3.9,PhD,Senior Developer,Bangalore,Medium,107726.0,34.5
+4.4,Bachelor,Data Scientist,Bangalore,Large,96220.0,49.8
+3.1,High School,Analyst,Delhi,Medium,59929.0,30.4
+0.2,Master,Senior Developer,Delhi,Medium,84230.0,30.4
+3.0,Bachelor,Senior Developer,Delhi,Large,88137.0,45.5
+6.5,High School,Analyst,Bangalore,Small,52004.0,54.1
+7.7,Master,Lead,Hyderabad,Small,82812.0,46.3
+3.6,High School,Lead,Pune,Large,78550.0,52.8
+3.9,Master,Analyst,Pune,Large,86469.0,42.6
+5.2,High School,Senior Developer,Bangalore,Medium,72666.0,53.0
+7.5,High School,Data Scientist,Bangalore,Medium,87672.0,67.8
+3.3,High School,Developer,Hyderabad,Large,51561.0,51.1
+5.1,PhD,Junior Developer,Delhi,Medium,78643.0,56.5
+2.1,Bachelor,Lead,Bangalore,Small,76081.0,38.2
+1.1,Master,Analyst,Mumbai,Small,64237.0,41.2
+2.3,Bachelor,Developer,Delhi,Medium,46911.0,39.0
+8.7,Bachelor,Lead,Bangalore,Large,100949.0,44.0
+5.2,Bachelor,Senior Developer,Mumbai,Large,93983.0,48.6
+1.2,Bachelor,Analyst,Remote,Large,54336.0,36.2
+5.4,Bachelor,Developer,Hyderabad,Large,52055.0,52.0
+1.3,Bachelor,Analyst,Mumbai,Medium,73665.0,32.6
+4.4,Bachelor,Data Scientist,Bangalore,Medium,92891.0,35.6
+1.5,Master,Data Scientist,Pune,Medium,94854.0,41.1
+1.1,High School,Manager,Bangalore,Medium,68585.0,20.2
+9.6,PhD,Junior Developer,Pune,Medium,87100.0,73.4
+2.6,High School,Junior Developer,Hyderabad,Small,30402.0,35.5
+5.1,Bachelor,Lead,Hyderabad,Large,80525.0,47.8
+3.4,Bachelor,Junior Developer,Delhi,Medium,62194.0,45.8
+1.4,Bachelor,Analyst,Delhi,Medium,61069.0,40.1
+2.8,Bachelor,Analyst,Pune,Medium,57431.0,24.3
+1.4,Bachelor,Manager,Pune,Medium,81776.0,42.4
+14.2,Bachelor,Data Scientist,Hyderabad,Small,80278.0,75.6
+5.8,Master,Developer,Mumbai,Large,87347.0,41.0
+3.4,Bachelor,Developer,Pune,Small,45895.0,32.7
+5.0,Master,Data Scientist,Pune,Small,85447.0,41.7
+5.5,Bachelor,Senior Developer,Mumbai,Medium,87228.0,33.5
+5.6,Bachelor,Data Scientist,Delhi,Medium,79129.0,64.0
+5.4,Bachelor,Developer,Delhi,Large,65026.0,61.1
+5.1,Bachelor,Lead,Pune,Large,85400.0,49.8
+3.6,Bachelor,Manager,Delhi,Large,98970.0,38.6
+9.1,Bachelor,Data Scientist,Delhi,Small,87740.0,55.3
+3.8,High School,Senior Developer,Remote,Small,51040.0,49.0
+3.5,Bachelor,Lead,Delhi,Medium,78224.0,58.1
+3.8,High School,Data Scientist,Hyderabad,Small,58581.0,35.7
+4.0,Bachelor,Lead,Bangalore,Large,106488.0,30.8
+0.7,Bachelor,Data Scientist,Pune,Medium,97693.0,47.6
+1.6,PhD,Lead,Pune,Large,106346.0,16.9
+3.1,Master,Analyst,Hyderabad,Small,56146.0,29.2
+0.6,High School,Junior Developer,Bangalore,Medium,48004.0,29.3
+3.4,Master,Lead,Bangalore,Medium,80226.0,24.6
+4.0,Master,Analyst,Hyderabad,Small,61322.0,53.1
+1.0,Bachelor,Junior Developer,Mumbai,Medium,42431.0,41.6
+2.0,Bachelor,Developer,Mumbai,Medium,45724.0,30.3
+7.9,PhD,Junior Developer,Bangalore,Medium,78560.0,66.5
+5.0,Bachelor,Lead,Mumbai,Medium,79087.0,59.5
+4.8,Master,Manager,Mumbai,Small,95701.0,43.3
+7.2,High School,Manager,Mumbai,Medium,90617.0,47.1
+1.6,High School,Developer,Bangalore,Medium,38229.0,57.4
+1.0,Bachelor,Lead,Mumbai,Small,65036.0,40.2
+6.6,Bachelor,Junior Developer,Pune,Medium,53353.0,52.4
+3.1,Master,Manager,Remote,Small,92679.0,52.9
+1.6,PhD,Data Scientist,Bangalore,Medium,102013.0,37.8
+0.7,Bachelor,Senior Developer,Hyderabad,Small,60998.0,27.0
+3.8,High School,Lead,Mumbai,Medium,78287.0,42.2
+2.9,Master,Analyst,Delhi,Medium,77372.0,49.1
+2.5,Bachelor,Analyst,Bangalore,Medium,74103.0,17.6
+0.3,High School,Data Scientist,Hyderabad,Large,69645.0,28.0
+9.1,Bachelor,Data Scientist,Remote,Medium,89415.0,71.1
+0.8,Master,Lead,Pune,Medium,97706.0,27.3
+2.7,Master,Senior Developer,Hyderabad,Large,86341.0,53.6
+2.3,Bachelor,Manager,Mumbai,Medium,68079.0,51.0
+5.1,Bachelor,Senior Developer,Delhi,Medium,72576.0,44.6
+0.7,PhD,Developer,Mumbai,Medium,73480.0,26.4
+4.7,Bachelor,Junior Developer,Hyderabad,Medium,31463.0,41.2
+3.8,Bachelor,Junior Developer,Bangalore,Medium,63271.0,68.0
+1.9,Bachelor,Data Scientist,Delhi,Small,67090.0,54.4
+4.6,Master,Manager,Delhi,Medium,105829.0,45.1
+3.4,Bachelor,Senior Developer,Hyderabad,Small,57992.0,34.1
+10.5,High School,Data Scientist,Remote,Medium,75693.0,62.7
+2.9,Bachelor,Lead,Remote,Small,57236.0,41.1
+1.4,Bachelor,Data Scientist,Mumbai,Medium,76319.0,21.8
+4.7,Bachelor,Lead,Hyderabad,Medium,91085.0,44.9
+2.6,High School,Lead,Delhi,Medium,68020.0,51.0
+3.3,Bachelor,Developer,Hyderabad,Medium,50425.0,21.9
+1.0,Bachelor,Developer,Delhi,Large,53523.0,41.3
+5.2,High School,Lead,Mumbai,Medium,85969.0,59.3
+2.3,High School,Manager,Bangalore,Medium,91314.0,31.3
+4.1,Master,Developer,Bangalore,Large,87678.0,59.2
+12.2,Master,Developer,Hyderabad,Medium,86339.0,59.7
+2.7,Bachelor,Junior Developer,Delhi,Medium,51719.0,42.5
+5.6,Master,Data Scientist,Bangalore,Small,81472.0,43.7
+2.9,Bachelor,Junior Developer,Delhi,Medium,47833.0,35.6
+1.9,PhD,Manager,Mumbai,Large,114329.0,29.5
+8.0,Bachelor,Developer,Hyderabad,Medium,49396.0,61.0
+0.5,Bachelor,Analyst,Delhi,Medium,66456.0,40.0
+6.7,High School,Developer,Hyderabad,Medium,45833.0,49.5
+0.4,Bachelor,Senior Developer,Delhi,Large,84368.0,17.6
+6.2,PhD,Manager,Remote,Small,109454.0,52.6
+3.4,Bachelor,Analyst,Remote,Medium,64254.0,44.4
+1.4,Bachelor,Data Scientist,Delhi,Small,76703.0,32.0
+2.4,High School,Data Scientist,Mumbai,Medium,70877.0,55.9
+5.4,Master,Analyst,Hyderabad,Medium,91663.0,30.6
+11.5,Bachelor,Data Scientist,Pune,Small,90345.0,42.3
+0.7,Bachelor,Analyst,Delhi,Medium,60815.0,24.8
+1.5,PhD,Manager,Delhi,Medium,101807.0,41.6
+0.9,High School,Analyst,Remote,Small,27351.0,22.1
+2.9,Bachelor,Analyst,Bangalore,Medium,67618.0,28.9
+6.3,Master,Senior Developer,Remote,Small,74340.0,58.4
+0.8,Bachelor,Senior Developer,Hyderabad,Medium,58285.0,37.0
+3.3,Bachelor,Junior Developer,Remote,Medium,35093.0,43.7
+6.2,Bachelor,Manager,Pune,Medium,84241.0,56.4
+2.4,Master,Manager,Mumbai,Medium,110369.0,32.9
+3.9,High School,Senior Developer,Pune,Medium,54894.0,37.9
+7.7,Master,Lead,Mumbai,Small,88689.0,61.2
+1.3,Master,Lead,Pune,Large,106203.0,20.5
+0.5,High School,Junior Developer,Remote,Medium,22023.0,10.1
+4.2,Master,Lead,Pune,Small,74584.0,38.3
+4.3,Bachelor,Lead,Remote,Large,82450.0,52.2
+2.2,Bachelor,Lead,Remote,Small,77345.0,39.2
+1.9,Master,Developer,Hyderabad,Medium,77747.0,44.3
+3.4,PhD,Junior Developer,Remote,Medium,72813.0,20.0
+1.2,High School,Senior Developer,Bangalore,Medium,63667.0,36.8
+1.2,Bachelor,Lead,Pune,Large,79757.0,40.1
+5.4,Bachelor,Data Scientist,Delhi,Medium,105379.0,32.7
+1.2,Bachelor,Analyst,Delhi,Small,51542.0,42.2
+0.6,Bachelor,Developer,Delhi,Large,67025.0,30.7
+1.9,High School,Lead,Bangalore,Large,77956.0,66.4
+2.3,Bachelor,Analyst,Remote,Medium,55456.0,15.1
+4.7,Bachelor,Analyst,Pune,Medium,77704.0,57.8
+2.0,High School,Developer,Mumbai,Small,39318.0,32.1
+8.5,Master,Junior Developer,Mumbai,Medium,84611.0,39.3
+3.6,Master,Data Scientist,Hyderabad,Small,87243.0,35.5
+1.7,Bachelor,Data Scientist,Bangalore,Small,66613.0,37.9
+4.5,Bachelor,Data Scientist,Pune,Medium,81333.0,53.9
+8.4,Bachelor,Lead,Remote,Small,77624.0,72.4
+5.3,Bachelor,Developer,Delhi,Small,44588.0,60.1
+0.8,Bachelor,Data Scientist,Bangalore,Medium,72740.0,22.7
+2.4,Master,Analyst,Bangalore,Small,72411.0,48.5
+4.0,High School,Analyst,Pune,Small,38641.0,45.9
+5.2,High School,Manager,Remote,Small,71506.0,39.1
+2.9,High School,Manager,Hyderabad,Small,71169.0,36.6
+2.6,High School,Developer,Remote,Medium,35495.0,30.7
+10.4,High School,Lead,Hyderabad,Large,105406.0,61.6
+5.4,PhD,Lead,Hyderabad,Medium,94863.0,38.9
+4.5,Bachelor,Junior Developer,Delhi,Medium,55093.0,33.2
+2.1,High School,Junior Developer,Delhi,Small,30169.0,41.1
+1.2,Bachelor,Data Scientist,Pune,Small,68966.0,39.9
+4.6,Master,Senior Developer,Remote,Small,58825.0,41.9
+5.8,Bachelor,Analyst,Hyderabad,Medium,74567.0,61.1
+3.3,Bachelor,Junior Developer,Pune,Medium,54548.0,37.3
+5.4,Master,Lead,Hyderabad,Medium,88395.0,43.2
+5.5,Bachelor,Analyst,Bangalore,Medium,74660.0,53.1
+6.0,Bachelor,Senior Developer,Mumbai,Small,70999.0,46.7
+0.7,Bachelor,Junior Developer,Mumbai,Medium,37155.0,32.9
+2.5,Bachelor,Developer,Hyderabad,Medium,46169.0,12.3
+4.8,Bachelor,Manager,Pune,Medium,100706.0,44.6
+3.5,Bachelor,Junior Developer,Delhi,Medium,53475.0,22.2
+5.5,Bachelor,Junior Developer,Remote,Medium,46486.0,34.3
+4.5,Bachelor,Developer,Hyderabad,Large,60132.0,30.1
+0.3,High School,Lead,Hyderabad,Large,69477.0,20.5
+7.0,High School,Data Scientist,Remote,Medium,75444.0,45.5
+2.2,Bachelor,Developer,Delhi,Medium,46632.0,31.7
+1.6,Master,Data Scientist,Hyderabad,Small,67266.0,41.4
+6.9,Bachelor,Junior Developer,Bangalore,Large,77920.0,52.9
+5.2,Bachelor,Lead,Delhi,Medium,92165.0,26.6
+7.5,Bachelor,Senior Developer,Bangalore,Small,59814.0,53.3
+4.1,High School,Junior Developer,Mumbai,Medium,45290.0,45.5
+2.5,High School,Developer,Remote,Small,22782.0,34.2
+3.7,Bachelor,Senior Developer,Delhi,Medium,69307.0,40.5
+1.3,High School,Manager,Delhi,Medium,73842.0,35.8
+0.9,High School,Senior Developer,Pune,Medium,50377.0,40.3
+2.0,Master,Developer,Pune,Small,67024.0,20.3
+9.1,High School,Analyst,Remote,Large,67677.0,54.9
+2.1,Bachelor,Senior Developer,Delhi,Medium,61734.0,51.4
+0.6,Bachelor,Developer,Mumbai,Large,56099.0,46.0
+2.9,Bachelor,Analyst,Hyderabad,Medium,70150.0,47.2
+2.1,Bachelor,Junior Developer,Remote,Medium,30983.0,41.7
+7.1,Bachelor,Analyst,Remote,Medium,61099.0,67.8
+8.6,Bachelor,Lead,Pune,Small,90775.0,75.0
+2.4,Master,Manager,Mumbai,Small,92752.0,35.9
+4.1,Master,Analyst,Remote,Medium,72735.0,32.6
+4.3,High School,Lead,Mumbai,Small,81657.0,40.2
+3.2,High School,Lead,Remote,Large,78371.0,70.6
+2.8,Master,Lead,Pune,Small,71935.0,22.7
+1.5,Bachelor,Analyst,Hyderabad,Medium,56743.0,29.8
+0.5,Bachelor,Developer,Pune,Medium,38917.0,17.4
+1.5,Bachelor,Developer,Remote,Medium,58047.0,35.7
+3.1,High School,Manager,Mumbai,Medium,86796.0,27.3
+0.8,Bachelor,Developer,Bangalore,Small,50595.0,31.3
+3.9,Bachelor,Data Scientist,Pune,Medium,94504.0,22.2
+3.5,Bachelor,Developer,Mumbai,Medium,54686.0,46.7
+2.1,Bachelor,Developer,Pune,Medium,43642.0,48.5
+2.7,Master,Developer,Remote,Medium,59986.0,34.3
+1.0,Bachelor,Junior Developer,Mumbai,Large,51018.0,31.6
+6.0,High School,Manager,Hyderabad,Large,96320.0,46.4
+5.9,Bachelor,Data Scientist,Mumbai,Medium,101857.0,49.5
+1.2,Master,Developer,Delhi,Medium,60055.0,33.2
+1.2,Master,Manager,Bangalore,Medium,98600.0,41.3
+1.5,Bachelor,Senior Developer,Remote,Medium,62249.0,46.8
+5.0,High School,Junior Developer,Mumbai,Large,62422.0,36.9
+4.3,Master,Analyst,Remote,Small,56258.0,39.8
+6.8,Bachelor,Developer,Pune,Medium,43028.0,59.4
+7.4,High School,Data Scientist,Pune,Medium,85567.0,38.0
+0.7,Bachelor,Junior Developer,Mumbai,Medium,55303.0,12.4
+4.8,Bachelor,Data Scientist,Delhi,Medium,92171.0,46.7
+7.2,Bachelor,Analyst,Mumbai,Medium,68278.0,56.6
+2.5,Bachelor,Analyst,Hyderabad,Medium,51920.0,30.3
+3.3,Bachelor,Junior Developer,Delhi,Large,64556.0,34.1
+2.9,Master,Senior Developer,Remote,Medium,76932.0,31.1
+3.0,Master,Manager,Mumbai,Small,90994.0,30.3
+6.0,Master,Junior Developer,Remote,Small,66580.0,54.9
+10.2,PhD,Lead,Bangalore,Small,97826.0,48.8
+8.3,High School,Analyst,Delhi,Medium,77800.0,52.2
+2.2,Bachelor,Senior Developer,Mumbai,Medium,70654.0,27.5
+4.1,Bachelor,Analyst,Bangalore,Small,41515.0,27.7
+1.7,Master,Lead,Mumbai,Medium,87966.0,43.8
+1.8,Bachelor,Senior Developer,Hyderabad,Medium,74276.0,30.2
+3.2,PhD,Analyst,Pune,Small,68480.0,41.5
+1.8,Bachelor,Lead,Remote,Medium,61802.0,20.3
+2.0,Master,Lead,Mumbai,Large,98684.0,28.6
+4.0,High School,Analyst,Delhi,Medium,48143.0,49.6
+4.8,High School,Analyst,Mumbai,Medium,62535.0,70.3
+4.7,Master,Data Scientist,Mumbai,Medium,106587.0,24.3
+4.7,High School,Junior Developer,Mumbai,Medium,36950.0,42.1
+1.1,Master,Junior Developer,Mumbai,Medium,52554.0,37.4
+1.7,High School,Senior Developer,Delhi,Medium,63453.0,28.9
+3.4,Bachelor,Manager,Delhi,Large,93929.0,48.7
+6.9,Bachelor,Analyst,Mumbai,Large,74143.0,42.0
+13.9,Bachelor,Data Scientist,Pune,Medium,95370.0,73.2
+4.2,Bachelor,Junior Developer,Mumbai,Small,47216.0,37.4
+5.6,Bachelor,Junior Developer,Remote,Medium,53673.0,59.0
+0.9,High School,Data Scientist,Remote,Medium,61328.0,25.9
+5.5,High School,Developer,Delhi,Medium,50041.0,43.0
+11.6,Bachelor,Data Scientist,Remote,Small,100417.0,74.3
+1.7,Bachelor,Junior Developer,Remote,Small,25608.0,24.8
+2.1,Master,Manager,Hyderabad,Medium,81586.0,37.0
+6.1,Bachelor,Developer,Mumbai,Small,56841.0,30.1
+3.4,Bachelor,Lead,Mumbai,Medium,81917.0,29.3
+0.4,Bachelor,Data Scientist,Mumbai,Medium,76120.0,35.0
+2.2,High School,Lead,Mumbai,Medium,75617.0,26.7
+8.6,Bachelor,Developer,Bangalore,Small,63914.0,50.4
+2.7,PhD,Developer,Mumbai,Small,48734.0,43.0
+2.7,Master,Developer,Delhi,Small,49179.0,32.3
+5.8,Bachelor,Senior Developer,Delhi,Small,84140.0,55.6
+4.3,Bachelor,Data Scientist,Bangalore,Medium,93267.0,45.1
+2.5,Master,Analyst,Mumbai,Medium,79409.0,41.9
+2.0,Bachelor,Manager,Pune,Small,85383.0,48.4
+18.2,High School,Manager,Mumbai,Small,102537.0,87.8
+7.7,High School,Lead,Delhi,Small,75773.0,68.5
+4.7,Bachelor,Lead,Hyderabad,Large,98144.0,53.2
+5.0,PhD,Analyst,Remote,Medium,87312.0,39.8
+3.0,Bachelor,Lead,Hyderabad,Large,86424.0,51.9
+4.3,High School,Data Scientist,Pune,Large,86976.0,45.5
+2.8,High School,Junior Developer,Mumbai,Medium,36893.0,34.5
+1.6,Master,Lead,Bangalore,Medium,88303.0,37.6
+4.4,Master,Developer,Mumbai,Small,50452.0,54.3
+2.6,Bachelor,Lead,Pune,Medium,70875.0,42.4
+4.5,Bachelor,Developer,Pune,Small,43742.0,61.7
+5.2,High School,Senior Developer,Remote,Large,62850.0,56.5
+4.7,Master,Junior Developer,Pune,Small,47360.0,49.3
+1.5,Master,Junior Developer,Hyderabad,Medium,54689.0,24.2
+2.4,Bachelor,Analyst,Remote,Small,51018.0,35.4
+2.6,Master,Data Scientist,Mumbai,Large,113794.0,38.5
+6.5,Bachelor,Data Scientist,Mumbai,Medium,90290.0,56.5
+6.3,High School,Manager,Bangalore,Medium,98281.0,55.3
+1.8,Bachelor,Senior Developer,Pune,Medium,73109.0,37.1
+1.0,High School,Analyst,Pune,Medium,51033.0,34.2
+14.3,Bachelor,Data Scientist,Delhi,Medium,108829.0,80.1
+4.6,Bachelor,Developer,Remote,Large,66753.0,35.2
+0.9,Bachelor,Senior Developer,Delhi,Small,65296.0,49.7
+2.1,Bachelor,Junior Developer,Remote,Large,63989.0,15.8
+6.7,Bachelor,Developer,Hyderabad,Medium,72080.0,64.7
+12.2,High School,Analyst,Remote,Large,77731.0,66.1
+10.9,Bachelor,Analyst,Mumbai,Medium,85240.0,72.7
+4.4,Bachelor,Senior Developer,Bangalore,Medium,84548.0,46.8
+3.3,Bachelor,Junior Developer,Remote,Large,51610.0,43.4
+1.3,Master,Data Scientist,Remote,Medium,85053.0,39.4
+3.6,Master,Developer,Remote,Medium,62328.0,48.9
+1.5,Master,Developer,Bangalore,Small,60197.0,31.2
+2.4,Bachelor,Junior Developer,Pune,Small,44121.0,47.5
+6.1,High School,Developer,Bangalore,Medium,50353.0,37.5
+2.8,Bachelor,Data Scientist,Pune,Medium,70531.0,38.3
+2.6,Bachelor,Data Scientist,Mumbai,Medium,88169.0,46.2
+3.2,Bachelor,Data Scientist,Bangalore,Small,69053.0,49.6
+15.7,High School,Junior Developer,Pune,Medium,51481.0,81.7
+1.2,Master,Lead,Mumbai,Medium,78289.0,29.7
+4.1,High School,Lead,Mumbai,Medium,76811.0,51.3
+10.2,Master,Analyst,Pune,Large,106288.0,53.9
+3.2,Master,Analyst,Pune,Medium,71711.0,57.1
+7.6,Bachelor,Developer,Hyderabad,Small,54891.0,52.0
+1.0,Master,Data Scientist,Mumbai,Large,112463.0,17.6
+2.8,Bachelor,Developer,Pune,Medium,40244.0,26.5
+1.7,Master,Junior Developer,Mumbai,Medium,63561.0,35.5
+3.2,Bachelor,Developer,Bangalore,Small,46307.0,41.0
+3.2,Master,Manager,Delhi,Medium,104928.0,59.3
+3.5,Bachelor,Lead,Delhi,Small,67132.0,30.1
+6.0,Master,Developer,Remote,Medium,60457.0,48.4
+0.2,Bachelor,Developer,Pune,Small,38524.0,20.0
+2.0,Bachelor,Senior Developer,Pune,Small,69194.0,31.1
+3.9,Master,Developer,Mumbai,Small,65687.0,58.5
+0.5,Master,Manager,Remote,Small,76938.0,20.1
+5.2,Bachelor,Lead,Pune,Small,61672.0,51.5
+2.0,High School,Senior Developer,Mumbai,Medium,46543.0,39.9
+2.9,Bachelor,Junior Developer,Pune,Small,48329.0,38.5
+6.2,PhD,Analyst,Mumbai,Medium,83759.0,53.8
+7.8,Master,Junior Developer,Pune,Small,54996.0,41.8
+5.3,Master,Lead,Hyderabad,Large,114170.0,62.5
+1.2,High School,Analyst,Mumbai,Large,48489.0,52.8
+5.1,Bachelor,Junior Developer,Hyderabad,Small,55138.0,45.8
+5.4,Bachelor,Manager,Hyderabad,Medium,91771.0,70.4
+4.7,Master,Developer,Hyderabad,Small,48211.0,40.1
+8.7,High School,Lead,Hyderabad,Large,88421.0,60.1
+3.6,Master,Analyst,Bangalore,Medium,69419.0,55.1
+8.5,Bachelor,Senior Developer,Remote,Small,70527.0,50.9
+8.4,High School,Developer,Delhi,Medium,50615.0,41.4
+5.5,Bachelor,Junior Developer,Bangalore,Small,30707.0,30.4
+4.2,Bachelor,Junior Developer,Pune,Medium,48635.0,63.2
+4.7,Bachelor,Senior Developer,Pune,Medium,60548.0,38.8
+9.9,High School,Manager,Remote,Medium,91435.0,57.8
+6.9,High School,Senior Developer,Delhi,Medium,58303.0,39.6
+1.3,Master,Lead,Delhi,Small,72696.0,43.4
+4.5,High School,Senior Developer,Delhi,Small,54461.0,35.7
+1.6,Bachelor,Junior Developer,Hyderabad,Small,34500.0,29.9
+1.9,Bachelor,Manager,Bangalore,Large,100803.0,38.7
+2.5,Bachelor,Manager,Pune,Small,82442.0,26.9
+0.9,Master,Data Scientist,Bangalore,Medium,82537.0,30.9
+1.5,Bachelor,Senior Developer,Bangalore,Medium,67485.0,48.5
+9.0,Master,Lead,Bangalore,Small,66364.0,61.3
+1.9,Bachelor,Junior Developer,Delhi,Medium,49779.0,37.0
+6.1,High School,Developer,Remote,Medium,44793.0,50.4
+3.8,High School,Manager,Remote,Medium,69732.0,37.5
+5.0,Bachelor,Senior Developer,Delhi,Medium,76526.0,65.0
+5.1,Bachelor,Data Scientist,Pune,Medium,96582.0,37.2
+1.4,Master,Lead,Pune,Medium,80992.0,36.3
+6.0,Bachelor,Lead,Pune,Medium,76441.0,49.2
+1.1,Bachelor,Analyst,Remote,Medium,56520.0,43.4
+1.8,High School,Junior Developer,Remote,Small,12915.0,46.4
+5.1,Bachelor,Manager,Bangalore,Medium,89917.0,45.0
+1.3,Bachelor,Junior Developer,Delhi,Small,46379.0,36.8
+0.4,Bachelor,Data Scientist,Hyderabad,Small,69297.0,34.5
+4.3,Bachelor,Developer,Bangalore,Medium,43564.0,20.2
+0.7,High School,Developer,Mumbai,Large,38024.0,16.2
+5.4,Bachelor,Developer,Remote,Large,67097.0,40.1
+2.6,Master,Lead,Bangalore,Small,87099.0,32.2
+4.3,Bachelor,Manager,Delhi,Medium,79659.0,30.9
+4.2,Bachelor,Junior Developer,Mumbai,Medium,57998.0,50.1
+5.7,PhD,Junior Developer,Bangalore,Small,77043.0,47.1
+5.2,Bachelor,Data Scientist,Delhi,Medium,104503.0,43.5
+1.3,Bachelor,Developer,Delhi,Medium,54250.0,21.3
+2.7,High School,Manager,Remote,Large,89454.0,37.7
+4.3,Bachelor,Manager,Hyderabad,Small,64535.0,16.6
+8.6,High School,Data Scientist,Bangalore,Small,93998.0,54.2
+5.2,PhD,Senior Developer,Delhi,Large,99796.0,46.2
+8.1,Master,Manager,Pune,Medium,100732.0,56.7
+4.4,Master,Manager,Delhi,Large,110758.0,27.6
+7.0,Master,Junior Developer,Hyderabad,Small,69093.0,53.2
+4.0,Bachelor,Data Scientist,Delhi,Medium,104664.0,31.6
+6.8,Bachelor,Manager,Remote,Medium,94603.0,42.3
+2.5,Master,Manager,Bangalore,Small,97985.0,44.7
+9.2,PhD,Junior Developer,Remote,Medium,78746.0,77.7
+4.8,Bachelor,Manager,Bangalore,Medium,86298.0,44.9
+0.9,Master,Junior Developer,Mumbai,Small,59614.0,24.5
+4.4,Bachelor,Senior Developer,Bangalore,Small,58823.0,45.1
+5.2,Bachelor,Lead,Mumbai,Medium,98684.0,55.0
+6.2,Bachelor,Analyst,Remote,Medium,75788.0,54.8
+11.4,Bachelor,Junior Developer,Pune,Large,79712.0,91.6
+2.2,High School,Junior Developer,Hyderabad,Medium,52032.0,29.4
+11.4,Bachelor,Manager,Pune,Small,112659.0,66.7
+3.3,Bachelor,Junior Developer,Mumbai,Large,61198.0,55.4
+1.8,Bachelor,Data Scientist,Delhi,Large,86130.0,50.3
+2.2,Bachelor,Developer,Delhi,Small,28486.0,17.1
+5.0,PhD,Developer,Pune,Medium,94957.0,45.0
+1.5,Bachelor,Senior Developer,Delhi,Small,53483.0,49.3
+2.5,Bachelor,Junior Developer,Mumbai,Small,50080.0,66.4
+4.3,High School,Data Scientist,Remote,Small,57670.0,49.9
+9.2,High School,Manager,Hyderabad,Small,93706.0,53.9
+6.1,Master,Manager,Bangalore,Large,111599.0,38.2
+3.4,Bachelor,Analyst,Mumbai,Medium,56266.0,62.4
+5.0,Master,Lead,Mumbai,Large,104332.0,52.3
+4.0,High School,Senior Developer,Bangalore,Medium,58746.0,33.5
+1.2,Bachelor,Data Scientist,Bangalore,Medium,87170.0,31.6
+10.2,Bachelor,Data Scientist,Hyderabad,Medium,97989.0,63.7
+9.3,Bachelor,Analyst,Hyderabad,Large,89622.0,63.3
+3.1,High School,Analyst,Hyderabad,Medium,49872.0,30.3
+2.3,High School,Manager,Delhi,Medium,73279.0,30.8
+1.2,Bachelor,Lead,Mumbai,Large,83732.0,17.1
+5.2,High School,Manager,Remote,Small,86760.0,56.0
+5.2,PhD,Lead,Bangalore,Medium,107201.0,42.2
+1.7,Bachelor,Developer,Mumbai,Large,48530.0,39.8
+4.0,High School,Data Scientist,Mumbai,Large,84838.0,56.2
+5.9,High School,Analyst,Hyderabad,Small,48575.0,49.9
+2.2,Bachelor,Developer,Hyderabad,Medium,67163.0,35.5
+2.9,High School,Manager,Mumbai,Medium,90030.0,40.6
+2.8,Master,Senior Developer,Hyderabad,Small,61226.0,39.0
+1.8,PhD,Junior Developer,Delhi,Medium,86947.0,47.9
+2.9,Bachelor,Senior Developer,Bangalore,Small,60551.0,41.8
+0.7,Bachelor,Senior Developer,Mumbai,Medium,77371.0,26.7
+2.7,High School,Junior Developer,Bangalore,Medium,31160.0,48.6
+2.7,Bachelor,Data Scientist,Delhi,Medium,65215.0,50.4
+3.2,Bachelor,Developer,Hyderabad,Medium,43133.0,26.2
+4.7,Bachelor,Developer,Pune,Medium,30397.0,59.4
+1.1,Bachelor,Data Scientist,Delhi,Small,88097.0,36.9
+1.3,Bachelor,Junior Developer,Pune,Small,36316.0,36.7
+1.7,Bachelor,Lead,Bangalore,Small,61003.0,45.2
+1.0,High School,Senior Developer,Mumbai,Small,51621.0,27.3
+5.1,Bachelor,Manager,Hyderabad,Medium,94715.0,54.8
+2.1,Bachelor,Developer,Delhi,Medium,58167.0,32.5
+3.3,Master,Data Scientist,Hyderabad,Small,94276.0,25.2
+1.6,High School,Manager,Pune,Small,62881.0,24.8
+2.5,Master,Analyst,Pune,Medium,62961.0,43.2
+4.2,Bachelor,Junior Developer,Remote,Medium,55022.0,33.1
+4.3,High School,Manager,Mumbai,Large,101019.0,59.0
+1.4,Bachelor,Manager,Pune,Medium,85606.0,46.1
+3.1,Bachelor,Senior Developer,Mumbai,Medium,89620.0,52.6
+1.6,Master,Junior Developer,Remote,Small,39697.0,36.0
+3.0,High School,Manager,Delhi,Medium,72801.0,41.6
+1.9,Bachelor,Developer,Remote,Small,42145.0,23.8
+10.7,Bachelor,Junior Developer,Mumbai,Small,52000.0,72.1
+5.9,PhD,Developer,Pune,Small,72764.0,51.5
+4.5,Bachelor,Data Scientist,Bangalore,Medium,82336.0,49.2
+2.7,PhD,Data Scientist,Mumbai,Medium,103198.0,55.0
+6.0,Master,Analyst,Hyderabad,Small,83127.0,41.9
+3.2,Bachelor,Lead,Bangalore,Medium,78155.0,38.3
+10.0,Master,Data Scientist,Mumbai,Medium,104609.0,63.3
+6.4,PhD,Manager,Hyderabad,Medium,125165.0,39.8
+2.5,Bachelor,Junior Developer,Remote,Small,26592.0,35.6
+9.2,Bachelor,Data Scientist,Bangalore,Medium,92856.0,62.5
+2.7,Bachelor,Developer,Mumbai,Large,71012.0,34.8
+11.1,Bachelor,Manager,Delhi,Small,103707.0,76.4
+9.5,High School,Data Scientist,Remote,Small,83764.0,43.4
+4.2,Bachelor,Senior Developer,Hyderabad,Small,55422.0,53.8
+0.8,Bachelor,Developer,Delhi,Small,45368.0,39.0
+3.9,Bachelor,Analyst,Pune,Medium,59071.0,36.0
+1.2,High School,Analyst,Remote,Large,50555.0,24.4
+2.0,Master,Analyst,Remote,Large,86626.0,15.2
+2.1,Master,Developer,Mumbai,Small,50804.0,28.3
+1.2,High School,Analyst,Mumbai,Medium,53626.0,44.1
+3.9,Bachelor,Lead,Hyderabad,Medium,82045.0,41.1
+1.8,Bachelor,Senior Developer,Remote,Medium,55034.0,47.0
+2.8,PhD,Lead,Mumbai,Medium,109329.0,32.2
+2.1,High School,Data Scientist,Pune,Small,65682.0,43.4
+4.7,Bachelor,Senior Developer,Mumbai,Medium,59510.0,36.9
+4.5,Master,Developer,Remote,Medium,66219.0,33.8
+2.6,Master,Lead,Bangalore,Medium,84016.0,36.7
+4.9,Master,Manager,Delhi,Medium,112577.0,38.1
+7.6,Master,Senior Developer,Remote,Small,63637.0,37.4
+0.3,High School,Developer,Pune,Small,24748.0,29.1
+2.0,Bachelor,Junior Developer,Remote,Large,56896.0,37.1
+1.5,Bachelor,Senior Developer,Pune,Medium,65435.0,47.2
+1.9,High School,Senior Developer,Remote,Large,69904.0,45.1
+0.3,Master,Data Scientist,Delhi,Small,67453.0,43.1
+0.3,High School,Manager,Delhi,Medium,87815.0,38.1
+2.2,Bachelor,Data Scientist,Pune,Medium,85601.0,39.9
+2.2,Master,Analyst,Remote,Large,88278.0,24.3
+8.4,High School,Senior Developer,Delhi,Small,67794.0,56.7
+3.7,PhD,Senior Developer,Hyderabad,Small,80307.0,47.1
+4.8,PhD,Analyst,Remote,Medium,72326.0,59.0
+27.2,Bachelor,Manager,Delhi,Large,143892.0,100.0
+10.1,High School,Manager,Bangalore,Large,117917.0,72.7
+3.2,Bachelor,Lead,Bangalore,Large,102484.0,29.3
+2.4,Bachelor,Developer,Hyderabad,Large,57843.0,33.9
+2.1,Bachelor,Developer,Delhi,Small,20654.0,40.6
+4.3,Bachelor,Lead,Bangalore,Small,71898.0,54.5
+2.4,PhD,Developer,Remote,Small,57498.0,35.7
+1.2,High School,Senior Developer,Mumbai,Medium,56402.0,32.8
+2.1,Master,Lead,Delhi,Large,102428.0,43.2
+4.3,High School,Lead,Hyderabad,Large,88610.0,31.6
+5.4,Bachelor,Developer,Delhi,Small,57722.0,62.3
+10.7,Master,Junior Developer,Pune,Medium,76966.0,53.3
+3.6,Bachelor,Developer,Pune,Large,49794.0,21.6
+7.9,High School,Data Scientist,Bangalore,Medium,83070.0,53.8
+2.9,Bachelor,Junior Developer,Pune,Small,56233.0,55.7
+3.2,Master,Lead,Hyderabad,Medium,92394.0,45.5
+3.0,Bachelor,Junior Developer,Bangalore,Medium,53943.0,46.5
+3.9,Bachelor,Senior Developer,Hyderabad,Medium,73676.0,42.1
+6.1,Bachelor,Manager,Remote,Medium,95523.0,46.8
+2.3,PhD,Junior Developer,Hyderabad,Small,38535.0,21.5
+1.5,Master,Data Scientist,Pune,Large,98084.0,11.9
+6.5,Bachelor,Manager,Remote,Medium,92697.0,51.5
+6.1,Master,Senior Developer,Pune,Medium,94452.0,61.4
+8.8,Bachelor,Data Scientist,Hyderabad,Large,105981.0,59.8
+2.0,Bachelor,Analyst,Pune,Small,35828.0,42.2
+2.8,High School,Manager,Pune,Small,71041.0,54.2
+6.6,Bachelor,Analyst,Pune,Large,71769.0,53.1
+2.3,Bachelor,Senior Developer,Delhi,Small,48866.0,35.7
+5.3,High School,Manager,Remote,Medium,73927.0,37.7
+2.9,Bachelor,Manager,Remote,Small,80140.0,58.9
+4.2,Master,Developer,Remote,Small,63470.0,47.9
+1.2,Bachelor,Data Scientist,Hyderabad,Medium,84263.0,24.2
+3.6,Bachelor,Data Scientist,Mumbai,Small,83256.0,29.1
+7.5,Master,Junior Developer,Hyderabad,Medium,71784.0,65.0
+5.8,High School,Analyst,Remote,Medium,55411.0,37.0
+1.4,Bachelor,Analyst,Bangalore,Large,76375.0,52.7
+10.2,Master,Data Scientist,Pune,Medium,88050.0,33.0
+7.2,Bachelor,Data Scientist,Pune,Small,82289.0,65.8
+1.2,Bachelor,Manager,Mumbai,Large,90041.0,38.5
+2.1,High School,Analyst,Bangalore,Medium,61503.0,37.5
+1.3,Master,Lead,Delhi,Medium,85423.0,32.1
+4.3,Bachelor,Developer,Hyderabad,Large,66848.0,61.8
+2.1,Master,Junior Developer,Delhi,Medium,46159.0,43.4
+0.4,Bachelor,Developer,Bangalore,Medium,58935.0,22.2
+3.2,Bachelor,Junior Developer,Mumbai,Medium,57419.0,22.4
+6.3,Master,Senior Developer,Bangalore,Small,82056.0,50.7
+3.6,Bachelor,Manager,Mumbai,Small,76696.0,40.8
+4.9,Bachelor,Data Scientist,Delhi,Medium,82611.0,29.5
+3.9,Bachelor,Data Scientist,Delhi,Small,78589.0,41.1
+5.6,Master,Lead,Bangalore,Small,80644.0,41.1
+4.1,Bachelor,Analyst,Bangalore,Small,59679.0,42.4
+3.0,Bachelor,Analyst,Pune,Medium,43713.0,46.3
+3.6,High School,Developer,Mumbai,Medium,44300.0,55.7
+9.0,Master,Developer,Pune,Medium,89374.0,66.1
+5.1,High School,Developer,Hyderabad,Medium,51716.0,38.1
+1.4,Bachelor,Analyst,Hyderabad,Medium,60134.0,37.9
+3.5,Bachelor,Data Scientist,Bangalore,Medium,102882.0,41.1
+4.3,Bachelor,Analyst,Delhi,Medium,46912.0,29.6
+2.9,Bachelor,Developer,Hyderabad,Medium,47278.0,42.7
+0.4,High School,Manager,Hyderabad,Large,80591.0,49.8
+1.6,Bachelor,Junior Developer,Pune,Large,62067.0,35.1
+2.4,Master,Data Scientist,Pune,Large,108805.0,21.3
+11.0,Master,Manager,Hyderabad,Large,118072.0,63.3
+4.8,High School,Senior Developer,Bangalore,Medium,72584.0,32.3
+0.7,Master,Manager,Pune,Medium,90173.0,40.7
+3.1,Bachelor,Manager,Hyderabad,Medium,98893.0,44.5
+8.1,Master,Senior Developer,Delhi,Medium,81939.0,52.6
+2.0,Bachelor,Manager,Pune,Large,95014.0,32.7
+6.8,Bachelor,Junior Developer,Hyderabad,Medium,52679.0,48.3
+0.7,Master,Data Scientist,Mumbai,Large,110848.0,32.2
+0.1,Master,Lead,Pune,Medium,78018.0,22.6
+7.5,Bachelor,Analyst,Mumbai,Large,83660.0,38.6
+2.3,Bachelor,Senior Developer,Pune,Medium,70654.0,48.3
+2.4,Bachelor,Data Scientist,Pune,Medium,86162.0,33.3
+3.8,Bachelor,Developer,Remote,Medium,59696.0,43.1
+4.6,Bachelor,Junior Developer,Remote,Medium,50889.0,46.7
+0.2,Bachelor,Lead,Mumbai,Large,83054.0,33.8
+1.9,Master,Junior Developer,Bangalore,Small,46002.0,24.0
+3.5,High School,Junior Developer,Hyderabad,Medium,40205.0,23.7
+4.6,Bachelor,Developer,Bangalore,Medium,61197.0,37.9
+1.4,High School,Lead,Bangalore,Large,76623.0,38.2
+2.8,Bachelor,Analyst,Remote,Medium,58754.0,31.1
+2.0,High School,Junior Developer,Hyderabad,Small,14862.0,32.5
+3.9,Bachelor,Developer,Remote,Medium,58139.0,63.0
+7.3,Master,Senior Developer,Remote,Medium,86049.0,33.4
+2.5,Master,Developer,Remote,Small,58015.0,29.9
+0.9,Bachelor,Manager,Delhi,Medium,85801.0,51.7
+1.8,Bachelor,Data Scientist,Bangalore,Large,79693.0,35.0
+10.1,Bachelor,Developer,Bangalore,Large,77332.0,53.2
+1.6,Master,Developer,Bangalore,Small,51601.0,46.5
+1.1,Master,Developer,Delhi,Large,77143.0,33.9
+2.4,Bachelor,Analyst,Pune,Medium,43238.0,33.7
+3.1,Bachelor,Junior Developer,Mumbai,Small,42529.0,41.2
+2.1,Master,Analyst,Mumbai,Small,67309.0,29.7
+0.8,High School,Lead,Delhi,Small,50308.0,22.2
+4.2,Bachelor,Developer,Bangalore,Large,68997.0,41.5
+3.9,Master,Developer,Mumbai,Small,53784.0,31.6
+5.5,Master,Manager,Delhi,Small,89163.0,46.6
+3.9,Bachelor,Manager,Remote,Medium,84533.0,45.2
+9.6,Bachelor,Senior Developer,Hyderabad,Medium,76514.0,67.3
+5.8,Bachelor,Senior Developer,Mumbai,Medium,83069.0,58.7
+5.0,Bachelor,Manager,Hyderabad,Medium,87120.0,40.9
+7.5,Bachelor,Lead,Bangalore,Small,72777.0,57.5
+3.7,Bachelor,Senior Developer,Mumbai,Large,97543.0,46.0
+2.9,Master,Data Scientist,Delhi,Small,92486.0,42.0
+4.2,Master,Data Scientist,Pune,Medium,80508.0,37.8
+0.4,High School,Lead,Mumbai,Medium,60682.0,20.9
+3.7,Bachelor,Manager,Mumbai,Small,85340.0,46.1
+3.1,Bachelor,Senior Developer,Mumbai,Large,84790.0,22.2
+4.5,Bachelor,Developer,Mumbai,Medium,48076.0,40.8
+6.8,Bachelor,Manager,Delhi,Small,96869.0,24.9
+5.1,Bachelor,Senior Developer,Delhi,Large,90802.0,31.9
+1.8,Master,Lead,Pune,Medium,89455.0,26.6
+6.1,Bachelor,Data Scientist,Delhi,Medium,102054.0,59.3
+9.7,Master,Lead,Delhi,Medium,107018.0,66.0
+6.9,PhD,Senior Developer,Bangalore,Large,112389.0,45.2
+1.0,High School,Lead,Bangalore,Small,69461.0,40.3
+5.0,Bachelor,Senior Developer,Hyderabad,Small,71810.0,53.9
+1.1,PhD,Senior Developer,Pune,Medium,77468.0,31.7
+2.7,PhD,Lead,Bangalore,Small,95466.0,24.3
+4.4,High School,Junior Developer,Pune,Medium,35486.0,41.1
+4.0,High School,Developer,Pune,Medium,49033.0,41.0
+6.8,High School,Manager,Mumbai,Small,83413.0,38.1
+9.7,PhD,Data Scientist,Remote,Small,93332.0,62.8
+4.8,High School,Developer,Remote,Medium,43625.0,47.2
+2.5,Bachelor,Manager,Remote,Large,97122.0,42.0
+0.4,Master,Manager,Pune,Medium,89310.0,34.0
+8.0,High School,Data Scientist,Mumbai,Medium,89518.0,61.3
+3.1,Bachelor,Developer,Hyderabad,Small,50647.0,37.5
+3.2,Bachelor,Data Scientist,Hyderabad,Medium,84155.0,41.6
+3.4,Master,Senior Developer,Remote,Small,68597.0,36.2
+4.6,Bachelor,Data Scientist,Hyderabad,Medium,98267.0,38.0
+4.7,Bachelor,Lead,Mumbai,Medium,89186.0,57.5
+2.7,Bachelor,Junior Developer,Remote,Large,57007.0,17.7
+3.1,Bachelor,Junior Developer,Mumbai,Medium,44535.0,48.1
+2.0,High School,Junior Developer,Hyderabad,Medium,42368.0,29.8
+1.8,Bachelor,Developer,Remote,Medium,51241.0,27.9
+1.8,Bachelor,Developer,Mumbai,Large,74870.0,38.0
+3.1,Master,Senior Developer,Delhi,Medium,80575.0,24.4
+1.5,Master,Analyst,Delhi,Medium,55470.0,26.3
+0.1,Bachelor,Junior Developer,Mumbai,Large,42599.0,21.8
+2.5,Bachelor,Senior Developer,Mumbai,Small,66885.0,35.3
+1.1,Bachelor,Analyst,Bangalore,Small,45638.0,25.3
+3.6,Master,Junior Developer,Bangalore,Small,55694.0,56.8
+2.0,Bachelor,Developer,Pune,Large,61914.0,54.0
+4.7,Bachelor,Analyst,Remote,Small,51065.0,23.9
+1.2,Bachelor,Lead,Pune,Large,83629.0,39.0
+0.5,Bachelor,Lead,Pune,Medium,66077.0,40.1
+3.1,Bachelor,Lead,Hyderabad,Small,69074.0,44.7
+2.4,Bachelor,Data Scientist,Delhi,Medium,79124.0,30.6
+1.0,High School,Lead,Hyderabad,Small,52022.0,30.6
+5.8,Master,Manager,Remote,Medium,99011.0,39.9
+1.4,Bachelor,Junior Developer,Mumbai,Medium,46986.0,30.0
+1.7,High School,Lead,Bangalore,Medium,75777.0,23.0
+6.5,Bachelor,Analyst,Remote,Small,54962.0,48.4
+4.8,Bachelor,Manager,Mumbai,Medium,103790.0,29.4
+1.2,Bachelor,Manager,Remote,Large,104703.0,31.6
+2.6,Bachelor,Manager,Mumbai,Medium,98040.0,25.3
+1.1,Bachelor,Senior Developer,Bangalore,Large,81476.0,35.4
+6.2,Bachelor,Analyst,Mumbai,Small,64015.0,41.8
+6.2,Bachelor,Senior Developer,Pune,Large,91323.0,51.5
+10.6,High School,Manager,Remote,Medium,91915.0,72.6
+13.4,Master,Data Scientist,Bangalore,Small,114677.0,86.1
+2.0,Bachelor,Lead,Mumbai,Large,94913.0,10.7
+5.5,Bachelor,Junior Developer,Pune,Large,60121.0,38.2
+0.5,High School,Analyst,Pune,Medium,53167.0,28.5
+3.8,Bachelor,Data Scientist,Delhi,Small,77332.0,46.0
+4.6,Bachelor,Developer,Pune,Small,45351.0,27.3
+1.4,Bachelor,Senior Developer,Hyderabad,Medium,61990.0,24.4
+1.9,Master,Lead,Bangalore,Large,100128.0,37.0
+6.2,High School,Lead,Bangalore,Small,75372.0,49.4
+4.6,Bachelor,Developer,Bangalore,Large,76312.0,47.6
+9.8,Master,Developer,Mumbai,Small,73427.0,63.8
+9.0,Master,Analyst,Remote,Large,95797.0,60.4
+0.6,High School,Lead,Mumbai,Large,87374.0,33.7
+2.2,Bachelor,Developer,Hyderabad,Medium,51200.0,37.2
+1.3,Bachelor,Lead,Remote,Medium,63677.0,40.5
+5.7,High School,Data Scientist,Pune,Large,98809.0,24.7
+4.1,Bachelor,Analyst,Mumbai,Medium,62962.0,57.7
+1.4,High School,Developer,Remote,Medium,32277.0,12.2
+1.6,Master,Data Scientist,Pune,Medium,75830.0,24.0
+7.7,Bachelor,Data Scientist,Remote,Small,84970.0,50.8
+2.4,High School,Developer,Pune,Large,38828.0,43.9
+0.4,High School,Analyst,Remote,Small,27798.0,1.2
+1.3,Master,Lead,Mumbai,Large,103306.0,33.6
+11.1,High School,Manager,Mumbai,Small,93975.0,71.2
+6.7,Bachelor,Lead,Hyderabad,Medium,81186.0,60.0
+1.0,Bachelor,Junior Developer,Delhi,Small,34927.0,26.0
+3.8,Bachelor,Developer,Bangalore,Medium,50619.0,38.4
+6.4,Bachelor,Senior Developer,Mumbai,Medium,74413.0,43.0
+0.6,High School,Analyst,Mumbai,Medium,52330.0,27.9
+6.9,Bachelor,Developer,Pune,Medium,56787.0,40.4
+4.6,High School,Junior Developer,Delhi,Large,51246.0,34.9
+1.8,Bachelor,Data Scientist,Mumbai,Medium,72882.0,39.7
+5.1,Bachelor,Senior Developer,Remote,Medium,79264.0,46.6
+4.2,Bachelor,Senior Developer,Delhi,Medium,76481.0,47.5
+4.4,High School,Lead,Bangalore,Small,70143.0,45.3
+3.7,Bachelor,Manager,Remote,Medium,97723.0,48.1
+1.5,Bachelor,Lead,Pune,Medium,68398.0,43.3
+1.8,PhD,Analyst,Hyderabad,Medium,76733.0,18.0
+2.8,Bachelor,Senior Developer,Remote,Medium,50441.0,29.9
+3.5,Bachelor,Senior Developer,Bangalore,Medium,97123.0,38.2
+5.4,Bachelor,Manager,Remote,Small,79603.0,46.0
+11.3,Master,Analyst,Delhi,Medium,97910.0,57.2
+4.0,Master,Developer,Delhi,Large,67095.0,51.1
+5.3,Bachelor,Manager,Bangalore,Medium,103571.0,65.7
+6.2,Bachelor,Data Scientist,Delhi,Medium,106261.0,50.5
+5.6,Bachelor,Lead,Remote,Small,70718.0,47.6
+1.5,Bachelor,Developer,Hyderabad,Large,52913.0,43.0
+8.2,Master,Lead,Remote,Small,85290.0,35.9
+7.4,Bachelor,Manager,Hyderabad,Medium,79986.0,52.5
+3.7,High School,Developer,Delhi,Large,56097.0,50.9
+1.6,Master,Manager,Remote,Medium,99768.0,28.4
+3.4,Master,Data Scientist,Delhi,Medium,95514.0,27.9
+0.7,Bachelor,Junior Developer,Hyderabad,Medium,42127.0,30.2
+8.9,Bachelor,Senior Developer,Delhi,Small,76021.0,56.1
+2.0,Bachelor,Analyst,Mumbai,Medium,67832.0,26.9
+2.6,Master,Developer,Pune,Small,38921.0,58.8
+8.5,Master,Senior Developer,Remote,Medium,87711.0,50.7
+7.8,Bachelor,Junior Developer,Mumbai,Small,71088.0,41.9
+4.3,Bachelor,Developer,Delhi,Large,56920.0,42.0
+9.8,Master,Senior Developer,Delhi,Small,82917.0,68.5
+1.4,Bachelor,Senior Developer,Pune,Medium,80334.0,34.4
+4.3,Bachelor,Developer,Delhi,Medium,66433.0,47.8
+1.5,Master,Senior Developer,Pune,Medium,70893.0,25.8
+7.1,Bachelor,Senior Developer,Remote,Medium,75849.0,66.2
+6.9,Bachelor,Developer,Hyderabad,Medium,61783.0,56.3
+10.3,Master,Analyst,Pune,Medium,79615.0,71.4
+3.3,Master,Senior Developer,Pune,Medium,78006.0,43.6
+12.1,Bachelor,Senior Developer,Mumbai,Medium,87960.0,74.5
+1.3,Bachelor,Analyst,Delhi,Medium,60502.0,25.2
+3.2,Bachelor,Lead,Remote,Small,60413.0,34.7
+1.4,Bachelor,Data Scientist,Hyderabad,Large,80587.0,47.7
+3.9,High School,Lead,Bangalore,Medium,72470.0,57.3
+1.5,Master,Junior Developer,Pune,Small,58721.0,23.0
+7.1,Bachelor,Lead,Bangalore,Medium,89858.0,53.8
+4.7,Bachelor,Lead,Delhi,Large,90747.0,39.8
+1.2,Bachelor,Junior Developer,Pune,Small,40433.0,26.6
+6.0,PhD,Senior Developer,Bangalore,Medium,95733.0,50.8
+9.4,Bachelor,Senior Developer,Mumbai,Medium,99744.0,69.6
+5.0,High School,Lead,Bangalore,Small,64969.0,49.5
+0.9,High School,Junior Developer,Mumbai,Large,53404.0,29.5
+3.0,Bachelor,Senior Developer,Hyderabad,Medium,62963.0,44.1
+5.5,Bachelor,Manager,Delhi,Small,89025.0,42.9
+2.7,Bachelor,Developer,Remote,Large,62601.0,42.2
+1.3,Bachelor,Developer,Bangalore,Medium,52148.0,47.9
+7.6,High School,Data Scientist,Pune,Large,88186.0,32.0
+2.7,Bachelor,Developer,Delhi,Medium,49296.0,46.1
+9.4,Bachelor,Lead,Bangalore,Medium,96059.0,42.8
+2.2,High School,Developer,Pune,Large,56432.0,48.9
+2.5,High School,Developer,Pune,Small,30983.0,31.1
+2.0,High School,Manager,Remote,Medium,76298.0,23.8
+2.9,High School,Senior Developer,Remote,Medium,55497.0,45.7
+4.7,Bachelor,Manager,Pune,Small,82188.0,47.7
+1.4,High School,Lead,Remote,Medium,61196.0,24.2
+1.2,Bachelor,Developer,Pune,Small,39544.0,21.1
+0.6,High School,Analyst,Bangalore,Medium,70784.0,29.9
+0.5,PhD,Senior Developer,Hyderabad,Medium,86493.0,19.5
+0.9,Master,Data Scientist,Remote,Large,101962.0,22.1
+2.2,Bachelor,Data Scientist,Mumbai,Small,78904.0,37.8
+3.8,Bachelor,Developer,Mumbai,Medium,56497.0,31.7
+4.5,Bachelor,Developer,Mumbai,Small,60352.0,47.8
+3.7,Bachelor,Data Scientist,Hyderabad,Medium,83071.0,56.0
+8.7,High School,Data Scientist,Pune,Medium,92840.0,54.6
+10.5,Bachelor,Analyst,Pune,Medium,73326.0,62.8
+2.7,Bachelor,Lead,Delhi,Large,81720.0,58.3
+1.4,Master,Developer,Mumbai,Large,76723.0,22.3
+12.6,High School,Data Scientist,Mumbai,Small,77363.0,79.7
+7.4,Master,Analyst,Pune,Medium,84085.0,62.9
+7.1,Master,Junior Developer,Mumbai,Medium,60647.0,59.8
+2.1,High School,Data Scientist,Pune,Medium,68648.0,49.2
+6.1,Bachelor,Senior Developer,Pune,Small,52746.0,51.1
+3.7,High School,Senior Developer,Remote,Medium,79993.0,35.3
+3.1,Bachelor,Junior Developer,Pune,Medium,34968.0,50.2
+3.1,Bachelor,Lead,Bangalore,Medium,81279.0,50.6
+4.8,Bachelor,Developer,Bangalore,Large,78746.0,55.5
+8.8,Bachelor,Developer,Bangalore,Medium,75891.0,56.8
+13.3,Master,Data Scientist,Bangalore,Small,113411.0,62.7
+2.4,High School,Senior Developer,Hyderabad,Small,45262.0,39.1
+3.9,PhD,Lead,Delhi,Large,122609.0,51.1
+3.1,Bachelor,Lead,Delhi,Large,97507.0,49.5
+4.6,Master,Lead,Pune,Medium,92898.0,39.5
+2.8,Bachelor,Data Scientist,Mumbai,Medium,88525.0,41.6
+1.9,High School,Developer,Bangalore,Large,51369.0,22.6
+2.4,Master,Lead,Delhi,Medium,81523.0,47.0
+2.1,Bachelor,Data Scientist,Delhi,Large,103097.0,28.5
+3.0,Bachelor,Data Scientist,Bangalore,Medium,96498.0,46.9
+1.0,Bachelor,Junior Developer,Hyderabad,Medium,37927.0,21.5
+2.1,Bachelor,Manager,Hyderabad,Medium,85970.0,46.6
+4.6,Bachelor,Lead,Delhi,Small,72053.0,47.0
+4.5,Master,Manager,Hyderabad,Small,91739.0,35.7
+4.0,High School,Developer,Remote,Medium,43514.0,48.9
+8.3,Bachelor,Data Scientist,Bangalore,Large,114175.0,49.0
+4.7,Master,Analyst,Delhi,Medium,70422.0,51.6
+8.2,High School,Lead,Bangalore,Medium,74629.0,51.9
+13.3,High School,Analyst,Hyderabad,Small,72493.0,52.7
+6.2,Master,Senior Developer,Bangalore,Small,73699.0,38.8
+1.0,Bachelor,Developer,Hyderabad,Medium,39896.0,28.7
+4.1,Bachelor,Junior Developer,Hyderabad,Medium,47319.0,56.0
+3.7,High School,Junior Developer,Bangalore,Medium,39760.0,50.1
+9.3,Bachelor,Manager,Hyderabad,Small,104040.0,74.1
+3.1,High School,Data Scientist,Remote,Large,88599.0,55.8
+1.7,Bachelor,Manager,Pune,Medium,94580.0,29.8
+2.2,Master,Senior Developer,Bangalore,Large,95960.0,34.7
+1.0,Bachelor,Senior Developer,Pune,Medium,71570.0,28.9
+11.9,Bachelor,Junior Developer,Bangalore,Small,53295.0,59.0
+3.4,PhD,Analyst,Hyderabad,Medium,81211.0,21.8
+1.1,Bachelor,Lead,Hyderabad,Medium,67281.0,33.2
+9.9,Master,Junior Developer,Delhi,Medium,72116.0,46.8
+11.0,Bachelor,Junior Developer,Remote,Medium,67473.0,62.7
+3.8,Master,Analyst,Delhi,Small,65677.0,62.6
+0.9,High School,Analyst,Pune,Medium,57292.0,27.6
+2.3,High School,Senior Developer,Hyderabad,Large,58469.0,38.8
+2.8,Bachelor,Analyst,Delhi,Small,56602.0,47.5
+3.5,Bachelor,Manager,Hyderabad,Small,70014.0,43.3
+1.3,Master,Senior Developer,Bangalore,Large,88353.0,36.8
+6.5,Bachelor,Analyst,Delhi,Small,65923.0,45.9
+0.3,Bachelor,Data Scientist,Pune,Medium,75884.0,28.6
+7.3,Master,Senior Developer,Delhi,Medium,93009.0,42.3
+8.3,Bachelor,Senior Developer,Hyderabad,Medium,71922.0,63.4
+2.5,Bachelor,Junior Developer,Mumbai,Medium,37690.0,20.1
+3.2,Bachelor,Lead,Mumbai,Small,76856.0,49.3
+9.1,Bachelor,Junior Developer,Remote,Small,62152.0,43.3
+5.4,High School,Developer,Hyderabad,Medium,40832.0,55.8
+2.6,PhD,Senior Developer,Bangalore,Medium,99978.0,34.3
+2.8,High School,Analyst,Delhi,Medium,52947.0,26.1
+4.8,High School,Analyst,Mumbai,Medium,47914.0,50.2
+11.2,Master,Analyst,Bangalore,Small,71348.0,72.9
+2.9,Bachelor,Senior Developer,Hyderabad,Small,58926.0,34.3
+2.5,Bachelor,Analyst,Bangalore,Large,69764.0,44.7
+3.5,Bachelor,Developer,Hyderabad,Medium,44497.0,17.6
+3.5,Bachelor,Senior Developer,Remote,Medium,53448.0,27.3
+4.2,Bachelor,Analyst,Delhi,Small,48626.0,55.5
+3.2,Bachelor,Senior Developer,Bangalore,Small,62950.0,37.4
+7.6,Bachelor,Data Scientist,Delhi,Medium,94149.0,34.2
+1.5,Master,Senior Developer,Bangalore,Large,83990.0,27.5
+4.6,Bachelor,Developer,Hyderabad,Large,68815.0,34.6
+4.7,Master,Junior Developer,Hyderabad,Large,80720.0,42.4
+1.7,High School,Senior Developer,Bangalore,Large,71553.0,31.4
+4.6,Bachelor,Lead,Remote,Large,88230.0,45.6
+4.8,Bachelor,Developer,Hyderabad,Medium,65025.0,43.7
+0.2,Master,Manager,Pune,Small,74721.0,44.2
+1.4,High School,Data Scientist,Pune,Medium,68001.0,38.4
+9.6,Bachelor,Developer,Delhi,Small,56591.0,63.4
+2.0,Master,Junior Developer,Pune,Small,36104.0,47.7
+1.1,Bachelor,Analyst,Pune,Small,43841.0,29.4
+0.5,Master,Analyst,Remote,Medium,47400.0,18.9
+1.3,High School,Developer,Remote,Medium,52897.0,46.0
+3.1,Master,Manager,Mumbai,Small,84701.0,40.7
+1.0,Master,Analyst,Mumbai,Medium,83689.0,34.4
+5.4,Bachelor,Data Scientist,Remote,Large,96105.0,39.9
+1.6,Bachelor,Lead,Mumbai,Medium,83719.0,28.6
+4.3,High School,Manager,Remote,Large,84690.0,51.4
+8.7,Master,Developer,Mumbai,Small,70063.0,65.9
+8.3,Bachelor,Manager,Hyderabad,Small,94804.0,62.7
+4.2,High School,Analyst,Remote,Medium,56716.0,50.5
+1.2,Bachelor,Analyst,Delhi,Medium,65598.0,39.3
+3.2,Bachelor,Developer,Delhi,Medium,52453.0,40.9
+4.3,High School,Analyst,Remote,Medium,47757.0,41.1
+14.9,Bachelor,Analyst,Pune,Medium,72047.0,86.8
+0.5,High School,Lead,Delhi,Large,79186.0,27.8
+3.3,Bachelor,Lead,Pune,Medium,87259.0,43.6
+5.3,Bachelor,Junior Developer,Delhi,Small,57528.0,37.9
+3.7,Bachelor,Lead,Bangalore,Medium,84841.0,34.5
+4.0,Master,Senior Developer,Bangalore,Small,66868.0,39.6
+1.7,Master,Manager,Remote,Small,69823.0,27.1
+6.5,Bachelor,Manager,Delhi,Small,95333.0,57.5
+3.5,High School,Developer,Hyderabad,Medium,30630.0,27.0
+4.0,Bachelor,Lead,Pune,Small,67275.0,43.0
+6.9,Bachelor,Junior Developer,Delhi,Small,46006.0,52.0
+2.6,Bachelor,Analyst,Remote,Medium,57644.0,19.7
+8.0,Bachelor,Junior Developer,Pune,Medium,58286.0,49.6
+1.0,Bachelor,Junior Developer,Mumbai,Medium,49105.0,35.6
+4.1,Master,Data Scientist,Remote,Medium,73877.0,46.6
+1.6,High School,Analyst,Delhi,Small,40317.0,32.8
+1.3,Bachelor,Senior Developer,Hyderabad,Small,37763.0,40.7
+11.2,High School,Lead,Mumbai,Small,84258.0,62.5
+1.1,Master,Analyst,Remote,Large,70759.0,33.4
+3.5,High School,Junior Developer,Delhi,Medium,23744.0,43.0
+1.0,High School,Analyst,Bangalore,Small,33486.0,42.3
+7.7,Bachelor,Senior Developer,Delhi,Medium,74839.0,46.3
+2.4,Bachelor,Manager,Bangalore,Large,109326.0,32.3
+6.9,Bachelor,Developer,Bangalore,Medium,65373.0,44.0
+5.1,Bachelor,Lead,Remote,Large,92956.0,42.0
+13.5,Bachelor,Lead,Delhi,Small,100450.0,84.8
+0.8,High School,Data Scientist,Delhi,Small,59831.0,38.1
+1.4,Bachelor,Manager,Bangalore,Medium,93834.0,22.9
+6.7,Master,Lead,Pune,Medium,100871.0,44.1
+4.3,Bachelor,Data Scientist,Mumbai,Medium,79308.0,46.6
+2.8,Master,Data Scientist,Hyderabad,Medium,105384.0,29.3
+11.9,Bachelor,Data Scientist,Delhi,Medium,91438.0,58.4
+3.3,Bachelor,Lead,Mumbai,Medium,89939.0,53.3
+1.7,High School,Lead,Mumbai,Small,47263.0,29.0
+7.0,Bachelor,Lead,Pune,Medium,90810.0,60.5
+3.4,Master,Senior Developer,Mumbai,Large,107695.0,52.8
+3.6,PhD,Data Scientist,Delhi,Medium,104496.0,33.5
+5.5,Bachelor,Senior Developer,Remote,Medium,68949.0,37.6
+5.6,High School,Developer,Remote,Medium,51084.0,44.0
+1.4,High School,Lead,Mumbai,Large,76165.0,23.3
+2.7,Bachelor,Analyst,Delhi,Medium,76946.0,39.3
+0.9,Bachelor,Manager,Delhi,Medium,87338.0,30.6
+4.3,High School,Junior Developer,Bangalore,Large,51039.0,46.5
+11.0,Master,Developer,Pune,Large,84678.0,77.0
+1.4,Bachelor,Analyst,Hyderabad,Medium,51336.0,42.4
+0.7,Master,Junior Developer,Bangalore,Medium,51378.0,37.0
+2.0,Master,Junior Developer,Hyderabad,Medium,54195.0,16.3
+2.8,Master,Lead,Delhi,Medium,85699.0,42.8
+5.6,Bachelor,Manager,Remote,Large,95935.0,64.0
+2.5,Bachelor,Junior Developer,Bangalore,Large,76791.0,7.4
+4.4,Bachelor,Data Scientist,Mumbai,Small,71559.0,50.1
+2.2,Bachelor,Analyst,Mumbai,Medium,64573.0,35.0
+2.9,Bachelor,Junior Developer,Hyderabad,Medium,53540.0,30.2
+1.6,PhD,Developer,Delhi,Large,87241.0,42.8
+1.2,Master,Manager,Remote,Medium,91931.0,50.7
+5.8,Master,Manager,Hyderabad,Medium,102674.0,55.2
+2.3,Master,Junior Developer,Remote,Small,48212.0,33.2
+4.6,Bachelor,Manager,Pune,Medium,93332.0,34.4
+1.6,High School,Developer,Remote,Small,26128.0,36.2
+3.4,Bachelor,Analyst,Mumbai,Large,63305.0,48.9
+0.3,Bachelor,Developer,Bangalore,Medium,46857.0,27.0
+2.5,Master,Developer,Bangalore,Medium,55828.0,34.6
+1.8,Bachelor,Data Scientist,Bangalore,Medium,78263.0,63.6
+7.5,Bachelor,Lead,Remote,Large,95266.0,63.3
+1.0,Bachelor,Junior Developer,Mumbai,Small,40870.0,44.5
+3.0,High School,Analyst,Remote,Small,53244.0,24.4
+4.3,Bachelor,Manager,Delhi,Large,98301.0,35.8
+6.8,Master,Developer,Mumbai,Large,90797.0,51.1
+6.1,High School,Junior Developer,Mumbai,Large,60648.0,38.3
+3.2,Bachelor,Analyst,Remote,Small,59768.0,55.6
+3.5,Bachelor,Analyst,Remote,Small,54610.0,54.6
+7.5,High School,Junior Developer,Bangalore,Small,31932.0,47.2
+3.1,High School,Lead,Mumbai,Small,48416.0,57.1
+3.8,PhD,Data Scientist,Bangalore,Medium,110090.0,41.4
+7.6,Bachelor,Manager,Delhi,Small,84972.0,78.7
+14.7,Bachelor,Data Scientist,Pune,Medium,98557.0,75.5
+4.1,High School,Analyst,Bangalore,Small,36059.0,48.1
+4.9,Bachelor,Manager,Remote,Medium,91088.0,58.7
+6.0,Bachelor,Analyst,Hyderabad,Large,90062.0,60.8
+7.6,Bachelor,Developer,Pune,Small,48931.0,57.9
+6.9,High School,Developer,Delhi,Medium,57522.0,49.3
+2.1,Master,Junior Developer,Remote,Medium,53382.0,41.4
+4.3,Bachelor,Manager,Pune,Small,70285.0,34.7
+6.9,Bachelor,Manager,Remote,Medium,99678.0,52.2
+8.7,Bachelor,Analyst,Bangalore,Medium,66642.0,45.0
+3.0,Bachelor,Data Scientist,Remote,Medium,81173.0,21.2
+4.2,Master,Developer,Delhi,Large,74668.0,43.1
+4.6,Master,Senior Developer,Hyderabad,Medium,89345.0,56.4
+3.4,Bachelor,Junior Developer,Bangalore,Small,33335.0,49.5
+4.1,Master,Manager,Bangalore,Medium,106327.0,41.5
+20.7,Master,Lead,Delhi,Small,108682.0,100.0
+2.9,Master,Lead,Delhi,Medium,85711.0,33.0
+3.1,Bachelor,Senior Developer,Pune,Medium,39118.0,20.1
+0.6,Bachelor,Developer,Hyderabad,Small,55937.0,10.0
+0.5,Bachelor,Developer,Remote,Large,60404.0,19.7
+4.8,Master,Developer,Pune,Large,70461.0,52.6
+6.9,High School,Data Scientist,Remote,Large,79803.0,44.4
+6.1,Bachelor,Analyst,Remote,Medium,61235.0,52.9
+1.6,Bachelor,Lead,Remote,Medium,78935.0,51.3
+5.8,Bachelor,Developer,Pune,Large,53463.0,36.4
+3.0,Bachelor,Lead,Bangalore,Medium,79867.0,43.8
+2.5,Master,Senior Developer,Delhi,Large,103165.0,42.9
+0.9,Bachelor,Junior Developer,Bangalore,Small,27728.0,24.1
+1.8,Master,Analyst,Hyderabad,Small,60243.0,48.9
+4.9,Bachelor,Data Scientist,Pune,Medium,104426.0,41.8
+4.2,Bachelor,Manager,Hyderabad,Medium,96457.0,38.8
+3.8,Bachelor,Senior Developer,Delhi,Medium,72607.0,62.5
+0.3,High School,Analyst,Delhi,Large,61653.0,36.1
+3.8,Bachelor,Lead,Mumbai,Small,70393.0,50.7
+2.0,Bachelor,Senior Developer,Hyderabad,Small,67397.0,49.5
+4.3,Bachelor,Manager,Bangalore,Large,100405.0,36.4
+7.7,Master,Analyst,Hyderabad,Small,55727.0,65.6
+2.3,Bachelor,Data Scientist,Pune,Medium,78470.0,31.9
+3.6,High School,Junior Developer,Delhi,Medium,33466.0,35.4
+11.9,High School,Manager,Delhi,Small,85550.0,63.0
+4.1,Bachelor,Analyst,Hyderabad,Small,52127.0,36.1
+3.3,Bachelor,Data Scientist,Hyderabad,Medium,94179.0,48.1
+1.6,High School,Lead,Remote,Large,78762.0,37.5
+5.9,Bachelor,Manager,Hyderabad,Medium,96906.0,42.8
+1.4,Bachelor,Senior Developer,Remote,Medium,62776.0,40.9
+8.0,Bachelor,Developer,Pune,Medium,54529.0,51.2
+5.4,Master,Senior Developer,Pune,Small,55351.0,42.9
+2.1,Bachelor,Lead,Bangalore,Small,70105.0,36.8
+1.7,Bachelor,Analyst,Hyderabad,Medium,65757.0,39.7
+1.7,Master,Junior Developer,Bangalore,Small,47533.0,39.0
+0.5,Bachelor,Manager,Mumbai,Small,72721.0,27.9
+4.7,Bachelor,Analyst,Pune,Medium,68116.0,52.6
+0.3,Bachelor,Junior Developer,Delhi,Medium,43933.0,28.7
+3.1,High School,Lead,Remote,Small,69686.0,32.8
+3.0,Bachelor,Manager,Mumbai,Medium,101862.0,24.3
+2.6,Bachelor,Data Scientist,Delhi,Medium,91876.0,47.6
+4.7,Master,Data Scientist,Mumbai,Small,96462.0,44.2
+2.1,Master,Analyst,Bangalore,Large,71879.0,38.4
+3.8,Bachelor,Senior Developer,Bangalore,Small,67904.0,51.9
+8.0,Bachelor,Analyst,Remote,Large,82011.0,49.2
+5.1,Bachelor,Senior Developer,Pune,Small,67051.0,31.6
+2.4,Bachelor,Lead,Remote,Large,88741.0,37.9
+3.4,Bachelor,Data Scientist,Delhi,Small,79422.0,43.3
+2.6,Bachelor,Manager,Mumbai,Medium,112807.0,35.2
+2.9,Bachelor,Data Scientist,Remote,Medium,80191.0,53.4
+3.9,High School,Senior Developer,Hyderabad,Medium,68291.0,16.8
+0.9,PhD,Analyst,Hyderabad,Medium,74032.0,43.9
+0.7,High School,Lead,Pune,Small,59725.0,40.0
+1.5,Master,Data Scientist,Remote,Medium,95515.0,39.1
+4.8,Master,Lead,Delhi,Small,86515.0,11.0
+5.3,Bachelor,Data Scientist,Hyderabad,Large,111954.0,58.7
+5.9,Master,Analyst,Pune,Small,59726.0,37.4
+1.6,Bachelor,Junior Developer,Remote,Medium,39302.0,29.7
+3.6,Bachelor,Analyst,Pune,Medium,63899.0,39.1
+2.4,Bachelor,Data Scientist,Delhi,Medium,90846.0,41.3
+3.0,Bachelor,Senior Developer,Hyderabad,Small,60435.0,45.4
+2.4,Bachelor,Analyst,Hyderabad,Medium,71086.0,46.1
+4.1,Bachelor,Manager,Hyderabad,Medium,85906.0,50.5
+1.9,Bachelor,Senior Developer,Bangalore,Large,69675.0,38.2
+7.4,Bachelor,Senior Developer,Hyderabad,Medium,80265.0,56.4
+7.4,Bachelor,Senior Developer,Mumbai,Medium,80183.0,41.3
+4.7,High School,Lead,Bangalore,Medium,78743.0,36.6
+6.8,High School,Developer,Remote,Small,38381.0,59.4
+0.8,Bachelor,Developer,Bangalore,Medium,48880.0,40.8
+7.7,High School,Junior Developer,Bangalore,Medium,49800.0,60.3
+4.4,High School,Senior Developer,Bangalore,Medium,64031.0,38.1
+2.0,Master,Developer,Pune,Medium,58560.0,45.1
+1.8,High School,Junior Developer,Mumbai,Medium,37975.0,23.8
+9.5,Bachelor,Lead,Delhi,Large,99771.0,69.3
+6.0,Bachelor,Senior Developer,Hyderabad,Medium,81853.0,45.4
+3.0,Master,Manager,Bangalore,Medium,102552.0,55.8
+0.8,Bachelor,Lead,Delhi,Medium,93654.0,17.2
+7.9,Bachelor,Junior Developer,Pune,Medium,59086.0,71.3
+1.2,Bachelor,Lead,Delhi,Small,61993.0,30.0
+2.5,Bachelor,Manager,Bangalore,Small,101365.0,33.7
+3.0,Bachelor,Lead,Remote,Small,69309.0,40.9
+1.8,High School,Junior Developer,Mumbai,Medium,47521.0,28.4
+2.9,PhD,Manager,Delhi,Large,124537.0,38.0
+3.3,Bachelor,Manager,Bangalore,Medium,96584.0,32.5
+2.8,Bachelor,Lead,Bangalore,Medium,84885.0,31.4
+4.2,Master,Manager,Hyderabad,Large,102583.0,47.5
+9.7,Bachelor,Analyst,Remote,Large,85340.0,50.1
+0.9,Master,Lead,Hyderabad,Medium,74201.0,25.0
+3.8,Bachelor,Senior Developer,Remote,Small,56205.0,27.7
+1.2,Master,Manager,Mumbai,Small,82595.0,28.6
+0.8,High School,Lead,Hyderabad,Small,57460.0,45.5
+6.4,Master,Senior Developer,Mumbai,Small,81473.0,40.7
+4.0,Master,Manager,Pune,Small,93849.0,34.7
+0.7,Bachelor,Senior Developer,Pune,Medium,65698.0,34.0
+2.9,High School,Data Scientist,Remote,Small,55945.0,35.0
+1.5,Bachelor,Manager,Remote,Small,70912.0,56.8
+2.9,PhD,Data Scientist,Hyderabad,Small,101163.0,37.1
+5.5,Bachelor,Junior Developer,Pune,Medium,61543.0,49.9
+5.1,Bachelor,Junior Developer,Delhi,Medium,45026.0,54.7
+2.4,High School,Lead,Delhi,Medium,56553.0,46.4
+6.6,Bachelor,Developer,Delhi,Small,46385.0,52.1
+8.4,Bachelor,Data Scientist,Pune,Medium,102162.0,53.6
+5.5,PhD,Data Scientist,Delhi,Small,109719.0,66.7
+2.1,Bachelor,Junior Developer,Mumbai,Small,32802.0,35.3
+3.0,Master,Data Scientist,Bangalore,Large,108458.0,34.6
+9.5,Bachelor,Developer,Remote,Large,88675.0,52.0
+2.6,High School,Senior Developer,Hyderabad,Medium,61522.0,20.5
+5.1,Bachelor,Senior Developer,Mumbai,Large,97572.0,53.5
+1.8,Bachelor,Developer,Delhi,Medium,60590.0,11.9
+6.7,PhD,Data Scientist,Bangalore,Small,96118.0,50.0
+1.6,Master,Data Scientist,Hyderabad,Large,99680.0,32.8
+3.1,Bachelor,Data Scientist,Mumbai,Small,77478.0,61.7
+5.0,Bachelor,Analyst,Hyderabad,Medium,66833.0,26.7
+10.8,Bachelor,Lead,Remote,Small,88931.0,53.4
+3.9,Master,Manager,Pune,Medium,103069.0,40.3
+2.7,Master,Developer,Delhi,Medium,40910.0,36.1
+2.5,Master,Developer,Mumbai,Medium,55497.0,32.0
+6.5,Bachelor,Analyst,Mumbai,Small,44501.0,48.7
+4.7,Bachelor,Developer,Bangalore,Medium,60803.0,31.5
+5.4,Bachelor,Developer,Bangalore,Medium,62724.0,49.8
+9.0,Bachelor,Analyst,Bangalore,Large,88266.0,33.8
+3.5,Bachelor,Developer,Hyderabad,Medium,47329.0,40.2
+4.4,High School,Data Scientist,Delhi,Medium,83193.0,37.2
+2.5,High School,Analyst,Hyderabad,Small,46730.0,47.7
+1.7,Master,Lead,Delhi,Large,87359.0,52.7
+2.0,Master,Junior Developer,Mumbai,Small,38272.0,32.7
+0.2,Bachelor,Data Scientist,Hyderabad,Small,68399.0,44.5
+4.9,Bachelor,Data Scientist,Hyderabad,Medium,102134.0,41.5
+4.6,Bachelor,Manager,Hyderabad,Large,115798.0,34.1
+4.8,Master,Analyst,Pune,Small,69107.0,61.9
+1.6,Master,Junior Developer,Remote,Small,37360.0,40.0
+2.0,Master,Developer,Delhi,Medium,70095.0,36.0
+2.0,Master,Junior Developer,Delhi,Small,44381.0,42.9
+7.1,Bachelor,Lead,Hyderabad,Medium,81060.0,54.0
+3.8,Bachelor,Senior Developer,Pune,Medium,52448.0,40.7
+3.5,Bachelor,Data Scientist,Hyderabad,Medium,85819.0,27.2
+5.7,Bachelor,Analyst,Delhi,Small,53361.0,44.4
+2.0,Master,Analyst,Remote,Small,57771.0,42.2
+4.4,Bachelor,Junior Developer,Remote,Large,40405.0,42.0
+11.7,High School,Manager,Mumbai,Large,110759.0,74.1
+7.9,Bachelor,Lead,Pune,Small,58351.0,57.5
+4.3,PhD,Senior Developer,Remote,Small,87304.0,34.1
+3.6,Bachelor,Lead,Pune,Small,73375.0,27.6
+4.8,Bachelor,Analyst,Hyderabad,Medium,63371.0,42.8
+8.6,Bachelor,Developer,Mumbai,Medium,72702.0,50.6
+8.2,High School,Senior Developer,Delhi,Medium,62575.0,58.0
+9.6,Bachelor,Analyst,Remote,Medium,72779.0,51.6
+4.0,Master,Manager,Remote,Medium,104358.0,35.8
+0.3,Bachelor,Senior Developer,Bangalore,Large,50846.0,41.4
+11.2,Master,Analyst,Delhi,Small,75822.0,65.1
+1.7,Bachelor,Manager,Remote,Small,73219.0,28.1
+5.7,High School,Developer,Remote,Small,34830.0,47.3
+0.3,Master,Manager,Delhi,Large,116257.0,44.7
+3.4,Bachelor,Lead,Mumbai,Medium,73809.0,43.1
+2.6,Bachelor,Junior Developer,Pune,Medium,42231.0,43.7
+9.6,Master,Lead,Delhi,Small,77873.0,51.3
+4.4,Bachelor,Analyst,Pune,Small,65882.0,53.5
+3.4,Master,Analyst,Mumbai,Small,63830.0,63.4
+4.7,High School,Data Scientist,Mumbai,Medium,76893.0,36.2
+0.1,Bachelor,Lead,Hyderabad,Small,62780.0,18.5
+2.0,High School,Senior Developer,Bangalore,Small,54090.0,37.8
+2.2,Master,Developer,Mumbai,Medium,68179.0,45.4
+5.3,Bachelor,Data Scientist,Mumbai,Small,102783.0,45.0
+1.4,Master,Data Scientist,Pune,Medium,93431.0,23.7
+3.9,Master,Data Scientist,Mumbai,Small,85078.0,40.6
+3.1,Bachelor,Analyst,Delhi,Large,68709.0,45.3
+2.1,Bachelor,Junior Developer,Hyderabad,Medium,44058.0,32.2
+2.2,Bachelor,Manager,Hyderabad,Large,85385.0,42.7
+3.1,Bachelor,Senior Developer,Delhi,Medium,70519.0,50.9
+0.5,Bachelor,Analyst,Remote,Large,70268.0,33.9
+5.8,Bachelor,Developer,Mumbai,Large,67693.0,47.1
+1.7,PhD,Analyst,Bangalore,Medium,74941.0,43.4
+2.7,Master,Junior Developer,Mumbai,Large,83528.0,29.5
+9.4,Master,Analyst,Hyderabad,Medium,73388.0,48.7
+5.9,Master,Analyst,Bangalore,Medium,63257.0,45.0
+1.2,Bachelor,Lead,Remote,Small,53177.0,28.7
+0.1,Bachelor,Developer,Pune,Medium,34877.0,22.3
+4.9,Master,Data Scientist,Pune,Medium,99890.0,63.0
+2.8,Bachelor,Developer,Mumbai,Medium,53714.0,60.1
+3.9,PhD,Developer,Mumbai,Small,67043.0,38.2
+5.7,Bachelor,Lead,Bangalore,Medium,95623.0,48.0
+6.4,Bachelor,Manager,Bangalore,Small,82269.0,47.3
+2.4,Master,Analyst,Remote,Medium,74001.0,48.3
+3.1,PhD,Senior Developer,Mumbai,Small,94291.0,52.4
+4.5,Bachelor,Data Scientist,Hyderabad,Large,93355.0,25.7
+4.7,Master,Manager,Pune,Small,97296.0,48.9
+3.9,Bachelor,Junior Developer,Remote,Small,35865.0,28.6
+8.7,Bachelor,Analyst,Bangalore,Large,92793.0,73.7
+4.6,Master,Data Scientist,Hyderabad,Medium,84628.0,48.2
+5.7,Bachelor,Senior Developer,Mumbai,Small,54236.0,38.9
+4.1,Bachelor,Analyst,Delhi,Medium,62070.0,39.9
+1.4,Bachelor,Junior Developer,Bangalore,Small,30689.0,31.3
+2.0,Bachelor,Lead,Remote,Large,79866.0,41.3
+1.1,Bachelor,Manager,Delhi,Medium,84444.0,43.7
+6.9,Bachelor,Analyst,Hyderabad,Small,65560.0,39.2
+0.7,High School,Data Scientist,Pune,Medium,65139.0,50.5
+3.0,PhD,Developer,Hyderabad,Small,57409.0,55.1
+2.5,Bachelor,Senior Developer,Pune,Medium,64188.0,28.7
+2.4,Master,Analyst,Hyderabad,Large,74647.0,37.9
+2.6,Bachelor,Data Scientist,Bangalore,Large,87728.0,54.9
+9.8,Bachelor,Developer,Bangalore,Medium,56696.0,71.7
+0.4,Bachelor,Data Scientist,Remote,Medium,76356.0,27.8
+8.0,Bachelor,Analyst,Delhi,Small,58450.0,62.1
+2.8,Bachelor,Junior Developer,Hyderabad,Medium,56330.0,68.4
+6.1,Bachelor,Developer,Hyderabad,Medium,48621.0,49.4
+3.5,Bachelor,Developer,Delhi,Medium,51663.0,34.2
+1.2,High School,Data Scientist,Mumbai,Large,97903.0,35.3
+8.5,Bachelor,Lead,Remote,Small,69483.0,58.0
+7.6,High School,Analyst,Hyderabad,Small,49308.0,47.6
+1.3,High School,Lead,Remote,Small,42873.0,38.3
+5.1,Master,Manager,Hyderabad,Small,82413.0,32.8
+2.0,Bachelor,Junior Developer,Hyderabad,Small,49378.0,29.3
+0.8,Bachelor,Lead,Mumbai,Medium,78968.0,40.0
+1.7,Bachelor,Data Scientist,Bangalore,Medium,84469.0,17.6
+8.2,Master,Analyst,Remote,Small,55829.0,63.6
+6.2,Bachelor,Lead,Delhi,Medium,89270.0,28.5
+2.6,Master,Manager,Remote,Small,94459.0,20.5
+8.2,Bachelor,Senior Developer,Mumbai,Medium,91596.0,49.6
+7.3,PhD,Manager,Pune,Medium,121947.0,54.8
+1.7,Master,Developer,Pune,Medium,51364.0,48.4
+9.6,Master,Analyst,Mumbai,Large,100705.0,59.4
+2.5,High School,Developer,Mumbai,Small,41341.0,35.0
+2.7,Bachelor,Lead,Bangalore,Medium,66044.0,43.9
+0.4,Bachelor,Lead,Remote,Large,71830.0,22.5
+2.0,Bachelor,Manager,Remote,Medium,91105.0,37.4
+3.0,Master,Manager,Pune,Small,95008.0,27.0
+4.2,High School,Data Scientist,Delhi,Medium,65011.0,43.4
+1.2,High School,Junior Developer,Remote,Medium,38760.0,32.3
+1.8,Bachelor,Data Scientist,Hyderabad,Large,92362.0,27.4
+9.7,High School,Developer,Hyderabad,Small,53648.0,60.8
+6.9,Bachelor,Data Scientist,Bangalore,Small,78724.0,52.3
+7.8,Master,Manager,Bangalore,Medium,115761.0,65.2
+3.2,Bachelor,Analyst,Pune,Small,58151.0,23.5
+4.3,High School,Data Scientist,Delhi,Small,64789.0,42.1
+5.2,Bachelor,Senior Developer,Delhi,Small,64542.0,38.0
+9.6,Bachelor,Junior Developer,Mumbai,Small,50012.0,67.5
+0.7,High School,Manager,Bangalore,Small,79613.0,39.6
+2.2,Bachelor,Analyst,Remote,Large,66438.0,41.7
+4.0,Master,Lead,Hyderabad,Small,73624.0,35.0
+3.6,Master,Data Scientist,Remote,Small,76473.0,49.7
+1.8,Master,Manager,Hyderabad,Small,87614.0,20.1
+4.9,High School,Lead,Pune,Large,87827.0,27.3
+2.2,PhD,Lead,Hyderabad,Medium,86713.0,23.8
+3.4,Master,Developer,Remote,Medium,76581.0,39.9
+4.7,Master,Developer,Remote,Small,56869.0,50.9
+2.3,High School,Analyst,Delhi,Large,65332.0,7.1
+5.8,Master,Manager,Delhi,Medium,104822.0,60.6
+6.6,Master,Analyst,Bangalore,Small,71354.0,51.1
+1.8,Master,Manager,Remote,Medium,92414.0,19.7
+2.2,High School,Senior Developer,Pune,Large,74542.0,37.6
+1.4,Master,Junior Developer,Hyderabad,Medium,55737.0,45.1
+3.3,PhD,Junior Developer,Bangalore,Large,87736.0,45.9
+4.2,Bachelor,Manager,Mumbai,Large,100929.0,53.6
+2.5,Bachelor,Developer,Mumbai,Small,47565.0,23.8
+4.1,Master,Data Scientist,Hyderabad,Medium,89769.0,38.2
+2.2,Bachelor,Analyst,Hyderabad,Small,60132.0,27.4
+2.2,Bachelor,Senior Developer,Hyderabad,Large,70730.0,53.8
+4.4,Bachelor,Junior Developer,Delhi,Small,40200.0,49.6
+2.4,Master,Manager,Hyderabad,Large,105280.0,65.7
+3.2,High School,Developer,Mumbai,Medium,44568.0,34.9
+4.5,Bachelor,Developer,Hyderabad,Medium,62780.0,36.3
+4.1,Bachelor,Developer,Remote,Small,40667.0,40.9
+2.2,Master,Analyst,Pune,Medium,80551.0,50.4
+7.0,Bachelor,Data Scientist,Mumbai,Large,98452.0,47.3
+5.0,Master,Lead,Pune,Small,83355.0,46.2
+4.0,Master,Analyst,Mumbai,Medium,70794.0,43.0
+1.2,High School,Data Scientist,Bangalore,Small,65768.0,34.0
+3.6,Bachelor,Developer,Remote,Medium,52072.0,34.3
+2.0,High School,Manager,Mumbai,Small,68760.0,34.6
+4.8,Bachelor,Senior Developer,Remote,Small,69108.0,42.6
+0.1,Bachelor,Data Scientist,Mumbai,Large,85965.0,30.2
+2.7,Master,Manager,Pune,Medium,102092.0,47.5
+2.1,Master,Analyst,Pune,Small,53048.0,53.9
+5.8,High School,Analyst,Mumbai,Medium,61501.0,39.0
+0.5,High School,Developer,Mumbai,Small,22435.0,27.6
+3.5,Bachelor,Senior Developer,Delhi,Small,55700.0,32.2
+5.0,Bachelor,Junior Developer,Remote,Medium,49343.0,46.9
+10.8,Bachelor,Junior Developer,Remote,Small,66117.0,57.0
+2.2,Master,Analyst,Remote,Medium,68206.0,39.0
+4.2,Master,Manager,Remote,Medium,111637.0,53.6
+0.5,Bachelor,Senior Developer,Bangalore,Medium,67763.0,6.2
+3.3,Master,Manager,Bangalore,Large,108503.0,44.8
+7.4,Bachelor,Senior Developer,Hyderabad,Small,80115.0,47.6
+10.9,Master,Senior Developer,Mumbai,Medium,101296.0,67.3
+4.5,Bachelor,Analyst,Mumbai,Medium,62858.0,34.5
+0.7,High School,Manager,Mumbai,Small,71165.0,44.1
+8.2,Master,Analyst,Mumbai,Large,93059.0,63.7
+0.7,Bachelor,Senior Developer,Remote,Medium,45488.0,37.8
+1.1,Master,Data Scientist,Remote,Medium,94688.0,41.2
+8.7,Bachelor,Developer,Bangalore,Medium,76159.0,48.6
+3.1,High School,Senior Developer,Pune,Small,62904.0,33.1
+2.0,High School,Data Scientist,Delhi,Medium,76377.0,43.5
+5.5,Bachelor,Senior Developer,Remote,Medium,69010.0,38.8
+3.8,Bachelor,Data Scientist,Remote,Medium,89280.0,55.9
+7.0,Bachelor,Manager,Remote,Small,90799.0,47.8
+3.9,Bachelor,Junior Developer,Pune,Medium,62906.0,46.7
+4.0,Bachelor,Lead,Pune,Medium,79643.0,63.0
+6.8,Master,Senior Developer,Bangalore,Medium,87275.0,43.3
+3.1,Bachelor,Lead,Remote,Medium,70476.0,40.0
+1.5,Master,Senior Developer,Delhi,Medium,81300.0,45.0
+5.7,Bachelor,Manager,Mumbai,Medium,85014.0,56.6
+2.6,Bachelor,Manager,Remote,Large,101409.0,34.5
+4.1,High School,Data Scientist,Bangalore,Small,72903.0,37.1
+0.4,Bachelor,Senior Developer,Bangalore,Large,80481.0,28.9
+3.0,High School,Manager,Delhi,Medium,81106.0,53.5
+2.2,Bachelor,Manager,Hyderabad,Medium,99664.0,33.8
+0.4,Bachelor,Senior Developer,Bangalore,Large,82776.0,32.0
+3.1,Bachelor,Data Scientist,Pune,Medium,78343.0,35.0
+3.2,Master,Data Scientist,Pune,Large,98687.0,46.7
+4.4,Bachelor,Data Scientist,Mumbai,Small,72763.0,44.8
+7.3,Bachelor,Data Scientist,Bangalore,Small,89010.0,41.9
+6.5,High School,Junior Developer,Mumbai,Medium,40999.0,39.8
+2.3,Master,Senior Developer,Bangalore,Large,98267.0,16.9
+3.8,High School,Analyst,Delhi,Large,75184.0,33.1
+4.8,Bachelor,Junior Developer,Remote,Medium,42568.0,52.3
+2.3,Bachelor,Manager,Bangalore,Medium,88116.0,50.1
+0.8,Bachelor,Junior Developer,Hyderabad,Medium,44733.0,39.3
+2.8,Bachelor,Analyst,Pune,Large,77672.0,43.9
+7.5,Master,Analyst,Delhi,Medium,94875.0,51.2
+0.7,High School,Analyst,Remote,Medium,30916.0,39.8
+1.4,Bachelor,Data Scientist,Remote,Medium,75255.0,37.1
+1.7,Bachelor,Manager,Pune,Medium,83272.0,53.1
+1.4,High School,Junior Developer,Remote,Medium,21595.0,33.2
+5.5,Bachelor,Junior Developer,Mumbai,Large,63119.0,59.9
+2.0,Bachelor,Senior Developer,Delhi,Medium,71422.0,44.7
+5.6,Bachelor,Junior Developer,Hyderabad,Large,61971.0,54.2
+3.4,Bachelor,Manager,Pune,Small,66443.0,20.1
+0.6,Bachelor,Data Scientist,Bangalore,Medium,104193.0,41.1
+2.4,Master,Senior Developer,Bangalore,Medium,81929.0,35.9
+6.7,Bachelor,Junior Developer,Bangalore,Medium,59294.0,45.7
+3.7,Bachelor,Senior Developer,Delhi,Large,72617.0,26.3
+2.5,Bachelor,Lead,Hyderabad,Small,70086.0,37.4
+7.6,High School,Senior Developer,Remote,Small,53886.0,53.1
+1.3,High School,Analyst,Hyderabad,Medium,33492.0,20.9
+2.0,Bachelor,Data Scientist,Hyderabad,Small,63438.0,21.3
+6.2,Master,Analyst,Pune,Large,93759.0,53.5
+5.4,Master,Lead,Delhi,Small,100352.0,54.9
+1.2,High School,Analyst,Bangalore,Medium,53337.0,35.5
+4.7,Master,Lead,Pune,Small,90225.0,55.6
+1.9,Master,Senior Developer,Remote,Medium,72554.0,34.8
+0.3,Bachelor,Manager,Hyderabad,Medium,82908.0,30.4
+2.6,Master,Data Scientist,Bangalore,Small,93928.0,28.6
+11.3,Bachelor,Manager,Delhi,Medium,119902.0,48.3
+6.7,Bachelor,Data Scientist,Mumbai,Medium,104809.0,68.6
+3.2,Bachelor,Data Scientist,Hyderabad,Large,85869.0,50.9
+0.7,Bachelor,Analyst,Hyderabad,Small,46864.0,18.2
+0.4,Bachelor,Analyst,Hyderabad,Medium,59020.0,32.8
+3.5,Bachelor,Manager,Hyderabad,Large,97923.0,39.5
+4.5,Master,Developer,Bangalore,Medium,72103.0,40.8
+5.5,Master,Lead,Delhi,Large,111565.0,42.4
+5.1,Master,Analyst,Pune,Large,93222.0,49.1
+5.4,Master,Analyst,Bangalore,Medium,92287.0,54.4
+4.1,Master,Analyst,Delhi,Medium,72564.0,46.3
+7.5,High School,Senior Developer,Pune,Small,46088.0,51.3
+2.2,Bachelor,Manager,Hyderabad,Medium,90266.0,35.0
+3.4,Bachelor,Manager,Delhi,Large,115870.0,49.6
+0.6,Master,Analyst,Hyderabad,Medium,63384.0,36.4
+2.1,Bachelor,Senior Developer,Delhi,Medium,73695.0,37.0
+6.6,Master,Analyst,Remote,Medium,81766.0,49.4
+5.3,High School,Lead,Mumbai,Small,68132.0,49.4
+0.2,Bachelor,Senior Developer,Hyderabad,Large,73455.0,25.9
+11.9,Master,Analyst,Hyderabad,Medium,82413.0,73.9
+3.8,High School,Data Scientist,Hyderabad,Small,47347.0,30.6
+3.8,Bachelor,Developer,Remote,Large,53705.0,37.3
+2.0,Bachelor,Data Scientist,Bangalore,Medium,80878.0,42.1
+2.4,Bachelor,Developer,Pune,Medium,60579.0,25.9
+3.7,Master,Senior Developer,Hyderabad,Medium,79575.0,25.4
+5.1,Bachelor,Data Scientist,Hyderabad,Medium,84048.0,45.9
+4.2,Bachelor,Lead,Bangalore,Large,86272.0,25.6
+2.1,High School,Data Scientist,Bangalore,Medium,79454.0,23.3
+1.5,Master,Manager,Mumbai,Medium,109867.0,42.1
+1.4,Bachelor,Developer,Delhi,Small,50307.0,32.2
+7.0,Bachelor,Developer,Hyderabad,Large,76849.0,63.9
+6.4,Master,Analyst,Delhi,Small,57995.0,37.2
+4.8,Bachelor,Lead,Bangalore,Large,91787.0,43.5
+6.9,Master,Developer,Bangalore,Medium,89378.0,54.7
+3.0,Bachelor,Developer,Mumbai,Medium,65976.0,27.3
+6.0,Bachelor,Analyst,Pune,Large,64700.0,58.3
+4.9,High School,Lead,Remote,Small,59355.0,49.8
+6.1,Master,Data Scientist,Remote,Medium,100105.0,32.2
+1.3,Master,Senior Developer,Remote,Medium,66503.0,33.5
+4.1,Bachelor,Data Scientist,Bangalore,Medium,69726.0,46.2
+2.5,Bachelor,Manager,Hyderabad,Medium,88791.0,31.6
+0.3,Master,Manager,Mumbai,Medium,90298.0,16.1
+7.7,Bachelor,Developer,Pune,Medium,56129.0,55.9
+6.4,Master,Manager,Remote,Large,109963.0,71.3
+4.3,Bachelor,Senior Developer,Mumbai,Medium,73531.0,39.0
+1.6,Master,Developer,Bangalore,Medium,63127.0,50.5
+0.5,Bachelor,Analyst,Remote,Large,56928.0,24.0
+0.3,Bachelor,Manager,Pune,Medium,80838.0,33.1
+2.1,Bachelor,Analyst,Delhi,Small,37141.0,44.0
+5.5,PhD,Junior Developer,Pune,Medium,75488.0,46.4
+2.5,Bachelor,Junior Developer,Hyderabad,Small,15150.0,34.5
+4.8,Bachelor,Junior Developer,Remote,Small,37284.0,51.7
+5.0,Bachelor,Analyst,Remote,Small,60353.0,63.9
+5.4,Bachelor,Junior Developer,Delhi,Small,36325.0,49.2
+0.4,Master,Data Scientist,Delhi,Medium,95531.0,26.0
+1.7,Master,Junior Developer,Remote,Small,52646.0,33.2
+4.7,High School,Developer,Hyderabad,Small,10937.0,69.3
+8.9,PhD,Lead,Delhi,Small,100589.0,58.0
+7.3,Master,Data Scientist,Bangalore,Small,71594.0,46.0
+4.2,Master,Lead,Remote,Small,77454.0,31.1
+7.8,Bachelor,Developer,Pune,Medium,62543.0,35.1
+4.1,Master,Developer,Pune,Large,55340.0,45.9
+0.7,High School,Senior Developer,Hyderabad,Large,79799.0,38.6
+5.4,Bachelor,Data Scientist,Bangalore,Large,103088.0,42.2
+7.4,Master,Lead,Delhi,Small,82008.0,52.1
+10.8,Bachelor,Junior Developer,Remote,Small,63323.0,50.7
+2.0,High School,Developer,Pune,Small,16635.0,37.3
+1.2,Master,Junior Developer,Pune,Medium,44567.0,38.4
+6.0,Master,Lead,Pune,Small,65604.0,42.6
+4.5,High School,Analyst,Pune,Medium,68408.0,60.4
+4.2,Master,Data Scientist,Mumbai,Small,92059.0,34.2
+7.9,Bachelor,Manager,Hyderabad,Small,94075.0,56.5
+6.0,Bachelor,Analyst,Delhi,Large,81408.0,56.5
+4.8,Master,Analyst,Remote,Medium,77190.0,43.6
+2.3,Bachelor,Manager,Remote,Large,95225.0,35.0
+5.7,High School,Developer,Remote,Medium,48567.0,32.8
+1.1,Bachelor,Senior Developer,Delhi,Large,77061.0,46.9
+4.1,Bachelor,Junior Developer,Hyderabad,Medium,46331.0,40.6
+3.2,Bachelor,Developer,Bangalore,Large,66027.0,45.0
+0.7,Master,Senior Developer,Hyderabad,Small,66589.0,38.8
+4.5,Master,Junior Developer,Pune,Medium,61884.0,37.2
+2.1,Bachelor,Lead,Pune,Medium,64378.0,34.3
+4.5,Master,Analyst,Hyderabad,Medium,64240.0,56.8
+1.4,High School,Analyst,Hyderabad,Large,67463.0,23.0
+6.1,High School,Manager,Delhi,Large,93744.0,69.6
+9.8,Master,Senior Developer,Delhi,Medium,98278.0,52.0
+1.1,High School,Junior Developer,Mumbai,Medium,29463.0,21.5
+1.4,Bachelor,Developer,Remote,Medium,36015.0,35.5
+0.9,Bachelor,Junior Developer,Mumbai,Large,51051.0,54.8
+2.8,Bachelor,Developer,Remote,Medium,48819.0,19.3
+4.4,Master,Analyst,Pune,Small,58479.0,41.8
+5.5,Bachelor,Manager,Mumbai,Medium,107351.0,51.3
+4.1,High School,Manager,Mumbai,Small,75636.0,42.6
+5.3,Bachelor,Junior Developer,Bangalore,Medium,70392.0,49.7
+3.2,Bachelor,Junior Developer,Hyderabad,Medium,52635.0,32.4
+2.0,Bachelor,Developer,Delhi,Medium,33700.0,30.0
+1.5,Bachelor,Developer,Mumbai,Medium,62448.0,33.0
+2.9,Master,Senior Developer,Delhi,Small,57724.0,27.4
+1.5,Master,Analyst,Remote,Small,57844.0,34.1
+4.3,Bachelor,Senior Developer,Mumbai,Medium,68403.0,39.0
+1.5,Bachelor,Senior Developer,Remote,Small,70142.0,29.8
+2.2,Bachelor,Junior Developer,Mumbai,Medium,61917.0,39.8
+6.9,Master,Data Scientist,Pune,Large,104865.0,32.5
+7.4,PhD,Data Scientist,Bangalore,Large,123781.0,49.9
+7.2,Bachelor,Data Scientist,Remote,Large,101357.0,74.8
+3.2,Master,Data Scientist,Hyderabad,Large,111307.0,28.7
+2.1,Bachelor,Senior Developer,Hyderabad,Medium,67433.0,49.2
+4.8,High School,Junior Developer,Pune,Small,23401.0,44.9
+1.5,High School,Data Scientist,Pune,Small,54260.0,28.5
+5.6,Bachelor,Manager,Hyderabad,Large,104164.0,33.6
+1.9,Bachelor,Lead,Remote,Medium,83676.0,37.1
+2.8,High School,Manager,Hyderabad,Small,72023.0,52.9
+5.7,Bachelor,Junior Developer,Bangalore,Medium,50213.0,43.2
+0.5,Bachelor,Junior Developer,Mumbai,Medium,52187.0,30.7
+2.0,Bachelor,Lead,Bangalore,Medium,75904.0,46.1
+4.4,Bachelor,Developer,Hyderabad,Large,73923.0,46.6
+5.1,High School,Developer,Mumbai,Medium,71416.0,29.6
+4.5,Bachelor,Developer,Hyderabad,Large,64129.0,44.5
+2.8,Bachelor,Senior Developer,Bangalore,Medium,77013.0,53.5
+6.1,Bachelor,Developer,Bangalore,Medium,56237.0,47.9
+1.4,High School,Analyst,Remote,Large,54902.0,6.8
+1.4,Bachelor,Senior Developer,Remote,Large,73036.0,38.1
+4.4,High School,Senior Developer,Bangalore,Small,52251.0,41.2
+1.3,Bachelor,Developer,Mumbai,Small,63304.0,15.6
+10.0,Master,Developer,Remote,Medium,72547.0,43.2
+2.1,High School,Lead,Remote,Medium,68895.0,46.1
+6.1,Bachelor,Data Scientist,Delhi,Medium,75759.0,41.0
+1.1,High School,Lead,Delhi,Large,79656.0,24.2
+8.7,Bachelor,Senior Developer,Remote,Small,76536.0,55.7
+3.4,Bachelor,Lead,Hyderabad,Medium,75579.0,33.8
+2.0,Bachelor,Senior Developer,Mumbai,Small,39918.0,37.0
+2.6,Bachelor,Junior Developer,Pune,Large,56891.0,35.8
+1.7,Master,Senior Developer,Remote,Large,83537.0,23.1
+2.8,Bachelor,Senior Developer,Delhi,Medium,75393.0,33.3
+1.1,Bachelor,Lead,Mumbai,Small,84287.0,37.7
+2.1,Bachelor,Data Scientist,Mumbai,Medium,82160.0,36.7
+6.0,Master,Junior Developer,Delhi,Medium,59150.0,47.2
+3.9,Master,Manager,Mumbai,Medium,94465.0,61.1
+1.4,Bachelor,Manager,Mumbai,Large,100385.0,41.5
+2.9,Master,Data Scientist,Delhi,Large,108635.0,47.2
+7.5,Bachelor,Manager,Bangalore,Medium,95635.0,50.8
+2.3,Master,Junior Developer,Remote,Medium,60829.0,39.1
+1.3,Master,Developer,Hyderabad,Small,54323.0,29.6
+5.0,High School,Junior Developer,Pune,Medium,42346.0,52.8
+0.3,Master,Lead,Hyderabad,Medium,76381.0,29.8
+2.7,Bachelor,Analyst,Bangalore,Medium,59545.0,40.3
+7.9,Bachelor,Senior Developer,Bangalore,Small,51362.0,55.3
+2.8,Bachelor,Senior Developer,Mumbai,Small,63486.0,38.2
+6.4,Master,Lead,Hyderabad,Small,86011.0,78.6
+1.2,Bachelor,Lead,Bangalore,Medium,78908.0,26.9
+2.7,High School,Analyst,Hyderabad,Medium,55435.0,31.3
+2.5,Master,Analyst,Bangalore,Medium,76087.0,44.4
+4.8,High School,Senior Developer,Pune,Medium,60717.0,38.4
+3.5,High School,Analyst,Bangalore,Medium,55389.0,37.6
+8.6,Bachelor,Analyst,Hyderabad,Large,71965.0,44.9
+2.2,Bachelor,Analyst,Mumbai,Medium,58730.0,41.5
+3.5,Bachelor,Data Scientist,Hyderabad,Large,95404.0,45.5
+2.6,High School,Developer,Delhi,Medium,38313.0,34.6
+3.3,PhD,Analyst,Hyderabad,Medium,89481.0,47.0
+3.1,Master,Developer,Pune,Small,47931.0,20.7
+1.5,Bachelor,Developer,Remote,Medium,49730.0,27.4
+5.7,Bachelor,Lead,Pune,Large,94333.0,45.4
+1.9,Bachelor,Analyst,Pune,Large,74770.0,24.0
+1.8,Bachelor,Senior Developer,Bangalore,Large,85806.0,17.9
+0.7,High School,Data Scientist,Pune,Small,63952.0,29.0
+2.1,High School,Senior Developer,Hyderabad,Medium,40352.0,43.2
+1.9,Master,Analyst,Remote,Medium,76353.0,48.5
+0.4,Bachelor,Senior Developer,Mumbai,Medium,79018.0,25.7
+2.8,Bachelor,Analyst,Pune,Small,46743.0,45.7
+8.4,Master,Data Scientist,Hyderabad,Large,116693.0,61.6
+0.9,Bachelor,Junior Developer,Bangalore,Large,49673.0,44.9
+3.2,Bachelor,Data Scientist,Bangalore,Medium,70813.0,36.1
+2.7,Bachelor,Junior Developer,Mumbai,Small,35490.0,20.1
+5.2,High School,Manager,Mumbai,Small,72079.0,46.3
+5.5,Master,Junior Developer,Hyderabad,Medium,61161.0,36.4
+12.6,Bachelor,Developer,Mumbai,Medium,68529.0,60.6
+4.0,Master,Developer,Mumbai,Large,73133.0,39.0
+1.7,PhD,Data Scientist,Bangalore,Medium,103312.0,31.7
+2.1,Master,Developer,Hyderabad,Medium,56038.0,37.7
+2.3,Master,Developer,Remote,Medium,63948.0,43.9
+1.9,Bachelor,Manager,Mumbai,Small,85253.0,32.0
+9.7,Bachelor,Developer,Hyderabad,Large,96443.0,63.1
+5.3,Bachelor,Lead,Pune,Medium,91605.0,46.0
+4.7,Bachelor,Lead,Bangalore,Large,96345.0,53.5
+1.3,Master,Lead,Remote,Medium,77638.0,32.0
+5.5,Bachelor,Junior Developer,Bangalore,Medium,58350.0,45.7
+7.1,Master,Data Scientist,Bangalore,Small,96813.0,47.6
+2.8,Master,Data Scientist,Delhi,Medium,90493.0,36.8
+2.1,PhD,Senior Developer,Hyderabad,Medium,93470.0,28.5
+8.8,Master,Manager,Pune,Medium,98415.0,47.6
+1.8,Bachelor,Lead,Mumbai,Medium,77645.0,43.2
+1.7,High School,Lead,Pune,Small,59847.0,24.3
+1.4,High School,Developer,Hyderabad,Large,48499.0,31.0
+3.1,Bachelor,Lead,Bangalore,Large,89546.0,49.5
+4.0,Bachelor,Developer,Delhi,Small,45898.0,38.5
+6.4,Master,Developer,Hyderabad,Large,74115.0,57.5
+4.9,Master,Senior Developer,Remote,Small,79191.0,38.8
+4.8,Bachelor,Junior Developer,Remote,Medium,41456.0,33.9
+7.8,High School,Developer,Hyderabad,Medium,56145.0,37.5
+1.4,High School,Developer,Mumbai,Large,57109.0,47.3
+0.8,High School,Data Scientist,Pune,Small,51011.0,21.0
+5.1,Bachelor,Senior Developer,Pune,Medium,72785.0,52.8
+3.0,Bachelor,Developer,Mumbai,Medium,49723.0,29.0
+6.5,High School,Manager,Delhi,Medium,98128.0,62.7
+3.2,Bachelor,Junior Developer,Bangalore,Medium,42290.0,61.7
+2.0,High School,Manager,Bangalore,Small,63769.0,19.1
+5.1,Bachelor,Lead,Remote,Medium,70406.0,34.5
+3.5,Bachelor,Junior Developer,Delhi,Large,50138.0,48.2
+3.2,Bachelor,Lead,Mumbai,Large,105130.0,44.7
+14.1,Bachelor,Data Scientist,Hyderabad,Large,120542.0,80.1
+7.4,PhD,Analyst,Pune,Medium,90922.0,46.5
+5.6,Bachelor,Analyst,Hyderabad,Medium,61947.0,66.7
+3.6,Bachelor,Analyst,Pune,Medium,69461.0,42.0
+3.4,Master,Developer,Hyderabad,Small,48206.0,28.0
+2.6,Bachelor,Senior Developer,Mumbai,Large,87549.0,35.3
+3.9,Master,Manager,Mumbai,Small,86820.0,29.7
+2.2,Bachelor,Lead,Delhi,Large,83244.0,52.5
+1.1,Bachelor,Developer,Hyderabad,Small,46266.0,26.7
+3.2,High School,Analyst,Hyderabad,Large,69311.0,44.5
+4.1,Bachelor,Manager,Delhi,Small,86980.0,37.6
+6.5,Bachelor,Manager,Delhi,Small,78603.0,43.3
+1.7,High School,Data Scientist,Mumbai,Medium,70826.0,16.0
+3.4,Bachelor,Data Scientist,Mumbai,Small,79055.0,46.2
+4.9,Bachelor,Analyst,Remote,Medium,56006.0,57.7
+4.8,High School,Lead,Hyderabad,Medium,83568.0,35.2
+9.4,Bachelor,Analyst,Mumbai,Small,48584.0,42.7
+2.7,Bachelor,Analyst,Mumbai,Large,68170.0,46.1
+1.6,High School,Developer,Hyderabad,Medium,37123.0,18.3
+3.6,Bachelor,Senior Developer,Delhi,Medium,48448.0,53.0
+2.8,Master,Analyst,Hyderabad,Medium,60430.0,29.4
+2.4,Bachelor,Lead,Bangalore,Medium,84802.0,26.2
+2.1,Bachelor,Manager,Hyderabad,Medium,87442.0,38.8
+4.2,Bachelor,Manager,Bangalore,Small,95985.0,32.2
+1.9,Bachelor,Junior Developer,Hyderabad,Medium,59162.0,28.6
+5.6,Master,Analyst,Bangalore,Medium,82664.0,50.3
+5.4,Bachelor,Developer,Bangalore,Medium,63306.0,21.9
+4.4,High School,Junior Developer,Hyderabad,Medium,42327.0,59.6
+1.4,Bachelor,Data Scientist,Remote,Medium,56559.0,34.6
+4.0,Master,Senior Developer,Mumbai,Small,62844.0,29.1
+6.8,High School,Lead,Pune,Medium,76405.0,40.2
+5.8,PhD,Analyst,Mumbai,Medium,95528.0,57.3
+5.3,Master,Manager,Bangalore,Small,97917.0,51.9
+3.4,High School,Developer,Hyderabad,Small,27660.0,54.1
+3.3,Master,Manager,Hyderabad,Small,97099.0,33.1
+7.5,Bachelor,Analyst,Hyderabad,Large,92860.0,55.5
+4.1,Master,Data Scientist,Hyderabad,Medium,103704.0,46.6
+4.1,Bachelor,Junior Developer,Remote,Small,46117.0,49.3
+16.7,Bachelor,Analyst,Pune,Small,73926.0,91.4
+2.6,Bachelor,Junior Developer,Delhi,Medium,57807.0,30.6
+0.3,Master,Lead,Bangalore,Medium,86766.0,29.8
+2.9,High School,Developer,Pune,Medium,46892.0,32.6
+3.0,Bachelor,Data Scientist,Mumbai,Large,99923.0,38.5
+4.1,High School,Developer,Delhi,Medium,46228.0,49.3
+4.8,Bachelor,Lead,Delhi,Small,66720.0,27.9
+0.4,Bachelor,Data Scientist,Hyderabad,Medium,78143.0,42.3
+4.8,Bachelor,Data Scientist,Pune,Large,104494.0,33.0
+3.2,Bachelor,Junior Developer,Mumbai,Medium,48868.0,36.5
+2.7,High School,Junior Developer,Hyderabad,Medium,45547.0,50.5
+0.7,High School,Junior Developer,Hyderabad,Medium,40297.0,35.4
+8.5,High School,Manager,Remote,Medium,84609.0,58.9
+2.4,Bachelor,Senior Developer,Bangalore,Medium,80910.0,25.4
+5.3,PhD,Analyst,Delhi,Large,94756.0,35.5
+1.7,High School,Junior Developer,Mumbai,Medium,51476.0,44.5
+4.2,Master,Senior Developer,Delhi,Medium,85873.0,36.7
+2.7,Master,Senior Developer,Pune,Small,67273.0,33.2
+5.2,Bachelor,Developer,Bangalore,Small,43298.0,55.2
+2.7,Bachelor,Lead,Hyderabad,Medium,77694.0,27.6
+1.6,Master,Manager,Bangalore,Small,86570.0,37.5
+3.3,High School,Senior Developer,Hyderabad,Medium,49534.0,40.3
+3.2,Bachelor,Analyst,Bangalore,Small,52659.0,39.6
+4.0,Bachelor,Manager,Hyderabad,Medium,84570.0,36.8
+6.3,Bachelor,Developer,Delhi,Large,76288.0,43.1
+1.3,Master,Junior Developer,Delhi,Medium,67050.0,23.1
+6.1,High School,Data Scientist,Delhi,Small,61385.0,53.1
+1.1,Bachelor,Senior Developer,Delhi,Medium,79898.0,26.6
+5.1,Bachelor,Lead,Bangalore,Large,94172.0,55.0
+5.2,Bachelor,Data Scientist,Hyderabad,Medium,80600.0,43.4
+2.3,Bachelor,Developer,Delhi,Small,49662.0,26.3
+1.7,Bachelor,Manager,Bangalore,Small,74828.0,32.7
+1.7,Master,Analyst,Hyderabad,Medium,68746.0,31.0
+3.5,Bachelor,Junior Developer,Bangalore,Small,38766.0,50.6
+5.4,Master,Manager,Remote,Large,104266.0,42.5
+3.0,Bachelor,Lead,Delhi,Large,95792.0,36.2
+0.3,High School,Senior Developer,Pune,Small,40310.0,45.0
+2.1,High School,Lead,Bangalore,Medium,57707.0,41.4
+2.1,High School,Manager,Delhi,Small,72608.0,52.9
+4.7,Bachelor,Manager,Mumbai,Large,95755.0,56.7
+4.9,Bachelor,Data Scientist,Hyderabad,Medium,78574.0,35.8
+3.7,Master,Lead,Remote,Medium,96941.0,51.0
+6.1,Master,Lead,Delhi,Medium,86629.0,63.6
+6.4,High School,Lead,Mumbai,Medium,60268.0,64.5
+2.2,Bachelor,Junior Developer,Bangalore,Medium,54383.0,46.5
+1.6,Bachelor,Analyst,Bangalore,Medium,58769.0,44.5
+3.1,Bachelor,Manager,Mumbai,Medium,90459.0,36.3
+3.7,High School,Developer,Remote,Medium,39884.0,32.7
+2.2,High School,Junior Developer,Mumbai,Small,32253.0,33.1
+19.3,Master,Junior Developer,Hyderabad,Small,75578.0,71.3
+8.2,Master,Junior Developer,Bangalore,Medium,83209.0,68.0
+2.0,High School,Data Scientist,Mumbai,Medium,63190.0,33.2
+1.3,Bachelor,Analyst,Pune,Medium,61159.0,46.8
+1.9,Bachelor,Analyst,Pune,Large,73937.0,23.4
+6.5,Master,Developer,Mumbai,Small,57923.0,60.3
+6.6,Bachelor,Lead,Hyderabad,Small,68010.0,44.9
+8.3,High School,Data Scientist,Bangalore,Small,84737.0,42.1
+1.6,Master,Manager,Pune,Medium,87273.0,51.1
+4.7,Bachelor,Senior Developer,Mumbai,Medium,70547.0,55.2
+1.7,Bachelor,Data Scientist,Mumbai,Medium,91498.0,37.2
+9.5,Bachelor,Senior Developer,Delhi,Small,73278.0,58.8
+1.6,Bachelor,Manager,Mumbai,Medium,74823.0,39.2
+1.1,Bachelor,Developer,Hyderabad,Large,74176.0,35.2
+1.3,Bachelor,Analyst,Pune,Large,63360.0,26.0
+3.3,Bachelor,Senior Developer,Delhi,Large,77378.0,35.8
+5.4,High School,Junior Developer,Pune,Medium,44846.0,65.8
+5.1,Master,Data Scientist,Pune,Large,112201.0,72.0
+1.3,High School,Senior Developer,Hyderabad,Small,61289.0,49.5
+2.5,High School,Manager,Mumbai,Small,57719.0,42.3
+2.2,Bachelor,Analyst,Hyderabad,Small,57008.0,33.2
+1.2,Master,Junior Developer,Mumbai,Medium,64344.0,25.6
+2.2,Master,Senior Developer,Delhi,Large,87303.0,29.3
+8.1,Bachelor,Analyst,Hyderabad,Small,68498.0,48.8
+1.0,Bachelor,Manager,Hyderabad,Medium,92474.0,54.5
+3.9,Master,Developer,Remote,Medium,51744.0,59.8
+8.2,Bachelor,Manager,Bangalore,Large,125398.0,62.1
+7.9,Bachelor,Developer,Hyderabad,Medium,51330.0,44.1
+9.7,Master,Analyst,Remote,Large,83317.0,68.0
+4.2,High School,Analyst,Bangalore,Medium,54306.0,40.2
+4.6,PhD,Junior Developer,Mumbai,Medium,90600.0,22.3
+2.2,Master,Manager,Mumbai,Medium,97934.0,39.5
+1.0,Bachelor,Lead,Mumbai,Medium,77745.0,24.6
+3.0,Master,Data Scientist,Remote,Small,92457.0,30.9
+7.0,Master,Lead,Remote,Medium,91597.0,48.5
+0.3,High School,Lead,Bangalore,Medium,56173.0,25.9
+2.3,Bachelor,Lead,Mumbai,Medium,77262.0,36.6
+4.9,High School,Data Scientist,Pune,Medium,87766.0,43.9
+3.3,Bachelor,Lead,Hyderabad,Medium,80167.0,21.1
+7.6,Master,Developer,Remote,Medium,85645.0,68.0
+6.6,Bachelor,Manager,Remote,Small,89103.0,40.0
+0.9,Bachelor,Analyst,Remote,Medium,49642.0,23.2
+3.6,Bachelor,Junior Developer,Bangalore,Small,42609.0,37.5
+1.8,Master,Lead,Mumbai,Small,72774.0,34.3
+1.8,High School,Analyst,Pune,Medium,43253.0,50.0
+0.9,Bachelor,Lead,Hyderabad,Small,100633.0,35.4
+4.0,High School,Junior Developer,Hyderabad,Large,59149.0,47.7
+7.7,Bachelor,Junior Developer,Mumbai,Medium,68289.0,55.8
+4.3,High School,Lead,Pune,Large,75615.0,45.2
+0.9,Bachelor,Developer,Bangalore,Small,54357.0,35.8
+3.2,Bachelor,Analyst,Remote,Medium,68195.0,20.3
+4.8,High School,Junior Developer,Remote,Medium,54653.0,41.9
+3.0,Master,Manager,Mumbai,Large,126665.0,50.6
+4.2,High School,Analyst,Hyderabad,Medium,42567.0,82.0
+1.9,Bachelor,Manager,Remote,Small,64921.0,23.7
+2.8,High School,Analyst,Hyderabad,Large,53570.0,42.6
+2.6,Bachelor,Developer,Hyderabad,Medium,45648.0,32.1
+8.7,Bachelor,Data Scientist,Mumbai,Small,90988.0,76.6
+1.3,Bachelor,Senior Developer,Delhi,Medium,62066.0,20.4
+0.3,High School,Developer,Delhi,Medium,56181.0,37.1
+8.3,Bachelor,Lead,Delhi,Small,95837.0,40.8
+3.6,Bachelor,Senior Developer,Pune,Medium,69148.0,37.6
+1.1,Master,Lead,Mumbai,Small,93843.0,33.0
+6.2,Bachelor,Manager,Hyderabad,Medium,107305.0,59.3
+5.0,Bachelor,Junior Developer,Remote,Medium,46394.0,34.2
+9.6,Bachelor,Analyst,Pune,Medium,58126.0,65.4
+3.9,Bachelor,Lead,Delhi,Medium,80056.0,41.9
+14.1,High School,Manager,Bangalore,Small,88043.0,75.0
+3.0,Bachelor,Developer,Pune,Small,44652.0,48.6
+5.0,Bachelor,Lead,Pune,Small,72714.0,32.2
+5.5,Bachelor,Manager,Mumbai,Medium,97504.0,54.6
+2.4,Bachelor,Junior Developer,Remote,Medium,48989.0,31.5
+2.3,Master,Analyst,Pune,Large,69900.0,47.9
+5.6,High School,Lead,Remote,Small,64491.0,50.1
+1.0,Bachelor,Data Scientist,Mumbai,Medium,79483.0,30.9
+1.8,Master,Manager,Bangalore,Medium,100200.0,29.5
+3.0,Bachelor,Lead,Hyderabad,Medium,86659.0,47.2
+9.4,Bachelor,Junior Developer,Hyderabad,Large,62005.0,70.8
+5.6,Bachelor,Analyst,Delhi,Small,55950.0,41.5
+3.5,High School,Lead,Delhi,Small,60052.0,29.2
+2.2,Bachelor,Lead,Bangalore,Medium,75286.0,43.5
+11.9,Master,Analyst,Hyderabad,Medium,96999.0,51.2
+3.2,High School,Data Scientist,Delhi,Small,59637.0,26.5
+1.8,Bachelor,Manager,Remote,Small,69157.0,24.8
+13.3,Master,Senior Developer,Pune,Medium,92921.0,65.7
+1.1,Master,Analyst,Mumbai,Medium,79936.0,19.9
+7.9,Bachelor,Lead,Delhi,Small,75860.0,34.3
+3.4,Bachelor,Senior Developer,Bangalore,Medium,75480.0,28.8
+5.6,Bachelor,Developer,Hyderabad,Medium,75006.0,53.2
+4.9,High School,Lead,Bangalore,Medium,74201.0,32.0
+5.5,Bachelor,Senior Developer,Mumbai,Large,95896.0,43.1
+14.1,Bachelor,Developer,Mumbai,Small,82571.0,91.8
+12.8,Master,Data Scientist,Bangalore,Large,133818.0,67.9
+1.9,High School,Manager,Delhi,Medium,77666.0,39.1
+4.8,Bachelor,Lead,Delhi,Medium,88737.0,34.9
+0.6,Bachelor,Manager,Hyderabad,Medium,73901.0,53.4
+6.0,Bachelor,Developer,Remote,Medium,50760.0,42.6
+6.9,High School,Manager,Hyderabad,Large,91963.0,48.4
+0.3,Bachelor,Manager,Pune,Large,110525.0,44.1
+3.3,Master,Analyst,Remote,Small,53099.0,38.1
+5.6,Bachelor,Junior Developer,Pune,Small,36580.0,47.3
+4.3,Bachelor,Developer,Hyderabad,Medium,48249.0,40.1
+1.1,Bachelor,Manager,Remote,Large,96678.0,30.6
+1.2,Bachelor,Senior Developer,Remote,Medium,63541.0,37.3
+3.0,Bachelor,Developer,Pune,Medium,61694.0,44.5
+2.4,Master,Junior Developer,Bangalore,Medium,65170.0,30.8
+2.5,PhD,Lead,Delhi,Medium,87957.0,29.8
+0.9,Bachelor,Data Scientist,Remote,Medium,70342.0,26.6
+3.4,Bachelor,Manager,Remote,Medium,97723.0,26.2
+9.4,Master,Senior Developer,Pune,Large,99174.0,42.3
+1.1,Bachelor,Junior Developer,Remote,Medium,51701.0,36.3
+2.8,Bachelor,Developer,Pune,Medium,51403.0,47.8
+5.2,Bachelor,Data Scientist,Bangalore,Medium,82659.0,54.3
+0.7,Master,Data Scientist,Remote,Medium,83974.0,8.3
+3.4,Bachelor,Manager,Mumbai,Small,75056.0,37.7
+6.8,Master,Junior Developer,Hyderabad,Small,52076.0,39.4
+1.4,Master,Junior Developer,Bangalore,Medium,59407.0,35.6
+3.7,Bachelor,Senior Developer,Mumbai,Medium,77493.0,36.9
+6.5,Master,Lead,Bangalore,Medium,85278.0,55.4
+13.7,Master,Lead,Delhi,Small,101261.0,70.9
+3.6,Bachelor,Analyst,Bangalore,Medium,60507.0,21.8
+1.8,High School,Lead,Bangalore,Medium,63413.0,25.7
+1.8,High School,Analyst,Delhi,Medium,51661.0,35.5
+0.9,Bachelor,Data Scientist,Remote,Small,62396.0,33.6
+10.0,Bachelor,Data Scientist,Hyderabad,Medium,109057.0,45.9
+6.2,Bachelor,Developer,Mumbai,Large,82904.0,33.2
+1.2,High School,Data Scientist,Pune,Small,68855.0,34.2
+1.7,Master,Data Scientist,Hyderabad,Medium,87441.0,21.1
+3.5,Bachelor,Junior Developer,Bangalore,Medium,44300.0,23.8
+6.8,Bachelor,Developer,Pune,Medium,61256.0,45.9
+4.8,Bachelor,Junior Developer,Delhi,Medium,52397.0,39.5
+4.5,Bachelor,Senior Developer,Hyderabad,Medium,67129.0,34.7
+3.9,Bachelor,Analyst,Remote,Medium,51394.0,34.7
+1.3,Bachelor,Analyst,Mumbai,Medium,61268.0,34.0
+3.5,High School,Senior Developer,Hyderabad,Small,46767.0,33.3
+3.2,Master,Analyst,Hyderabad,Small,67907.0,40.3
+0.9,Master,Developer,Remote,Medium,62121.0,28.9
+9.8,Bachelor,Developer,Pune,Small,65406.0,61.1
+2.0,Master,Data Scientist,Delhi,Large,92926.0,44.8
+0.9,Master,Analyst,Remote,Large,78008.0,41.1
+2.3,High School,Senior Developer,Delhi,Large,62780.0,49.8
+2.7,PhD,Manager,Remote,Large,105637.0,46.5
+3.2,Master,Lead,Hyderabad,Medium,85971.0,42.0
+2.7,Bachelor,Data Scientist,Delhi,Large,102950.0,33.8
+3.3,High School,Lead,Pune,Small,55621.0,36.0
+3.7,High School,Senior Developer,Pune,Small,61924.0,32.3
+3.6,High School,Analyst,Mumbai,Medium,60591.0,40.8
+4.5,Master,Analyst,Delhi,Small,62847.0,50.5
+4.6,Bachelor,Lead,Mumbai,Large,104480.0,36.5
+4.7,Master,Manager,Remote,Medium,102963.0,43.7
+5.6,Master,Analyst,Bangalore,Medium,71740.0,40.0
+1.8,Bachelor,Manager,Pune,Small,90470.0,37.5
+1.9,Bachelor,Junior Developer,Hyderabad,Medium,48876.0,30.2
+6.8,High School,Developer,Pune,Small,40750.0,43.0
+2.4,Bachelor,Lead,Bangalore,Large,82956.0,30.4
+3.0,Bachelor,Analyst,Hyderabad,Small,61436.0,44.0
+2.8,High School,Manager,Delhi,Medium,83738.0,37.4
+13.3,High School,Analyst,Delhi,Small,68634.0,65.6
+1.6,Master,Developer,Pune,Small,46140.0,37.4
+1.6,Bachelor,Developer,Hyderabad,Medium,57873.0,30.7
+3.3,Bachelor,Junior Developer,Remote,Small,43895.0,51.2
+2.9,Bachelor,Developer,Hyderabad,Medium,48450.0,29.0
+1.2,Master,Developer,Mumbai,Small,42064.0,31.7
+3.1,Bachelor,Data Scientist,Bangalore,Medium,90851.0,25.3
+3.4,High School,Senior Developer,Delhi,Medium,48213.0,36.7
+2.2,Master,Analyst,Pune,Small,60616.0,19.8
+3.0,Bachelor,Junior Developer,Hyderabad,Medium,45422.0,46.5
+1.7,High School,Junior Developer,Delhi,Large,57149.0,42.8
+1.2,Bachelor,Lead,Pune,Small,61257.0,41.4
+2.4,Master,Developer,Delhi,Small,62658.0,37.5
+1.4,Bachelor,Lead,Pune,Medium,70686.0,25.4
+1.0,Bachelor,Data Scientist,Delhi,Medium,89000.0,25.0
+0.5,Bachelor,Manager,Remote,Medium,97483.0,46.8
+3.9,PhD,Developer,Mumbai,Medium,70256.0,56.1
+2.3,High School,Manager,Bangalore,Medium,81936.0,38.1
+6.8,Bachelor,Senior Developer,Delhi,Small,89590.0,45.2
+2.5,Master,Data Scientist,Bangalore,Medium,95533.0,51.2
+3.9,High School,Developer,Delhi,Medium,47294.0,34.8
+1.9,PhD,Lead,Hyderabad,Medium,103108.0,38.0
+3.2,Master,Lead,Mumbai,Large,102729.0,53.1
+0.5,Master,Developer,Remote,Medium,42342.0,23.1
+2.3,Bachelor,Analyst,Mumbai,Large,82658.0,45.2
+1.6,Bachelor,Lead,Bangalore,Medium,62176.0,40.0
+6.3,Master,Analyst,Hyderabad,Small,65266.0,48.5
+3.7,PhD,Developer,Pune,Small,74059.0,31.2
+5.7,High School,Junior Developer,Mumbai,Medium,44548.0,39.9
+7.3,Master,Lead,Remote,Medium,89050.0,54.8
+2.2,Bachelor,Analyst,Hyderabad,Small,57434.0,22.4
+3.6,High School,Developer,Hyderabad,Medium,38391.0,42.1
+1.3,Bachelor,Developer,Bangalore,Medium,42822.0,39.3
+4.4,Master,Analyst,Remote,Small,63996.0,53.1
+4.8,Bachelor,Lead,Hyderabad,Small,71137.0,30.4
+4.1,Bachelor,Junior Developer,Hyderabad,Large,51251.0,55.5
+2.2,PhD,Lead,Pune,Medium,101496.0,53.6
+10.4,Bachelor,Developer,Bangalore,Medium,74516.0,65.3
+3.4,Bachelor,Junior Developer,Bangalore,Medium,48922.0,29.8
+1.3,Bachelor,Manager,Remote,Medium,80269.0,30.6
+5.1,Bachelor,Senior Developer,Hyderabad,Small,66963.0,44.8
+6.5,Bachelor,Lead,Pune,Medium,94523.0,52.2
+1.3,Master,Data Scientist,Delhi,Medium,89338.0,34.1
+2.7,Bachelor,Developer,Mumbai,Medium,61638.0,40.9
+0.9,Master,Junior Developer,Bangalore,Small,51322.0,31.8
+7.5,High School,Analyst,Pune,Small,57034.0,55.2
+3.1,Bachelor,Analyst,Remote,Large,69514.0,34.7
+1.6,Bachelor,Analyst,Pune,Medium,50901.0,31.4
+6.5,High School,Junior Developer,Hyderabad,Medium,42300.0,43.7
+3.3,Bachelor,Manager,Mumbai,Medium,95343.0,59.1
+5.9,Bachelor,Lead,Bangalore,Large,111348.0,62.3
+4.6,High School,Data Scientist,Delhi,Medium,74328.0,49.4
+1.4,Bachelor,Analyst,Hyderabad,Medium,65238.0,47.5
+2.1,Bachelor,Junior Developer,Bangalore,Large,56576.0,44.3
+1.6,Bachelor,Analyst,Remote,Medium,57084.0,36.6
+1.2,Master,Manager,Bangalore,Small,99523.0,18.5
+0.7,Bachelor,Developer,Pune,Small,44514.0,29.5
+11.8,Bachelor,Analyst,Mumbai,Medium,72670.0,62.0
+4.1,Master,Manager,Delhi,Large,107620.0,31.0
+4.5,Master,Lead,Mumbai,Medium,105050.0,28.6
+7.0,Bachelor,Analyst,Pune,Medium,70135.0,55.9
+2.1,High School,Manager,Delhi,Medium,69009.0,39.5
+0.9,Bachelor,Junior Developer,Delhi,Medium,39248.0,21.0
+5.6,Bachelor,Junior Developer,Hyderabad,Medium,59828.0,39.3
+1.1,Master,Senior Developer,Delhi,Small,74155.0,44.9
+5.5,Master,Manager,Bangalore,Large,116143.0,37.7
+0.8,Bachelor,Developer,Mumbai,Medium,72403.0,34.1
+1.0,PhD,Analyst,Remote,Medium,81593.0,31.1
+1.9,Bachelor,Data Scientist,Remote,Medium,76852.0,40.8
+5.3,High School,Data Scientist,Mumbai,Small,65074.0,37.3
+9.5,Master,Lead,Hyderabad,Medium,94201.0,59.4
+4.5,Bachelor,Senior Developer,Delhi,Medium,75683.0,45.2
+2.0,Master,Manager,Pune,Medium,92090.0,38.3
+6.3,PhD,Developer,Bangalore,Medium,95990.0,49.7
+0.8,Bachelor,Senior Developer,Hyderabad,Medium,76330.0,35.8
+1.5,Bachelor,Junior Developer,Delhi,Large,62065.0,56.4
+3.5,Bachelor,Lead,Remote,Small,57568.0,66.1
+5.7,Bachelor,Analyst,Pune,Medium,61022.0,40.7
+2.8,Bachelor,Analyst,Delhi,Medium,72645.0,15.2
+2.6,Bachelor,Analyst,Hyderabad,Medium,56695.0,43.8
+2.7,Master,Manager,Pune,Medium,106377.0,40.0
+7.0,Bachelor,Data Scientist,Pune,Medium,94797.0,61.6
+1.7,High School,Developer,Pune,Large,50814.0,37.9
+1.4,Bachelor,Analyst,Pune,Small,42177.0,34.8
+2.7,Master,Analyst,Delhi,Medium,71646.0,49.4
+7.6,Bachelor,Junior Developer,Pune,Small,48717.0,65.5
+1.9,Bachelor,Senior Developer,Delhi,Small,66060.0,21.8
+2.7,Master,Analyst,Pune,Medium,63314.0,29.9
+0.8,Bachelor,Lead,Pune,Small,61497.0,31.3
+2.8,Bachelor,Senior Developer,Hyderabad,Large,78959.0,39.4
+3.9,Master,Data Scientist,Delhi,Large,112101.0,39.4
+1.1,High School,Senior Developer,Remote,Medium,44932.0,37.6
+7.0,PhD,Developer,Delhi,Medium,72467.0,61.0
+3.9,High School,Junior Developer,Mumbai,Medium,49192.0,58.9
+2.2,High School,Manager,Remote,Large,72256.0,42.4
+3.9,Master,Developer,Hyderabad,Medium,76080.0,33.2
+4.7,Bachelor,Data Scientist,Delhi,Small,77153.0,42.6
+0.6,Master,Lead,Hyderabad,Medium,71820.0,31.0
+4.0,Master,Data Scientist,Remote,Medium,89157.0,47.1
+7.5,Master,Data Scientist,Hyderabad,Medium,106033.0,56.4
+1.7,PhD,Senior Developer,Hyderabad,Large,92138.0,55.6
+2.2,Bachelor,Lead,Bangalore,Large,89560.0,32.0
+2.5,Master,Developer,Delhi,Medium,69921.0,41.3
+5.7,High School,Data Scientist,Hyderabad,Medium,77782.0,70.6
+1.3,Bachelor,Developer,Bangalore,Large,55104.0,28.0
+4.6,Master,Analyst,Bangalore,Small,64808.0,45.3
+2.6,Bachelor,Analyst,Pune,Medium,71519.0,28.4
+9.8,Bachelor,Analyst,Pune,Small,78081.0,60.2
+2.7,Bachelor,Manager,Remote,Large,79241.0,30.3
+0.3,Bachelor,Senior Developer,Delhi,Medium,73328.0,41.4
+5.2,PhD,Developer,Pune,Small,69401.0,47.1
+4.4,High School,Analyst,Remote,Large,69192.0,33.8
+3.8,Bachelor,Analyst,Delhi,Medium,60196.0,49.8
+7.3,Master,Lead,Remote,Large,90454.0,53.7
+0.6,Bachelor,Data Scientist,Bangalore,Small,75876.0,41.3
+1.5,High School,Analyst,Bangalore,Medium,43472.0,23.0
+3.2,Bachelor,Manager,Delhi,Medium,79294.0,43.3
+3.6,Bachelor,Lead,Remote,Medium,66653.0,48.5
+2.9,High School,Senior Developer,Remote,Medium,60607.0,34.5
+0.8,Master,Manager,Pune,Large,104716.0,19.8
+2.2,Bachelor,Manager,Pune,Medium,92660.0,36.2
+9.3,Master,Manager,Delhi,Large,127953.0,70.2
+1.2,Master,Data Scientist,Mumbai,Small,80033.0,44.9
+3.2,Bachelor,Analyst,Pune,Small,50836.0,35.3
+4.6,High School,Junior Developer,Hyderabad,Small,28108.0,31.0
+5.6,Bachelor,Manager,Pune,Medium,91517.0,42.5
+5.2,High School,Lead,Mumbai,Medium,68662.0,40.9
+2.1,Master,Lead,Remote,Large,97324.0,40.8
+1.5,High School,Senior Developer,Bangalore,Medium,66601.0,33.4
+9.8,Bachelor,Developer,Bangalore,Medium,63067.0,51.9
+6.0,Bachelor,Developer,Remote,Medium,67250.0,59.0
+3.4,Bachelor,Junior Developer,Bangalore,Small,42708.0,41.6
+8.2,Bachelor,Data Scientist,Pune,Small,85329.0,59.0
+0.9,Bachelor,Analyst,Bangalore,Medium,46205.0,15.5
+0.3,High School,Data Scientist,Mumbai,Medium,57142.0,6.7
+3.6,High School,Analyst,Mumbai,Medium,57353.0,26.4
+3.7,Bachelor,Manager,Pune,Medium,95718.0,36.3
+0.9,Master,Analyst,Remote,Medium,59429.0,38.5
+5.9,Bachelor,Junior Developer,Hyderabad,Medium,68161.0,24.3
+0.4,Bachelor,Senior Developer,Pune,Large,78679.0,47.1
+4.2,Bachelor,Senior Developer,Bangalore,Small,56133.0,44.3
+4.9,Bachelor,Developer,Pune,Medium,57047.0,58.3
+3.6,Master,Senior Developer,Mumbai,Medium,103015.0,31.9
+0.7,High School,Manager,Pune,Large,73459.0,37.1
+7.3,Bachelor,Lead,Pune,Small,80826.0,52.8
+2.2,Master,Senior Developer,Hyderabad,Medium,74818.0,44.8
+2.2,Master,Junior Developer,Mumbai,Medium,66055.0,34.3
+1.8,High School,Manager,Delhi,Medium,87738.0,40.1
+5.3,Bachelor,Senior Developer,Delhi,Small,61510.0,56.9
+2.1,Master,Data Scientist,Mumbai,Small,94151.0,29.8
+1.1,High School,Analyst,Delhi,Medium,66970.0,35.7
+6.3,Master,Senior Developer,Bangalore,Medium,88130.0,30.0
